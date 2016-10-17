@@ -8,7 +8,7 @@
 
 ## Memory Networks
 
-### Memory Networks (I)
+### [Memory Networks (I)](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(I))
 - ICLR15-Facebook-MEMORY NETWORKS.pdf
 - NIPS15-NYU-End-To-End Memory Networks.pdf
 - Variant
