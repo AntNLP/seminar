@@ -24,6 +24,7 @@
 ### [Memory Networks ( II ) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
 - Code
   - [tensorflow MemN2N](https://github.com/domluna/memn2n)
+  - MemN2N--CodeAnalysis.pptx
 - Memory Networks
   - 1. arXiv16-Bengio-Hierachical Memory Networks
 - Neural Turing Machines
