@@ -22,12 +22,13 @@
   - MemNN.ppt
 
 ### [Memory Networks ( II ) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
-- Memory Networks
-  - arXiv16-Bengio-Hierachical Memory Networks
-  - arXiv16-XRCE-Gated End-to-End Memory Networks
 - Code
-  - tensorflow MemN2N
+  - [tensorflow MemN2N](https://github.com/domluna/memn2n)
+  - MemN2N--CodeAnalysis.pptx
+- Memory Networks
+  - 1. arXiv16-Bengio-Hierachical Memory Networks
 - Neural Turing Machines
-  - arXiv14-DeepMind-Neural Turing Machines
-  - nature20101-DeepMind-Hybrid computing using a neural network with dynamic external memory
-
+  - 2. arXiv14-DeepMind-Neural Turing Machines
+  - 3. nature20101-DeepMind-Hybrid computing using a neural network with dynamic external memory
+-Slides
+  - NTM.ppt
