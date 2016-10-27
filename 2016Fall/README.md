@@ -33,7 +33,7 @@
 -Slides
   - NTM.ppt
 
-### [Word Embeddings]()
+### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings)
 - Bengio et al. - 2003 - A neural probabilistic language model
 - Collobert et al. - 2011 - Natural language processing (almost) from scratch
 - Huang et al. - 2012 - Improving Word Representations via Global Contex
@@ -43,3 +43,4 @@
 - Mikolov et al. - 2013 - Efficient estimation of word representations in Vector Space
 - Mnih and Kavukcuoglu - 2013 - Learning word embeddings efficiently with noise-contrastive estimation
 - Pennington et al. - 2014 - Glove Global Vectors for Word Representation
+- slides-word_embedding.pdf
