@@ -32,3 +32,6 @@
   - 3. nature20101-DeepMind-Hybrid computing using a neural network with dynamic external memory
 -Slides
   - NTM.ppt
+
+### [Word Embeddings]()
+- 
