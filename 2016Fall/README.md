@@ -33,7 +33,7 @@
 -Slides
   - NTM.ppt
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I)
+### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I))
 - NNLM
   - Bengio et al. - 2003 - A neural probabilistic language model
 - C&W
@@ -49,7 +49,7 @@
   - code: https://github.com/stanfordnlp/GloVe
 - Sides
   - slides-word_embedding.pdf
-  - slides-Multiple Word Prototypes
+  - slides-MultiplePrototypes.pdf
 
 ### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
 - NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factoriza
