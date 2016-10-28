@@ -33,7 +33,7 @@
 -Slides
   - NTM.ppt
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings)
+### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I)
 - NNLM
   - Bengio et al. - 2003 - A neural probabilistic language model
 - C&W
@@ -51,7 +51,7 @@
   - slides-word_embedding.pdf
   - slides-Multiple Word Prototypes
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings)
+### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
 - NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factoriza
 - ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - ACL15-CMU-Sparse Overcomplete Word Vector Representations
