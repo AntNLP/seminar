@@ -38,7 +38,7 @@
   - Bengio et al. - 2003 - A neural probabilistic language model
 - C&W
   - Collobert et al. - 2011 - Natural language processing (almost) from scratch
-- Huang et al. - 2012 - Improving Word Representations via Global Context
+- Huang et al. - 2012 - Improving Word Representations via Global Context and Multiple Word Prototypes
 - Mnih and Kavukcuoglu - 2013 - Learning word embeddings efficiently with noise-contrastive estimation
 - CBOW & Skip-gram
   - Mikolov et al. - 2013 - Distributed representations of words and phrases and their Compositionality
@@ -47,7 +47,12 @@
 - GloVe
   - Pennington et al. - 2014 - Glove Global Vectors for Word Representation
   - code: https://github.com/stanfordnlp/GloVe
-- Levy and Goldberg - 2014 - Neural word embedding as implicit matrix factoriza
-- Ioffe and Szegedy - 2015 - Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - Sides
   - slides-word_embedding.pdf
+  - slides-Multiple Word Prototypes
+
+### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings)
+- NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factoriza
+- ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift
+- ACL15-CMU-Sparse Overcomplete Word Vector Representations
+- ACL16-PKU-Compressing Neural Language Models by Sparse Word Representations
