@@ -52,7 +52,8 @@
   - slides-MultiplePrototypes.pdf
 
 ### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
+- **ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift**
+- **arXiv16-Learning Efficient Algorithms with Hierarchical Attentive Memory**
 - NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factoriza
-- ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift
 - ACL15-CMU-Sparse Overcomplete Word Vector Representations
 - ACL16-PKU-Compressing Neural Language Models by Sparse Word Representations
