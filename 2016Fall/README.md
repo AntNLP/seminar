@@ -70,7 +70,3 @@
   - Slides-Optimizing Word Embedding & Hierachical Attentive Memory.ppt
   - Slides-MF & BN.pdf
 
-
-### [Dependency Parsing]()
--
--
