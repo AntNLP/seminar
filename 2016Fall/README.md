@@ -6,6 +6,31 @@
 - https://arxiv.org/list/cs.CL/recent
 - http://aclweb.org/anthology/
 
+## DependencyParsing
+
+### [DependencyParsing](https://github.com/AntNLP/seminar/tree/master/2016Fall/DependencyParsing)
+- [Tutorial from Mcdonald and Nirve](http://www.ryanmcd.com/courses/esslli2007/)
+  - IntroToDataDrivenDependencyParsing1(Outline)
+  - IntroToDataDrivenDependencyParsing2(Machine Learning)
+  - IntroToDataDrivenDependencyParsing3(Transition-based Models)
+  - IntroToDataDrivenDependencyParsing4(Graph-based Models)
+  - IntroToDataDrivenDependencyParsing5(Loose End)
+- Graph based dependency parsing 
+  - [COLING96] Three new probabilistic models for dependency parsing: An exploration
+  - [EMNLP05] Non-projective Dependency Parsing using Spanning Tree Algorithms
+- Transition based dependency parsing
+  - [CL08] Algorithms for Deterministic IncrementalDependency Parsing
+  - [ACL10] Dynamic Programming for Linear-Time Incremental Parsing
+  - [TACL13] Training Deterministic Parsers with Non-Deterministic Oracles
+- Dependency parsing in NN
+  - Deep Biaffine Attention For Neural Dependency Parsing
+  - Structured Training for Neural Network Transition-Based Parsing
+- Slides
+  - Three New Probabilistic Models.pptx
+  - DEEP BIAFFINE ATTENTION.pptx
+  - Structured Training for Neural Network Transition-Based Parsing acl15slides.pptx
+
+
 ## Memory Networks
 
 ### [Memory Networks (I)](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(I))
