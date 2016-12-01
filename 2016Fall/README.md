@@ -1,5 +1,9 @@
 # AntNLP seminar slides -- 2016 Fall
 
+Time: 9:00 am, Friday
+
+Venue: Science Building B914
+
 ## Ref
 - http://nlp.stanford.edu/read/
 - https://nndl.github.io/seminar2016fall
@@ -46,7 +50,7 @@
   - Memory Network.pptx
   - MemNN.ppt
 
-### [Memory Networks ( II ) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
+### [Memory Networks (II) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
 - Code
   - [tensorflow MemN2N](https://github.com/domluna/memn2n)
   - MemN2N--CodeAnalysis.pptx
@@ -58,7 +62,8 @@
 -Slides
   - NTM.ppt
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I))
+## Word Embedding
+### [Word Embeddings (I) -- Basic Concepts](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I))
 - NNLM
   - Bengio et al. - 2003 - A neural probabilistic language model
 - C&W
@@ -76,7 +81,7 @@
   - slides-word_embedding.pdf
   - slides-MultiplePrototypes.pdf
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
+### [Word Embeddings (II) -- Co-occur Matrix and Sparsity](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
 - word2vec as matrix factorization
   - **NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factorization**
 - Optimizing Word Representation
