@@ -19,7 +19,7 @@ Venue: Science Building B914
   - IntroToDataDrivenDependencyParsing3(Transition-based Models)
   - IntroToDataDrivenDependencyParsing4(Graph-based Models)
   - IntroToDataDrivenDependencyParsing5(Loose End)
-- Graph based dependency parsing 
+- Graph based dependency parsing
   - [COLING96] Three new probabilistic models for dependency parsing: An exploration
   - [EMNLP05] Non-projective Dependency Parsing using Spanning Tree Algorithms
 - Transition based dependency parsing
@@ -94,9 +94,18 @@ Venue: Science Building B914
     - NAACL16-USTC-Improve ChineseWord Embeddings by Exploiting Internal Structure
 - Hierarchical Attentive Memory
   - **arXiv16-Learning Efficient Algorithms with Hierarchical Attentive Memory**
-- Batch Normalization   
+- Batch Normalization
   - **ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 - Slides
   - Slides-Optimizing Word Embedding & Hierachical Attentive Memory.ppt
   - Slides-MF & BN.pdf
 
+## GANs
+### [GANS (I)](https://github.com/AntNLP/seminar/tree/master/2016Fall/GANs%20(I))
+- Goodfellow-2014-Generative-adversarial-nets.pdf
+- Slides
+  - Slides-Gans.pdf
+
+### [GANS (II)](https://github.com/AntNLP/seminar/tree/master/2016Fall/GANs%20(II))
+- Slides
+  - Slides-2016-12-04-NIPS.pdf
