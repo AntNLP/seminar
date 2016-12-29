@@ -109,3 +109,12 @@ Venue: Science Building B914
 ### [GANS (II)](https://github.com/AntNLP/seminar/tree/master/2016Fall/GANs%20(II))
 - Slides
   - Slides-2016-12-04-NIPS.pdf
+
+## clab/dynet
+- Slides
+	- dyer-goldberg-neubig-t1.pdf
+	- dyer-goldberg-neubig-t1b.pdf
+- Ref
+	- [github](https://github.com/clab/dynet)
+	- [document](http://dynet.readthedocs.io/en/latest/index.html)
+	- [tuturial code](https://github.com/clab/dynet_tutorial_examples)
