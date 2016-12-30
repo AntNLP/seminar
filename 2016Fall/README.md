@@ -15,9 +15,9 @@ Venue: Science Building B914
 - https://arxiv.org/list/cs.CL/recent
 - http://aclweb.org/anthology/
 
-## DependencyParsing
+## Dependency Parsing
 
-### [DependencyParsing](https://github.com/AntNLP/seminar/tree/master/2016Fall/DependencyParsing)
+### [Dependency Parsing](https://github.com/AntNLP/seminar/tree/master/2016Fall/Dependency%20Parsing)
 - [Tutorial from Mcdonald and Nirve](http://www.ryanmcd.com/courses/esslli2007/)
   - IntroToDataDrivenDependencyParsing1(Outline)
   - IntroToDataDrivenDependencyParsing2(Machine Learning)
