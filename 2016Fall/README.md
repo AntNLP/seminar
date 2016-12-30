@@ -4,6 +4,11 @@ Time: 9:00 am, Friday
 
 Venue: Science Building B914
 
+**Upcoming: 2017 Spring**
+- Dependency Parsing
+- Question Answering
+
+
 ## Ref
 - http://nlp.stanford.edu/read/
 - https://nndl.github.io/seminar2016fall
