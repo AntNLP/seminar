@@ -4,6 +4,8 @@ Time: 18:00 pm, Thursday
 
 Venue: - Building 205
 
+Ref:
+- https://slack-files.com/T22T1UP8Q-F3NLV86BY-7c6fa07e17
 
 ## Dependency Parsing
 
