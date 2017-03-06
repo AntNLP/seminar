@@ -1,21 +1,30 @@
 # AntNLP seminar slides -- 2016 Fall
 
+Time: 9:00 am, Friday
+
+Venue: Science Building B914
+
+**Upcoming: 2017 Spring**
+- Dependency Parsing
+- Question Answering
+
+
 ## Ref
 - http://nlp.stanford.edu/read/
 - https://nndl.github.io/seminar2016fall
 - https://arxiv.org/list/cs.CL/recent
 - http://aclweb.org/anthology/
 
-## DependencyParsing
+## Dependency Parsing
 
-### [DependencyParsing](https://github.com/AntNLP/seminar/tree/master/2016Fall/DependencyParsing)
+### [Dependency Parsing](https://github.com/AntNLP/seminar/tree/master/2016Fall/Dependency%20Parsing)
 - [Tutorial from Mcdonald and Nirve](http://www.ryanmcd.com/courses/esslli2007/)
   - IntroToDataDrivenDependencyParsing1(Outline)
   - IntroToDataDrivenDependencyParsing2(Machine Learning)
   - IntroToDataDrivenDependencyParsing3(Transition-based Models)
   - IntroToDataDrivenDependencyParsing4(Graph-based Models)
   - IntroToDataDrivenDependencyParsing5(Loose End)
-- Graph based dependency parsing 
+- Graph based dependency parsing
   - [COLING96] Three new probabilistic models for dependency parsing: An exploration
   - [EMNLP05] Non-projective Dependency Parsing using Spanning Tree Algorithms
 - Transition based dependency parsing
@@ -46,7 +55,7 @@
   - Memory Network.pptx
   - MemNN.ppt
 
-### [Memory Networks ( II ) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
+### [Memory Networks (II) -- Neural Turing Machines](https://github.com/AntNLP/seminar/tree/master/2016Fall/Memory%20Networks%20(II)%20--%20Neural%20Turing%20Machines)
 - Code
   - [tensorflow MemN2N](https://github.com/domluna/memn2n)
   - MemN2N--CodeAnalysis.pptx
@@ -58,7 +67,8 @@
 -Slides
   - NTM.ppt
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I))
+## Word Embedding
+### [Word Embeddings (I) -- Basic Concepts](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(I))
 - NNLM
   - Bengio et al. - 2003 - A neural probabilistic language model
 - C&W
@@ -76,7 +86,7 @@
   - slides-word_embedding.pdf
   - slides-MultiplePrototypes.pdf
 
-### [Word Embeddings](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
+### [Word Embeddings (II) -- Co-occur Matrix and Sparsity](https://github.com/AntNLP/seminar/tree/master/2016Fall/Word%20Embeddings%20(II))
 - word2vec as matrix factorization
   - **NIPS14-Levy and Goldberg-Neural word embedding as implicit matrix factorization**
 - Optimizing Word Representation
@@ -89,9 +99,27 @@
     - NAACL16-USTC-Improve ChineseWord Embeddings by Exploiting Internal Structure
 - Hierarchical Attentive Memory
   - **arXiv16-Learning Efficient Algorithms with Hierarchical Attentive Memory**
-- Batch Normalization   
+- Batch Normalization
   - **ICML15-Ioffe and Szegedy-Batch Normalization Accelerating Deep Network Training by Reducing Internal Covariate Shift**
 - Slides
   - Slides-Optimizing Word Embedding & Hierachical Attentive Memory.ppt
   - Slides-MF & BN.pdf
 
+## GANs
+### [GANS (I)](https://github.com/AntNLP/seminar/tree/master/2016Fall/GANs%20(I))
+- Goodfellow-2014-Generative-adversarial-nets.pdf
+- Slides
+  - Slides-Gans.pdf
+
+### [GANS (II)](https://github.com/AntNLP/seminar/tree/master/2016Fall/GANs%20(II))
+- Slides
+  - Slides-2016-12-04-NIPS.pdf
+
+## clab/dynet
+- Slides
+	- dyer-goldberg-neubig-t1.pdf
+	- dyer-goldberg-neubig-t1b.pdf
+- Ref
+	- [github](https://github.com/clab/dynet)
+	- [document](http://dynet.readthedocs.io/en/latest/index.html)
+	- [tuturial code](https://github.com/clab/dynet_tutorial_examples)
