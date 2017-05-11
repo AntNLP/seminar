@@ -29,4 +29,9 @@ Ref:
 - [ACL16] Easy Questions First? A Case Study on Curriculum Learning for Question Answering
 - [NAACL16] Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking 
 
-## GAN
+## WGAN
+
+- [arxiv17] Wasserstein GAN
+- [ACL17] Adversarial Multi-Criteria Learning for Chinese Word Segmentation
+- [ACL17] Adversarial Multi-task Learning for Text Classification
+
