@@ -28,6 +28,8 @@ Ref:
 ## Question Answering
 - [ACL16] Easy Questions First? A Case Study on Curriculum Learning for Question Answering
 - [NAACL16] Convolutional Neural Networks vs. Convolution Kernels: Feature Engineering for Answer Sentence Reranking 
+- [ACL17] Sequential Match Network_ A New Architecture for Multi-turn Response
+- [ACL17] Reading Wikipedia to Answer Open-Domain Questions
 
 ## WGAN
 
