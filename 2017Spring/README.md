@@ -37,3 +37,12 @@ Ref:
 - [ACL17] Adversarial Multi-Criteria Learning for Chinese Word Segmentation
 - [ACL17] Adversarial Multi-task Learning for Text Classification
 
+## Question Answering II
+- [ACL17] R-NET, SQUAD, Self-Attention
+- [AAAI16] SeqGAN, policy gradient net
+
+## Summerization
+- Socher **A Deep Reinforced Model for Abstractive Summarization**
+- Ref
+  - [EMNLP15] A Neural Attention Model for Abstractive Sentence Summarization
+  - [NAACL16] Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
