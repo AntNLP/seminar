@@ -41,7 +41,7 @@ Ref:
 - [ACL17] R-NET, SQUAD, Self-Attention
 - [AAAI16] SeqGAN, policy gradient net
 
-## Summerization
+## Summarization
 - Socher **A Deep Reinforced Model for Abstractive Summarization**
 - Ref
   - [EMNLP15] A Neural Attention Model for Abstractive Sentence Summarization
