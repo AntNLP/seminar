@@ -46,3 +46,8 @@ Ref:
 - Ref
   - [EMNLP15] A Neural Attention Model for Abstractive Sentence Summarization
   - [NAACL16] Abstractive Sentence Summarization with Attentive Recurrent Neural Networks
+  
+  
+## ADVERSARIAL TRAINING & KDD
+- Goodfellow **ADVERSARIAL TRAINING METHODS FOR SEMI-SUPERVISED TEXT CLASSIFICATION**
+- KDD **KDD-ATVEnsemblePrediction**
