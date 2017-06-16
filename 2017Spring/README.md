@@ -55,5 +55,5 @@ Ref:
 
 ## IRGAN
 - [SIGIR17] IRGAN A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models
-- [sllides] IRGAN_Qin Chen_2017.06.15
+- [slides] IRGAN_Qin Chen_2017.06.15
 - [code] https://github.com/geek-ai/irgan
