@@ -51,3 +51,8 @@ Ref:
 ## ADVERSARIAL TRAINING & KDD
 - Goodfellow **ADVERSARIAL TRAINING METHODS FOR SEMI-SUPERVISED TEXT CLASSIFICATION**
 - KDD **KDD-ATVEnsemblePrediction**
+
+
+## IRGAN
+- [SIGIR17] IRGAN A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models
+- [sllides] IRGAN_Qin Chen_2017.06.15
