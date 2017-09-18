@@ -28,7 +28,7 @@ Venue: - TBD
 - It would be great to keep your presentation within 60 min.   
 
 ## For Audiences   
-- Please at least read abstract/introduction sections before the seminar  
+- Please read abstract/introduction sections before the seminar  
 
 ## Agenda 
 
