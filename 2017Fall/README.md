@@ -34,7 +34,8 @@ Venue: - TBD
 
 Week | Name | Paper | Slides
 ---- | ---- | ----- | ------
-1    |李晨瑞 | paper1 </br> paper2 | slides1 </br> slides2
+1    |李晨瑞 | [ACL17] An End‐to‐End Model for Question Answering over Knowledge
+               Base with Cross‐Attention Combining Global Knowledge </br> paper2 | slides1 </br> slides2
 1    |周杰   |   | 
 2    |田俊峰 |  |
 2    |陈嘉仪 |  |
