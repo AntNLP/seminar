@@ -34,7 +34,7 @@ Venue: - TBD
 
 Week | Name | Paper | Slides
 ---- | ---- | ----- | ------
-1    |李晨瑞 | [ACL17] An End‐to‐End Model for Question Answering over  KnowledgeBase </br> with Cross‐Attention Combining Global Knowledge | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/An%20End-to-End%20Model%20for%20Question%20Answering%20over%20Knowledge%20Base%20with%20Cross-Attention%20Combining%20Global%20Knowledge-slide.pdf)
+1    |李晨瑞 | [ACL17] An End‐to‐End Model for Question Answering over  KnowledgeBase </br> with Cross‐Attention Combining Global Knowledge </br> Globally Normalized Reader | [slide1](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/An%20End-to-End%20Model%20for%20Question%20Answering%20over%20Knowledge%20Base%20with%20Cross-Attention%20Combining%20Global%20Knowledge-slide.pdf)</br> [slide2]()
 1    |周杰   |   | 
 2    |田俊峰 |  |
 2    |陈嘉仪 |  |
