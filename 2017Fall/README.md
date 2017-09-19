@@ -21,7 +21,7 @@ Venue: - TBD
 - Materials with broad interests are welcome (e.g., tutorials form top conferences, high quality surveys).  
 
 ## For Presenters
-- Please fill your slots in the [Agenda](Agenda) **at least one week** before your presentation.  
+- Please fill your slots in the [Agenda](#Agenda) **at least one week** before your presentation.  
   - Use the format *[venue+year]title" in the Paper column (e.g. [ACL17]A Good Paper).   
   - Please upload your slides, and also add the links to them in the Slides column.  
 - Besides technical novelties, please give enough background knowledge in case people are unfamiliar with the topic.    
