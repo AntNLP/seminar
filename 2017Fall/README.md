@@ -34,8 +34,16 @@ Venue: - TBD
 
 Week | Name | Paper | Slides
 ---- | ---- | ----- | ------
-1    |李晨瑞 | [ACL17] An End‐to‐End Model for Question Answering over  KnowledgeBase </br> with Cross‐Attention Combining Global Knowledge </br> [EMNLP17] Globally Normalized Reader | [slide1](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/An%20End-to-End%20Model%20for%20Question%20Answering%20over%20Knowledge%20Base%20with%20Cross-Attention%20Combining%20Global%20Knowledge-slide.pdf)</br> [slide2](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/Globally%20Normalized%20Reader-slide.pdf)
-1    |周杰   |   | 
+1    |李晨瑞 | 1. [ACL17] An End‐to‐End Model for Question Answering over  KnowledgeBase </br> 
+                    with Cross‐Attention Combining Global Knowledge </br> 
+               2. [EMNLP17] Globally Normalized Reader 
+             | [slide1](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/An%20End-to-End%20Model%20for%20Question%20Answering%20over%20Knowledge%20Base%20with%20Cross-Attention%20Combining%20Global%20Knowledge-slide.pdf)</br> 
+               [slide2](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/Globally%20Normalized%20Reader-slide.pdf)
+1    |周杰   | 1. [AAAI17] Interactive Neural Networks for Answer Selection in Community Question Answering  <br/>
+               2. [AAAI17] Improving Word Embeddings with Convolutional Feature Learning and Subword Information <br/>
+               3. [SIGIR17] Neural Ranking Models with Weak Supervision
+             |  [slide](/week1/slides-ZHOUJie-0920.pdf)
+             
 2    |田俊峰 |  |
 2    |陈嘉仪 |  |
 3    |孙长志 |  |
@@ -69,7 +77,7 @@ Week | Name | Paper | Slides
 17    |韦阳   |  |
 17    |修玉环 |  |
 18    |孙问樵 |  |
-18    |       |  |
+18    |陈诗韵 |  |
 
 
 
