@@ -48,7 +48,7 @@ Week   | Speaker   | Paper   | Slides
 6    |杨瑞达 |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
-8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models </br> 2. [ACL17] Deep Multitask Learning for Semantic Dependency Parsing |
+8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models | [slides](./week8/slides-weiyang-17-1161.pdf)
 8    |修玉环 |  |
 9    |李晨瑞 |  |
 9    |周杰   |   | 
