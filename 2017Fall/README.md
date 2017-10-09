@@ -36,7 +36,7 @@ Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:   
 1    |李晨瑞 | 1. [ACL17] An End‐to‐End Model for Question Answering over  KnowledgeBase with Cross‐Attention Combining Global Knowledge </br> 2. [EMNLP17] Globally Normalized Reader | [slides1](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/An%20End-to-End%20Model%20for%20Question%20Answering%20over%20Knowledge%20Base%20with%20Cross-Attention%20Combining%20Global%20Knowledge-slide.pdf)</br> [slides2](https://github.com/AntNLP/seminar/blob/master/2017Fall/week1/Globally%20Normalized%20Reader-slide.pdf)
 1    |周杰   | 1. [AAAI17] Interactive Neural Networks for Answer Selection in Community Question Answering  <br/> 2. [AAAI17] Improving Word Embeddings with Convolutional Feature Learning and Subword Information <br/>  3. [SIGIR17] Neural Ranking Models with Weak Supervision |  [slides](./week1/slides-ZHOUJie-0920.pdf)
-2    |田俊峰 | [Cross-lingual] [Word Embedding] <br/> 1. [ArXiv13] Exploiting Similarities among Languages for Machine Translation <br/> 2.[ICLR17] OFFLINE BILINGUAL WORD VECTORS <br/> 3.[ACL17] Unsupervised Bilingual Lexicon Induction  | 
+2    |田俊峰 | [Cross-lingual] [Word Embedding] <br/> 1. [ArXiv13] Exploiting Similarities among Languages for Machine Translation <br/> 2. [ICLR17] OFFLINE BILINGUAL WORD VECTORS <br/> 3. [ACL17] Unsupervised Bilingual Lexicon Induction  | [slides](./week2/cross-lingual_embeddings/slides-cross-lingual-word-embeddings.pdf)
 2    |陈嘉仪 | 1. [ACL16]Query Expansion with Locally-Trained Word Embeddings  <br/> 2. [SIGIR17]Relevance-Based Word Embedding | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week2/Word%20Embedding%20%26%20Query/Word%20Embedding%20%26%20Query.pdf)
 3    |孙长志 |  |
 3    |白庆春 | [Reading Comprehension] <br/> 1. [ACL2017 ] Attention-over-Attention Neural Networks for Reading Comprehension <br/> 2.[ACL2016] Text Understanding with the Attention Sum Reader Network <br/> 3.[ACL 2017] Gated-Attention Readers for Text Comprehension Codes: https://github.com/bdhingra/ga-reader |
@@ -48,7 +48,7 @@ Week   | Speaker   | Paper   | Slides
 6    |杨瑞达 |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
-8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models </br> 2. [ACL17] Deep Multitask Learning for Semantic Dependency Parsing |
+8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models | [slides](./week8/slides-weiyang-17-1161.pdf)
 8    |修玉环 |  |
 9    |李晨瑞 |  |
 9    |周杰   |   | 
