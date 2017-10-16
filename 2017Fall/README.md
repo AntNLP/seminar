@@ -41,11 +41,11 @@ Week   | Speaker   | Paper   | Slides
 3    |孙长志 | 1. [ACL17] Bandit Structured Prediction for Neural Sequence-to-Sequence Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week3/slide-bandit-struct-pred-for-neural-seq2seq-learning.pdf)
 3    |白庆春 | [Reading Comprehension] <br/> 1. [ACL2017 ] Attention-over-Attention Neural Networks for Reading Comprehension <br/> 2.[ACL2016] Text Understanding with the Attention Sum Reader Network <br/> 3.[ACL 2017] Gated-Attention Readers for Text Comprehension Codes: https://github.com/bdhingra/ga-reader |
 4    |周志恒 |  |
-4    |陈素   |  |
+4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence |
 5    |纪焘   |  |
 5    |陈璐   |  |
 6    |周云晓 |  |
-6    |杨瑞达 |  |
+6    |陈素   |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
 8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models | [slides](./week8/slides-weiyang-17-1161.pdf)
