@@ -43,7 +43,7 @@ Week   | Speaker   | Paper   | Slides
 4    |周志恒 |  |
 4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence |
 5    |纪焘   |  |
-5    |陈璐   |  |
+5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction |
 6    |周云晓 |  |
 6    |陈素   |  |
 7    |杜雨沛 |  |
