@@ -4,6 +4,7 @@ Time: 18:00 pm, Wednesday
 
 Venue: - TBD
 
+
 ## On Papers
 - Please choose recent papers (2017, 2016) from top NLP/AI venues. A (incomplete) list is
   - NLP: ACL, TACL, EMNLP, NAACL, EACL  
@@ -38,17 +39,17 @@ Week   | Speaker   | Paper   | Slides
 1    |周杰   | 1. [AAAI17] Interactive Neural Networks for Answer Selection in Community Question Answering  <br/> 2. [AAAI17] Improving Word Embeddings with Convolutional Feature Learning and Subword Information <br/>  3. [SIGIR17] Neural Ranking Models with Weak Supervision |  [slides](./week1/slides-ZHOUJie-0920.pdf)
 2    |田俊峰 | [Cross-lingual] [Word Embedding] <br/> 1. [ArXiv13] Exploiting Similarities among Languages for Machine Translation <br/> 2. [ICLR17] OFFLINE BILINGUAL WORD VECTORS <br/> 3. [ACL17] Unsupervised Bilingual Lexicon Induction  | [slides](./week2/cross-lingual_embeddings/slides-cross-lingual-word-embeddings.pdf)
 2    |陈嘉仪 | 1. [ACL16]Query Expansion with Locally-Trained Word Embeddings  <br/> 2. [SIGIR17]Relevance-Based Word Embedding | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week2/Word%20Embedding%20%26%20Query/Word%20Embedding%20%26%20Query.pdf)
-3    |孙长志 |  |
-3    |白庆春 | [Reading Comprehension] <br/> 1. [ACL2017 ] Attention-over-Attention Neural Networks for Reading Comprehension <br/> 2.[ACL2016] Text Understanding with the Attention Sum Reader Network <br/> 3.[ACL 2017] Gated-Attention Readers for Text Comprehension Codes: https://github.com/bdhingra/ga-reader |
-4    |周志恒 |  |
+3    |孙长志 | 1. [ACL17] Bandit Structured Prediction for Neural Sequence-to-Sequence Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week3/slide-bandit-struct-pred-for-neural-seq2seq-learning.pdf)
+3    |白庆春 | [Reading Comprehension] <br/> 1. [ACL2017 ] Attention-over-Attention Neural Networks for Reading Comprehension <br/> 2. [ACL2016] Text Understanding with the Attention Sum Reader Network <br/> 3. [ACL 2017] Gated-Attention Readers for Text Comprehension Codes: https://github.com/bdhingra/ga-reader |
+4    |周志恒 |  1. [EMNLP17] Towards Implicit Content-Introducing for Generative Short-Text Conversation Systems | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week4/slides-Conversation%20Systems.ppt)
 4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence <br/> 3. [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge  | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week4/2017.10.17%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E8%AF%BE.pdf)
-5    |纪焘   |  |
-5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week5/b9432e50f882f834070492bffeef4064.pdf)
+5    |纪焘   | [seq2seq parsing model][Multi-layer Attention] <br/> 1. [EMNLP17]Stack-based Multi-layer Attention for Transition-based Dependency Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week5/slides-Multi-layer-Attention.pdf)
+5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week5/b9432e50f882f834070492bffeef4064.pdf)
 6    |周云晓 |  |
 6    |陈素   |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
-8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models | [slides](./week8/slides-weiyang-17-1161.pdf)
+8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models  <br/> 2. [ACL17]  Implicitly-Defined Neural Networks for Sequence Labeling | [slides](./week8/slides-weiyang-17-1161.pdf)
 8    |修玉环 |  |
 9    |李晨瑞 |  |
 9    |周杰   |   | 
@@ -72,8 +73,15 @@ Week   | Speaker   | Paper   | Slides
 18    |陈诗韵 |  |
 
 
-
-
+---
+Update 2017.10.24
+### How to fill the slots and upload your slides?
+- [creating-a-pull-request-from-a-fork/](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+- or you can contact:
+  - SUN  Changzhi,
+  - ZHOU Jie, 
+  - TIAN Junfeng, rgtjf1 [AT] 163 [DOT] com
+- any quesitons, please feel free to contact us.
 
 
 
