@@ -41,9 +41,9 @@ Week   | Speaker   | Paper   | Slides
 3    |孙长志 |  |
 3    |白庆春 | [Reading Comprehension] <br/> 1. [ACL2017 ] Attention-over-Attention Neural Networks for Reading Comprehension <br/> 2.[ACL2016] Text Understanding with the Attention Sum Reader Network <br/> 3.[ACL 2017] Gated-Attention Readers for Text Comprehension Codes: https://github.com/bdhingra/ga-reader |
 4    |周志恒 |  |
-4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence <br/> 3. [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge  |
+4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence <br/> 3. [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge  | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week4/2017.10.17%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E8%AF%BE.pdf)
 5    |纪焘   |  |
-5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction |
+5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week5/b9432e50f882f834070492bffeef4064.pdf)
 6    |周云晓 |  |
 6    |陈素   |  |
 7    |杜雨沛 |  |
