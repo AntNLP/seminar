@@ -45,7 +45,7 @@ Week   | Speaker   | Paper   | Slides
 4    |杨瑞达 | [knowledge base question answering] <br/> 1. [EMNLP2017] Recovering Question Answering Errors via Query Revision <br/> 2. [ACL 2016] Question answering on freebase via relation extraction and textual evidence <br/> 3. [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge  | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week4/2017.10.17%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E8%AF%BE.pdf)
 5    |纪焘   | [seq2seq parsing model][Multi-layer Attention] <br/> 1. [EMNLP17]Stack-based Multi-layer Attention for Transition-based Dependency Parsing <br/> [Self-play reinforcement learning]<br/> 1. [Nature17] Mastering the game of Go without human knowledge| [slides1](https://github.com/AntNLP/seminar/blob/master/2017Fall/week5/slides-Multi-layer-Attention.pdf) <br/> [slides2](https://github.com/AntNLP/seminar/blob/master/2017Fall/week5/slides-go.pdf)
 5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week5/b9432e50f882f834070492bffeef4064.pdf)
-6    |周云晓 | [KR16] Commonsense Causal Reasoning between Short Texts  |
+6    |周云晓 | [KR16] Commonsense Causal Reasoning between Short Texts  | [slides](./week6/slides-ZHOUYunXiao-commonsense_causal_reasoning.pdf)
 6    |陈素   |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
