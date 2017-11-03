@@ -47,7 +47,7 @@ Week   | Speaker   | Paper   | Slides
 5    |陈璐   | [Hierarchical Attention][Dual Attention] <br/> 1. [KDD17]A Context-aware Attention Network for Interactive Question Answering <br/> 2.  [SIGIR17]Leveraging Contextual Sentence Relations for Extractive Summarization Using a Neural Attention Model <br/> 3. [RecSys17]Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week5/b9432e50f882f834070492bffeef4064.pdf)
 6    |周云晓 | [KR16] Commonsense Causal Reasoning between Short Texts  | [slides](./week6/slides-ZHOUYunXiao-commonsense_causal_reasoning.pdf)
 6    |陈素   |  |
-7    |杜雨沛 | [ACL16] Investigating Language Universal and Specific Properties in Word Embeddings | 
+7    |杜雨沛 | [ACL16] Investigating Language Universal and Specific Properties in Word Embeddings | [slides](./Week7/Pre_Nov.8th.pdf)
 7    |盛艺暄 |  |
 8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models  <br/> 2. [ACL17]  Implicitly-Defined Neural Networks for Sequence Labeling | [slides1](./week8/slides-weiyang-TagLM.pdf)<br/>[slides2](./week8/slides-weiyang-INN.pdf)
 8    |修玉环 |  |
