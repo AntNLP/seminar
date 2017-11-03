@@ -49,7 +49,7 @@ Week   | Speaker   | Paper   | Slides
 6    |陈素   |  |
 7    |杜雨沛 |  |
 7    |盛艺暄 |  |
-8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models  <br/> 2. [ACL17]  Implicitly-Defined Neural Networks for Sequence Labeling | [slides](./week8/slides-weiyang-17-1161.pdf)
+8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models  <br/> 2. [ACL17]  Implicitly-Defined Neural Networks for Sequence Labeling | [slides1](./week8/slides-weiyang-TagLM.pdf)<br/>[slides2](./week8/slides-weiyang-INN.pdf)
 8    |修玉环 |  |
 9    |李晨瑞 |  |
 9    |周杰   |   | 
