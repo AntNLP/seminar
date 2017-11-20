@@ -52,7 +52,7 @@ Week   | Speaker   | Paper   | Slides
 8    |韦阳   | 1. [ACL17] Semi-supervised sequence tagging with bidirectional language models  <br/> 2. [ACL17]  Implicitly-Defined Neural Networks for Sequence Labeling | [slides1](./week8/slides-weiyang-TagLM.pdf)<br/>[slides2](./week8/slides-weiyang-INN.pdf)
 8    |修玉环 | 1. [ICCV17] An Empirical Study of Language CNN for Image Captioning | [slides](./week8/Gu_An_Empirical_Study_ICCV_2017_slides.pdf)
 9    |李晨瑞 |  |
-9    |周杰   |   | 
+9    |周杰   |  [GAN][Cross-domain] <br/> 1. [ICLR15] Unsupervised Domain Adaptation by Backpropagation <br/> 2.  [IJCAI17] End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification | 
 10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) |
 10    |陈嘉仪 |  |
 11    |孙长志 |  |
