@@ -56,7 +56,7 @@ Week   | Speaker   | Paper   | Slides
 10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) |
 10    |陈嘉仪 |  |
 11    |孙长志 |  |
-11    |白庆春 |  |
+11    |杜雨沛 |  |
 12    |周云晓 |  |
 12    |陈素   |  |
 13    |纪焘   |  |
@@ -65,7 +65,7 @@ Week   | Speaker   | Paper   | Slides
 14    |许慧敏 |  |
 15    |周志恒 |  |
 15    |杨瑞达 |  |
-16    |杜雨沛 |  |
+16    |白庆春 |  |
 16    |盛艺暄 |  |
 17    |韦阳   |  |
 17    |修玉环 |  |
