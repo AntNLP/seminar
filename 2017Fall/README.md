@@ -53,7 +53,7 @@ Week   | Speaker   | Paper   | Slides
 8    |修玉环 | 1. [ICCV17] An Empirical Study of Language CNN for Image Captioning | [slides](./week8/Gu_An_Empirical_Study_ICCV_2017_slides.pdf)
 9    |李晨瑞 | 1. [arxiv] DCN+: Mixed Objective and Deep Residual Coattention for Question Answering |[slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week9/DCN%2B%20MIXED%20OBJECTIVE%20AND%20DEEP%20RESIDUAL%20COATTENTION%20FOR%20QUESTION%20ANSWERING-slides.pdf)
 9    |周杰   |  [GAN][Cross-domain] <br/> 1. [ICLR15] Unsupervised Domain Adaptation by Backpropagation <br/> 2.  [IJCAI17] End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week9/paper-sharing-zhoujie.pdf)
-10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) |
+10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) | [slides](./week10/A%20Survey%20of%20Multi-task%20Learning.pdf)
 10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions |
 11    |孙长志 |  |
 11    |杜雨沛 |  |
