@@ -56,7 +56,7 @@ Week   | Speaker   | Paper   | Slides
 10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) | [slides](./week10/A%20Survey%20of%20Multi-task%20Learning.pdf)
 10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions |
 11    |孙长志 |  |
-11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) |
+11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
 12    |周云晓 |  |
 12    |陈素   |  |
 13    |纪焘   |  |
