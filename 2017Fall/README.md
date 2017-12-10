@@ -55,7 +55,7 @@ Week   | Speaker   | Paper   | Slides
 9    |周杰   |  [GAN][Cross-domain] <br/> 1. [ICLR15] Unsupervised Domain Adaptation by Backpropagation <br/> 2.  [IJCAI17] End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week9/paper-sharing-zhoujie.pdf)
 10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) | [slides](./week10/A%20Survey%20of%20Multi-task%20Learning.pdf)
 10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions |
-11    |孙长志 |  |
+11    |孙长志 |  |[NIPS-17]Dynamic Routing Between Capsules | [slides] (./week11/slide-dynamic-routing-between-capsules.pdf)
 11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
 12    |周云晓 |  |
 12    |陈素   |  |
