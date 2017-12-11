@@ -57,7 +57,7 @@ Week   | Speaker   | Paper   | Slides
 10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions |
 11    |孙长志 | [NIPS-17]Dynamic Routing Between Capsules | [slides](./week11/slide-dynamic-routing-between-capsules.pdf)
 11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
-12    |周云晓 |  |
+12    |盛艺暄 | [[arXiv]Fusionnet：Fusing via Fully-aware Attention with Application to Machine Comprehension](https://arxiv.org/pdf/1711.07341.pdf) |
 12    |陈素   |  |
 13    |纪焘   |  |
 13    |陈璐   |  |
@@ -66,7 +66,7 @@ Week   | Speaker   | Paper   | Slides
 15    |周志恒 |  |
 15    |杨瑞达 |  |
 16    |白庆春 |  |
-16    |盛艺暄 |  |
+16    |周云晓 |  |
 17    |韦阳   |  |
 17    |修玉环 |  |
 18    |孙问樵 |  |
