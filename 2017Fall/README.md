@@ -54,13 +54,13 @@ Week   | Speaker   | Paper   | Slides
 9    |李晨瑞 | 1. [arxiv] DCN+: Mixed Objective and Deep Residual Coattention for Question Answering |[slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week9/DCN%2B%20MIXED%20OBJECTIVE%20AND%20DEEP%20RESIDUAL%20COATTENTION%20FOR%20QUESTION%20ANSWERING-slides.pdf)
 9    |周杰   |  [GAN][Cross-domain] <br/> 1. [ICLR15] Unsupervised Domain Adaptation by Backpropagation <br/> 2.  [IJCAI17] End-to-End Adversarial Memory Network for Cross-domain Sentiment Classification | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week9/paper-sharing-zhoujie.pdf)
 10    |田俊峰 | 1. [Overview of Multitask (from ruder)](http://ruder.io/multi-task/index.html) 2. [Multitask NLP](http://ruder.io/multi-task-learning-nlp/index.html) | [slides](./week10/A%20Survey%20of%20Multi-task%20Learning.pdf)
-10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions |
+10    |陈嘉仪 | 1.[AAAI-16]Representation Learning of Knowledge Graphs with Entity Descriptions | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week10/Representation%20Learning%20With%20Entity%20Descriptions.pdf)
 11    |孙长志 | [NIPS-17]Dynamic Routing Between Capsules | [slides](./week11/slide-dynamic-routing-between-capsules.pdf)
 11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
 12    |盛艺暄 | [[arXiv]Fusionnet：Fusing via Fully-aware Attention with Application to Machine Comprehension](https://arxiv.org/pdf/1711.07341.pdf) |
-12    |陈素   |  |
+12    |陈素   | [SIGIR17] Sentence-level Sentiment Classification with Weak Supervision  |
 13    |纪焘   |  |
-13    |陈璐   |  |
+13    |陈璐   | [arXiv]DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding  |
 14    |陆兴武 |  |
 14    |许慧敏 |  |
 15    |周志恒 |  |
