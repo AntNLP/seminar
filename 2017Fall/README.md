@@ -58,7 +58,7 @@ Week   | Speaker   | Paper   | Slides
 11    |孙长志 | [NIPS-17]Dynamic Routing Between Capsules | [slides](./week11/slide-dynamic-routing-between-capsules.pdf)
 11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
 12    |盛艺暄 | [[arXiv]Fusionnet：Fusing via Fully-aware Attention with Application to Machine Comprehension](https://arxiv.org/pdf/1711.07341.pdf) |
-12    |陈素   | [SIGIR17] Sentence-level Sentiment Classification with Weak Supervision  |
+12    |陈素   | [SIGIR17] Sentence-level Sentiment Classification with Weak Supervision  | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week12/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB%E8%AF%BE.ppt)
 13    |纪焘   |  |
 13    |陈璐   | [arXiv]DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding  |
 14    |陆兴武 |  |
