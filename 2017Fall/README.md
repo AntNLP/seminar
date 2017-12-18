@@ -67,7 +67,7 @@ Week   | Speaker   | Paper   | Slides
 15    |杨瑞达 |  |
 16    |白庆春 |  |
 16    |周云晓 |  |
-17    |韦阳   |  |
+17    |韦阳   | 1. [EMNLP17] Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources  <br/> 2. [ICLR17]  Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks  <br/> 3. [EMNLP17]  Scientific Information Extraction with Semi-supervised Neural Tagging |
 17    |修玉环 |  |
 18    |孙问樵 |  |
 18    |陈诗韵 |  |
