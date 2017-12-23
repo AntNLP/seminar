@@ -59,7 +59,7 @@ Week   | Speaker   | Paper   | Slides
 11    |杜雨沛 | [[EMNLP16] Inducing Domain-Speciﬁc Sentiment Lexicons from Unlabeled Corpora](http://www.anthology.aclweb.org/D/D16/D16-1057.pdf) | [slides](./Week11/Dec.6th_Seminar.pdf)
 12    |盛艺暄 | [[arXiv]Fusionnet：Fusing via Fully-aware Attention with Application to Machine Comprehension](https://arxiv.org/pdf/1711.07341.pdf) |
 12    |陈素   | [SIGIR17] Sentence-level Sentiment Classification with Weak Supervision  | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week12/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB%E8%AF%BE.ppt)
-13    |纪焘   |  |
+13    |纪焘   | [DP in TBDPs] <br/> 1. [EMNLP17]Fast(er) Exact Decoding and Global Training for Transition-Based Dependency Parsing via a Minimal Feature Set <br/> 2. [ACL11]Dynamic Programming Algorithms for Transition-Based Dependency Parsers | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week13/DP_in_TBDPs.pdf)
 13    |陈璐   | [arXiv]DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding  | [slides](https://github.com/LucilleChen/seminar/blob/master/2017Fall/week13/Directional%20Self-Attention%20Network%20for%20RNN%EF%80%A2CNN-Free%20Language%20Understanding.pdf)
 14    |陆兴武 |  |
 14    |许慧敏 |  |
