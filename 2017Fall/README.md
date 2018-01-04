@@ -63,8 +63,7 @@ Week   | Speaker   | Paper   | Slides
 13    |陈璐   | [arXiv]DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding  | [slides](https://github.com/LucilleChen/seminar/blob/master/2017Fall/week13/Directional%20Self-Attention%20Network%20for%20RNN%EF%80%A2CNN-Free%20Language%20Understanding.pdf)
 14    |陆兴武 | [AAAI17] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues | [slides](./week14/A%20Hierarchical%20Latent%20Variable%20Encoder-Decoder%20Model%20for%20Generating%20Dialogues.pptx)
 14    |许慧敏 | [AAAI17] Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms.pdf | [slides](./week14/AAAI2017-Coupled%20Multi-Layer%20Attentions%20for%20Co-Extraction%20of%20Aspect%20and%20Opinion%20Terms.pptx)
-15    |周志恒 | [AAAI18] Emotional Chatting Machine: Emotional Conversation Generation with Internal
-and External Memory | [slides](https://github.com/zhou-zh/seminar/blob/master/2017Fall/week15/AAAI2018-ECM.ppt)
+15    |周志恒 | [AAAI18] Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory | [slides](https://github.com/zhou-zh/seminar/blob/master/2017Fall/week15/AAAI2018-ECM.ppt)
 15    |杨瑞达 |  |
 16    |白庆春 |  |
 16    |周云晓 |  |
