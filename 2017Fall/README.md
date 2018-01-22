@@ -4,6 +4,7 @@ Time: 18:00 pm, Wednesday
 
 Venue: - TBD
 
+Happy new year! Hope to see you in 2018 Spring. :)
 
 ## On Papers
 - Please choose recent papers (2017, 2016) from top NLP/AI venues. A (incomplete) list is
@@ -66,11 +67,8 @@ Week   | Speaker   | Paper   | Slides
 15    |周志恒 | [AAAI18] Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory | [slides](https://github.com/zhou-zh/seminar/blob/master/2017Fall/week15/AAAI2018-ECM.ppt)
 15    |杨瑞达 | 1.[EMNLP 2017] Question Generation for Question Answering <br/> 2.[ACL 2017] Improved Neural Relation Detection for Knowledge Base Question Answering |  [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week15/2018.1.3%20%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E8%AF%BE.pdf)
 16    |白庆春 | [ICLR18] Unsupervised Machine Translation Using Monolingual Corpora Only | [slides](https://github.com/12190143/seminar/blob/master/2017Fall/week16/Unsupervised%20Machine%20Translation%20Using%20Monolingual%20Corpora%20Only.pdf)
-16    |周云晓 |  |
+16    |周云晓 | [ACL17] A Neural Local Coherence Model  | [slides](Neural%20Local%20Coherence%20Model-slides-YunXiaoZHOU)
 17    |韦阳   | [EMNLP17] Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources | [slides](https://github.com/AntNLP/seminar/blob/master/2017Fall/week17/weiyang-slides-cross-lingual-transfer.pdf)
-17    |修玉环 |  |
-18    |孙问樵 |  |
-18    |陈诗韵 |  |
 
 
 ---
