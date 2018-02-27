@@ -2,13 +2,13 @@
 
 Time: 18:00 pm, Thursday
 
-Venue: - TBD
+Venue: 教书院106
 
 Welcome to AntNLP Seminar 2018 Spring. :)
 
 ## On Papers
 
-- Please choose recent papers (2019, 2017) from top NLP/AI venues. A (incomplete) list is
+- Please choose recent papers (2018, 2017) from top NLP/AI venues. A (incomplete) list is
   - NLP: ACL, TACL, EMNLP, NAACL, EACL
   - ML:  ICML, NIPS, AISTATS, JMLR, ICLR
   - AI:  AAAI, IJCAI
@@ -27,14 +27,14 @@ Welcome to AntNLP Seminar 2018 Spring. :)
 ## For Presenters
 
 - Please fill your slots in the [Agenda](#agenda) **at least one week** before your presentation.
-  - Use the format *[venue+year]title" in the Paper column (e.g. [ACL17]A Good Paper).
-  - Please upload your slides, and also add the links to them in the Slides column.
-- Besides technical novelties, please give enough background knowledge in case people are unfamiliar with the topic.
+  - Please format Paper fields with *[venue+year]title* (e.g. [ACL17]A Good Paper).
+  - Please upload your slides, and add links to them in Slides fields.
+- Besides technical novelties, please give enough background knowledge in case people are unfamiliar with your topic.
 - It would be great to keep your presentation within 60 min.
 
 ## For Audiences
 
-- Please read abstract/introduction sections before the seminar
+- Please read abstract/introduction sections before the seminar.
 
 ## Agenda
 
