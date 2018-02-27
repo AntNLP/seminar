@@ -1,6 +1,6 @@
 # AntNLP Seminar -- 2018 Spring
 
-Time: 18:00 pm, Thursday
+Time: 6:00 pm, Thursday
 
 Venue: 教书院106
 
