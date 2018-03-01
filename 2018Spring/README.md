@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2018 Spring. :)
 
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
-1      | 杜雨沛 |     |
+1      | 杜雨沛 | [[EMNLP17]Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](Week1/Men-also-shopping.pdf)    |[slides](Week1/Pre_March1st.pdf)
 
 ---
 ## F.A.Q.
