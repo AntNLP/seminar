@@ -43,6 +43,7 @@ Week   | Speaker   | Paper   | Slides
 1      | 杜雨沛 | [[EMNLP17]Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](Week1/Men-also-shopping.pdf)    |[slides](Week1/Pre_March1st.pdf)
 2 | 韦阳 |  |
 2 | 纪焘 |  |
+2 | 纪焘 |  |
 
 ---
 ## F.A.Q.
