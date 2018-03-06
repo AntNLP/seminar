@@ -41,8 +41,41 @@ Welcome to AntNLP Seminar 2018 Spring. :)
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
 1      | 杜雨沛 | [[EMNLP17]Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](Week1/Men-also-shopping.pdf)    |[slides](Week1/Pre_March1st.pdf)
-2 | 韦阳 | [[NAACL16]Top-down Tree Long Short-Term Memory Networks](Week2/Top-down%20Tree%20Long%20Short-Term%20Memory%20Networks.pdf)<br/>[TACL17]Head-Lexicalized Bidirectional Tree LSTMs |[slides](Week2/weiyang-slides-week2.pdf)
-2 | 纪焘 |  |
+2 | 韦阳 | [[NAACL16]Top-down Tree Long Short-Term Memory Networks](Week2/Top-down%20Tree%20Long%20Short-Term%20Memory%20Networks.pdf) |[slides](Week2/weiyang-slides-week2.pdf)
+2 | 纪焘 |  | |
+3 | 郑淇 |  | |
+3 | 陆兴武 |  | |
+4 | 陈诗韵 |  | |
+4 | 许慧敏 |  | |
+5 | 张琪 |  | |
+5 | 周杰 |  | |
+6 | 李梦婷 |  | |
+6 | 田俊峰 |  | |
+7 | 钱凯 |  | |
+7 | 李晨瑞 |  | |
+8 | 纪雨 |  | |
+8 | 孙长志 |  | |
+9 | 陈梦楠 |  | |
+9 | 战蕾 |  | |
+10 | 安锦琪 |  | |
+10 | 郁建峰 |  | |
+11 | 张凉 |  | |
+11 | 李芸 |  | |
+12 | 卢宁杰 |  | |
+12 | 姚振旭 |  | |
+13 | 杜雨沛 |  | |
+13 | 韦阳 |  | |
+14 | 纪焘 |  | |
+14 | 郑淇 |  | |
+15 | 陆兴武 |  | |
+15 | 周杰 |  | |
+16 | 许慧敏 |  | |
+16 | 田俊峰 |  | |
+17 | 李晨瑞 |  | |
+17 | 孙长志 |  | |
+18 | 陈诗韵 |  | |
+18 | 张琪 |  | |
+
 
 ---
 ## F.A.Q.
