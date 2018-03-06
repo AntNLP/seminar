@@ -41,7 +41,7 @@ Welcome to AntNLP Seminar 2018 Spring. :)
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
 1      | 杜雨沛 | [[EMNLP17]Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints](Week1/Men-also-shopping.pdf)    |[slides](Week1/Pre_March1st.pdf)
-2 | 韦阳 | [[NAACL16]Top-down Tree Long Short-Term Memory Networks](Week2/Top-down%20Tree%20Long%20Short-Term%20Memory%20Networks.pdf) |[slides](Week2/weiyang-slides-week2.pdf)
+2 | 韦阳 | [[NAACL16]Top-down Tree Long Short-Term Memory Networks](Week2/Top-down%20Tree%20Long%20Short-Term%20Memory%20Networks.pdf)<br/>[TACL17]Head-Lexicalized Bidirectional Tree LSTMs |[slides1](Week2/weiyang-slides-week2.pdf)
 2 | 纪焘 |  | |
 3 | 郑淇 |  | |
 3 | 陆兴武 |  | |
