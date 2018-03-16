@@ -44,7 +44,7 @@ Week   | Speaker   | Paper   | Slides
 2 | 韦阳 | [[NAACL16]Top-down Tree Long Short-Term Memory Networks](Week2/Top-down%20Tree%20Long%20Short-Term%20Memory%20Networks.pdf)<br/>[[TACL17]Head-Lexicalized Bidirectional Tree LSTMs](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week2/Head-Lexicalized%20Bidirectional%20Tree%20LSTMs.pdf) |[slides1](Week2/weiyang-slides-week2.pdf)<br/>[slides2](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week2/weiyang-slides-week2-2.pdf)
 2 | 纪焘 | [[AAAI18]A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week2/A-Continuous-Relaxation-of-Beam-Search-for-E2E-Training-of-Neural-Sequence-Models.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week2/Slides-A-Continuous-Relaxation-of-Beam-Search-for-E2E-Training-of-Neural-Sequence-Models.pdf)|
 3 | 郑淇 |  | |
-3 | 陆兴武 |[[ACL17]Get To The Point: Summarization with Pointer-Generator Networks](Week3/Get To The Point Summarization with Pointer-Ge.pdf) | [slides](Week3/luxingwu-slides-week3.pdf.pdf) |
+3 | 陆兴武 | [[ACL17]Get To The Point: Summarization with Pointer-Generator Networks](Week3/Get To The Point Summarization with Pointer-Ge.pdf) | [slides](Week3/luxingwu-slides-week3.pdf.pdf) |
 4 | 陈诗韵 |  | |
 4 | 许慧敏 |  | |
 5 | 张琪 |  | |
