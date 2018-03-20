@@ -46,7 +46,7 @@ Week   | Speaker   | Paper   | Slides
 3 | 郑淇 | [[AAAI18]Variational Reasoning for Question Answering with Knowledge Graph](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week3/Variational-Reasoning-for-Question-Answering-with-Knowledge-Graph.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week3/Slides-Variational-Reasoning-for-Question-Answering-with-Knowledge-Graph.pptx) |
 3 | 陆兴武 | [ACL17]Get To The Point: Summarization with Pointer-Generator Networks | [slides](Week3/luxingwu-slides-week3.pdf.pdf) |
 4 | 陈诗韵 |  | |
-4 | 许慧敏 | [[ICLR18]Ask the Right Questions: Active Question Reformulation with Reinforcement Learning ](Week4/Ask the Right Questions_Active Question Reformulation with Reinforcement Learning.pdf) | |
+4 | 许慧敏 | [[ICLR18]Ask the Right Questions: Active Question Reformulation with Reinforcement Learning ](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week4/Ask%20the%20Right%20Questions_Active%20Question%20Reformulation%20with%20Reinforcement%20Learning.pdf) | |
 5 | 张琪 |  | |
 5 | 周杰 |  | |
 6 | 韦婷玉 |  | |
