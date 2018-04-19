@@ -51,7 +51,7 @@ Week   | Speaker   | Paper   | Slides
 5 | 周杰 | [[AAAI18]Learning Structured Representation for Text Classification via Reinforcement Learning](https://github.com/12190143/seminar/blob/master/2018Spring/week5/AAAI2018-Learning%20Structured%20Representation%20for%20Text%20Classification%20via%20Reinforcement%20Learning%20.pdf); [[AAAI18]Reinforcement Learning for Relation Classification from Noisy Data](https://github.com/12190143/seminar/blob/master/2018Spring/week5/AAAI2018-Reinforcement%20Learning%20for%20Relation%20Classification%20from%20Noisy%20Data.pdf)  | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/week5/AAAI18ReinforcementLearning.pdf) |
 6 | 韦婷玉 | [[AAAI18]Convolutional 2D Knowledge Graph Embeddings](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/Convolutional%202D%20Knowledge%20Graph%20Embeddings.pdf) |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB-wty.pdf) |
 6 | 孙长志 | [[EMNLP17]A Structured Learning Approach to Temporal Relation Extraction](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/a-structured-learning-approach-to-temporal-relation-extraction.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/slide-tmp-rel-extraction.pdf)|
-7 | 李晨瑞 |  | |
+7 | 李晨瑞 | [[NIPS17]Deliberation Networks Sequence GenerationBeyond One‐Pass Decoding]()  |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/Deliberation%20Networks%20Sequence%20Generation%20Beyond%20One-Pass%20Decoding.pdf) |
 7 | 纪雨 |  | |
 8 | 田俊峰 |  | |
 8 | 张凉 |  | |
