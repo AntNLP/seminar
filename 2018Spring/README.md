@@ -52,7 +52,7 @@ Week   | Speaker   | Paper   | Slides
 6 | 韦婷玉 | [[AAAI18]Convolutional 2D Knowledge Graph Embeddings](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/Convolutional%202D%20Knowledge%20Graph%20Embeddings.pdf) |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB-wty.pdf) |
 6 | 孙长志 | [[EMNLP17]A Structured Learning Approach to Temporal Relation Extraction](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/a-structured-learning-approach-to-temporal-relation-extraction.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/slide-tmp-rel-extraction.pdf)|
 7 | 李晨瑞 | [[NIPS17]Deliberation Networks Sequence GenerationBeyond One‐Pass Decoding](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/%5BNIPS17%5DDeliberation%20Networks%20Sequence%20GenerationBeyond%20One%E2%80%90Pass%20Decoding.pdf)  |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/Deliberation%20Networks%20Sequence%20Generation%20Beyond%20One-Pass%20Decoding.pdf) |
-7 | 纪雨 |  | |
+7 | 纪雨 | [[ACL17]Linguistically Regularized LSTM for Sentiment Classification](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/Linguistically%20Regularized%20LSTM%20for%20Sentiment%20Classification.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/slides.pdf) |
 8 | 田俊峰 |  | |
 8 | 张凉 |  | |
 9 | 郁建峰 |  | |
