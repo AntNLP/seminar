@@ -60,7 +60,7 @@ Week   | Speaker   | Paper   | Slides
 10 | 李芸 |  | |
 10 | 姚振旭 |  | |
 11 | 杜雨沛 |  | |
-11 | 韦阳 |  | |
+11 | 韦阳 | [EACL17]K-best Iterative Viterbi Parsing | |
 12 | 陆兴武 |  | |
 12 | 郑淇 |  | |
 13 | 纪焘 |  | |
