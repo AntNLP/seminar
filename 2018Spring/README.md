@@ -53,8 +53,8 @@ Week   | Speaker   | Paper   | Slides
 6 | 孙长志 | [[EMNLP17]A Structured Learning Approach to Temporal Relation Extraction](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/a-structured-learning-approach-to-temporal-relation-extraction.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week6/slide-tmp-rel-extraction.pdf)|
 7 | 李晨瑞 | [[NIPS17]Deliberation Networks Sequence GenerationBeyond One‐Pass Decoding](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/%5BNIPS17%5DDeliberation%20Networks%20Sequence%20GenerationBeyond%20One%E2%80%90Pass%20Decoding.pdf)  |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/Deliberation%20Networks%20Sequence%20Generation%20Beyond%20One-Pass%20Decoding.pdf) |
 7 | 纪雨 | [[ACL17]Linguistically Regularized LSTM for Sentiment Classification](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/Linguistically%20Regularized%20LSTM%20for%20Sentiment%20Classification.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week7/slides.pdf) |
-8 | 田俊峰 | [[NIPS17]Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) | |
-8 | 张凉 |  | |
+8 | 田俊峰 | [[NIPS17]Attention Is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) | [slides](Week8/Attention%20Is%20All%20You%20Need.pdf) |
+8 | 张凉 | [[AAAI18]Neural Response Generation with Dynamic Vocabularies](Week8/neural%20response%20generation%20with%20dynamic%20vocabularies.pdf) | [slides](Week8/DVS2S.pdf) |
 9 | 郁建峰 |  | |
 9 | 战蕾 |  | |
 10 | 李芸 |  | |
