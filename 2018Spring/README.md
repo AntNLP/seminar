@@ -59,7 +59,7 @@ Week   | Speaker   | Paper   | Slides
 9 | 战蕾 | [[SIGIR17]Learning to Rank Question Answer Pairs with Holographic Dual LSTM](https://arxiv.org/pdf/1707.06372.pdf) | [slides](Week10/战蕾slides.pdf) |
 10 | 李芸 |  | |
 10 | 姚振旭 |  | |
-11 | 杜雨沛 |  | |
+11 | 杜雨沛 |[[NIPS16]Equality of opportunity in supervised learning](https://arxiv.org/pdf/1610.02413.pdf) | |
 11 | 韦阳 | [EACL17]K-best Iterative Viterbi Parsing | |
 12 | 陆兴武 |  | |
 12 | 郑淇 |  | |
