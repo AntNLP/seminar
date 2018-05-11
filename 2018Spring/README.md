@@ -60,7 +60,7 @@ Week   | Speaker   | Paper   | Slides
 10 | 李芸 | [[ICLR18]Fast and Accurate Reading Comprehension by Combining Self-Attention and Convolution](https://arxiv.org/pdf/1804.09541.pdf) |[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week11/slides.pdf) |
 10 | 姚振旭 | [[RecSys17]A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf) | [slides](Week11/51174506037姚振旭.pdf) |
 11 | 杜雨沛 |[[NIPS16]Equality of opportunity in supervised learning](https://arxiv.org/pdf/1610.02413.pdf) | |
-11 | 韦阳 | [EACL17]K-best Iterative Viterbi Parsing | |
+11 | 韦阳 | [[EACL17]K-best Iterative Viterbi Parsing](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/K-best%20Iterative%20Viterbi%20Parsing.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/weiyang-slides-week11.pdf) |
 12 | 陆兴武 |  | |
 12 | 郑淇 |  | |
 13 | 纪焘 |  | |
