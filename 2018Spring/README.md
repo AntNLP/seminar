@@ -58,7 +58,7 @@ Week   | Speaker   | Paper   | Slides
 9 | 郁建峰 | [[SIGIR16]Learning to Respond with Deep Neural Networks for Retrieval-Based Human-Computer Conversation System](http://www.ruiyan.me/pubs/SIGIR2016.pdf)  | | [slides](Week10/郁建峰slides.pdf)
 9 | 战蕾 | [[SIGIR17]Learning to Rank Question Answer Pairs with Holographic Dual LSTM](https://arxiv.org/pdf/1707.06372.pdf) | [slides](Week10/战蕾slides.pdf) |
 10 | 李芸 |  | |
-10 | 姚振旭 | [[RecSys17]A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews](http://delivery.acm.org/10.1145/3110000/3109905/p321-musto.pdf?ip=219.228.146.121&id=3109905&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E035EACC12F524219%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1526006819_822eb0ff43f60c32a32c1faee37d33a5) | [slides](Week11/51174506037姚振旭.pdf) |
+10 | 姚振旭 | [[RecSys17]A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf) | [slides](Week11/51174506037姚振旭.pdf) |
 11 | 杜雨沛 |[[NIPS16]Equality of opportunity in supervised learning](https://arxiv.org/pdf/1610.02413.pdf) | |
 11 | 韦阳 | [EACL17]K-best Iterative Viterbi Parsing | |
 12 | 陆兴武 |  | |
