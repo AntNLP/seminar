@@ -63,7 +63,7 @@ Week   | Speaker   | Paper   | Slides
 11 | 韦阳 | [[EACL17]K-best Iterative Viterbi Parsing](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/K-best%20Iterative%20Viterbi%20Parsing.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/weiyang-slides-week11.pdf) |
 12 | 陆兴武 |  | |
 12 | 郑淇 |  | |
-13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf); [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)| |
+13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)| |
 13 | 田俊峰 |  | |
 14 | 许慧敏 |  | |
 14 | 周杰  |  | |
