@@ -66,7 +66,7 @@ Week   | Speaker   | Paper   | Slides
 13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)| |
 13 | 田俊峰 |  | |
 14 | 许慧敏 |  | |
-14 | 周杰  |  | |
+14 | 周杰  | [ACL18]Training Classifiers with Natural Language Explanations | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/Week14/%5BACL18%5DTraining%20Classifiers%20with%20Natural%20Language%20Explanations.pdf) |
 15 | 李晨瑞 |  | |
 15 | 孙长志 |  | |
 16 | 陈诗韵 |  | |
