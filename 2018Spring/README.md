@@ -61,11 +61,12 @@ Week   | Speaker   | Paper   | Slides
 10 | 姚振旭 | [[RecSys17]A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf) | [slides](Week11/51174506037姚振旭.pdf) |
 11 | 杜雨沛 |[[NIPS16]Equality of opportunity in supervised learning](https://arxiv.org/pdf/1610.02413.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week11/May17_pre.pdf)|
 11 | 韦阳 | [[EACL17]K-best Iterative Viterbi Parsing](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/K-best%20Iterative%20Viterbi%20Parsing.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/weiyang-slides-week11.pdf) |
-12 | 陆兴武 |  | |
+12 | 陆兴武 | [[AAAI18]Sequential Copying Networks
+](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16323/16032)<br/>[[ACL16]Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/pdf/1603.06393.pdf)| [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/The%20art%20of%20copying%20in%20the%20generation%20model.pdf) |
 12 | 郑淇 |  | |
 13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)| |
 13 | 田俊峰 |  | |
-14 | 许慧敏 |  | |
+14 | 许慧敏 | [[ACL17]](https://arxiv.org/pdf/1702.02206.pdf) | |
 14 | 周杰  | [ACL18]Training Classifiers with Natural Language Explanations | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/Week14/%5BACL18%5DTraining%20Classifiers%20with%20Natural%20Language%20Explanations.pdf) |
 15 | 李晨瑞 |  | |
 15 | 孙长志 |  | |
