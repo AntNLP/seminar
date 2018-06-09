@@ -63,7 +63,7 @@ Week   | Speaker   | Paper   | Slides
 11 | 韦阳 | [[EACL17]K-best Iterative Viterbi Parsing](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/K-best%20Iterative%20Viterbi%20Parsing.pdf) | [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/weiyang-slides-week11.pdf) |
 12 | 陆兴武 | [[AAAI18]Sequential Copying Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16323/16032)<br/>[[ACL16]Incorporating Copying Mechanism in Sequence-to-Sequence Learning](https://arxiv.org/pdf/1603.06393.pdf)| [slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week12/The%20art%20of%20copying%20in%20the%20generation%20model.pdf) |
 12 | 郑淇 |  | |
-13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)| |
+13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)|[slides1](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week13/stack-pointer-parsing.pdf)<br/> [slides2](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week13/self-attentive-parsing.pdf) |
 13 | 田俊峰 |  | |
 14 | 许慧敏 |[[ACL17]Semi-Supervised QA with Generative Domain-Adaptive Nets](https://arxiv.org/pdf/1702.02206.pdf)| |
 14 | 周杰  | [ACL18]Training Classifiers with Natural Language Explanations | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/Week14/%5BACL18%5DTraining%20Classifiers%20with%20Natural%20Language%20Explanations.pdf) |
