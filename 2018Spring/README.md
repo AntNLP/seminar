@@ -66,7 +66,7 @@ Week   | Speaker   | Paper   | Slides
 13 | 纪焘 | [[ACL18]Stack-Pointer Networks for Dependency Parsing](https://arxiv.org/pdf/1805.01087v1.pdf)<br/> [[ACL18]Constituency Parsing with a Self-Attentive Encoder](https://arxiv.org/pdf/1805.01052v1.pdf)|[slides1](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week13/stack-pointer-parsing.pdf)<br/> [slides2](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week13/self-attentive-parsing.pdf) |
 13 | 田俊峰 |  | |
 14 | 许慧敏 |[[ACL17]Semi-Supervised QA with Generative Domain-Adaptive Nets](https://arxiv.org/pdf/1702.02206.pdf)| |
-14 | 周杰  | [ACL18]Training Classifiers with Natural Language Explanations | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/Week14/%5BACL18%5DTraining%20Classifiers%20with%20Natural%20Language%20Explanations.pdf) |
+14 | 周杰  | [[ACL18]Training Classifiers with Natural Language Explanations](https://arxiv.org/pdf/1805.03818.pdf) | [slides](https://github.com/12190143/seminar/blob/master/2018Spring/Week14/%5BACL18%5DTraining%20Classifiers%20with%20Natural%20Language%20Explanations.pdf) |
 15 | 杜雨沛 | [[NAACL18]Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)|[slides](https://github.com/AntNLP/seminar/blob/master/2018Spring/Week15/ELMo.pdf)|
 15 | 孙长志 |  | |
 16 | 陈诗韵 |  | |
