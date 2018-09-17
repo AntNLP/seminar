@@ -35,3 +35,26 @@ AntNLP 2018, fall seminar, let's get it!
 ## For Audiences
 
 - Please read abstract/introduction sections before the seminar.
+
+## Agenda
+
+Week   | Speaker   | Paper   | Slides
+:---:  | :---: | --- | :---:
+2 | 纪焘 | | |
+2 | 郑淇 | | |
+3 | 黄子寅 | | |
+3 | 杜雨沛 | | |
+4 | 孙长志 | | |
+4 | 韦阳 | | |
+5 | 陆兴武 | | |
+5 | 徐慧敏 | | |
+6 | 毛鑫 | | |
+6 | 纪焘 | | |
+7 | 郑淇 | | |
+7 | 黄子寅 | | |
+8 | 杜雨沛 | | |
+8 | 孙长志 | | |
+9 | 韦阳 | | |
+9 | 刘宇芳 | | |
+
+---
