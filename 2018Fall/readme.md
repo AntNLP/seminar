@@ -41,7 +41,7 @@ AntNLP 2018, fall seminar, let's get it!
 
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
-2 | 纪焘 | | |
+2 | 纪焘 |  |[[ACL18]Tutorial: Semantic Parsing](https://github.com/allenai/acl2018-semantic-parsing-tutorial)<br>[Lambda calculus & CCG Semantic Parsing](https://courses.cs.washington.edu/courses/csep517/13au/slides/csep517au13-semantic-parsing.pdf) |
 2 | 郑淇 | | |
 3 | 黄子寅 | | |
 3 | 杜雨沛 | | |
