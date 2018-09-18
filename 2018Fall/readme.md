@@ -1,6 +1,6 @@
 # AntNLP Seminar -- 2018 Fall
 
-Time: 6:00 pm, Thusday
+Time: 6:00 pm, Tuesday
 
 Venue: To be updated
 
@@ -26,7 +26,8 @@ AntNLP 2018, fall seminar, let's get it!
 
 ## For Presenters
 
-- Please fill your slots in the [Agenda](#agenda) **at least one week** before your presentation.
+- Please fill your slots in the [Agenda](#agenda) **at least one week** before your presentation.  
+
   - Please format Paper fields with *[venue+year]title* (e.g. [ACL17]A Good Paper).
   - Please upload your slides, and add links to them in Slides fields.
 - Besides technical novelties, please give enough background knowledge in case people are unfamiliar with your topic.
