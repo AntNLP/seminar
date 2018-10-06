@@ -46,7 +46,7 @@ Week   | Speaker   | Paper   | Slides
 3 | 黄子寅 | | |
 3 | 杜雨沛 | | |
 4 | 孙长志 | | |
-4 | 韦阳 | A Summary of Constituent Parsing | |
+4 | 韦阳 |  | [A Summary of Constituent Parsing](https://github.com/godweiyang/files-backup/blob/master/lecture/ppt1/A%20Summary%20of%20Constituent%20Parsing.pdf) |
 5 | 陆兴武 | | |
 5 | 许慧敏 | | |
 6 | 毛鑫 | | |
