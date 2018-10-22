@@ -46,9 +46,9 @@ AntNLP 2018, fall seminar, let's get it!
 |  3   |   黄子寅   | [NIPS2017]Style Transfer from Non-Parallel Text by Cross-Alignment<br/>[ACL2018]Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach | [Slides](https://github.com/AntNLP/seminar/blob/master/2018Fall/Week3/StyleTransfer.pdf) |
 |  4   |   韦阳    | [ACL15] Transition-based Neural Constituent Parsing<br/>[NAACL16] Recurrent Neural Network Grammars<br/>... | [[ppt]A Summary of Constituent Parsing](https://github.com/godweiyang/files-backup/blob/master/lecture/ppt1/A%20Summary%20of%20Constituent%20Parsing.pdf)</br>[[blog]A Summary of Constituent Parsing](https://godweiyang.com/2018/09/26/constituent-parsing-summary/)</br>[[code]Constituent Parsing](https://github.com/godweiyang/ConstituentParsing) |
 |  5   |   杜雨沛   | [[NAACL18]Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/pdf/1804.06437.pdf) |        [slides](Week4/yupei.pdf)         |
-|  5   |   陆兴武   |                                          |                                          |
+|  5   |   毛鑫   |                                          |                                          |
 |  6   |   许慧敏   |                                          |                                          |
-|  6   |   毛鑫    |                                          |                                          |
+|  6   |   陆兴武   |                                          |                                          |
 |  7   |   纪焘    |                                          |                                          |
 |  7   |   郑淇    |                                          |                                          |
 |  8   |   黄子寅   |                                          |                                          |
