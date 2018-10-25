@@ -48,7 +48,7 @@ AntNLP 2018, fall seminar, let's get it!
 |  5   |   杜雨沛   | [[NAACL18]Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/pdf/1804.06437.pdf) |        [slides](Week4/yupei.pdf)         |
 |  5   |   毛鑫   |                                          |                                          |
 |  6   |   许慧敏   |                                          |                                          |
-|  6   |   陆兴武   |                                          |                                          |
+|  6   |   陆兴武   | [[AAAI2018]Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.pdf](Week5/[AAAI2018]Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.pdf) </br>  [[IJCAI2018]Commonsense Knowledge Aware Conversation Generation with Graph Attention.pdf](Week5/[IJCAI2018]Commonsense Knowledge Aware Conversation Generation with Graph Attention.pdf)                                      |  [slides](Week5/知识型对话.pdf)                                        |
 |  7   |   纪焘    |                                          |                                          |
 |  7   |   郑淇    |                                          |                                          |
 |  8   |   黄子寅   |                                          |                                          |
