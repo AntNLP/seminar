@@ -54,7 +54,7 @@ AntNLP 2018, fall seminar, let's get it!
 |  8   |   黄子寅   |                                          |                                          |
 |  8   |   杜雨沛   |                                          |                                          |
 |  9   |   孙长志   |                                          |                                          |
-|  9   |   韦阳    | [[COLING18]Two Local Models for Neural Constituent Parsing](http://aclweb.org/anthology/C18-1011) |                                          |
+|  9   |   韦阳    | [[COLING18]Two Local Models for Neural Constituent Parsing](http://aclweb.org/anthology/C18-1011) | [slides](https://github.com/AntNLP/seminar/blob/HEAD/2018Fall/week6/Two%20Local%20Models%20for%20Neural%20Constituent%20Parsing.pdf) |
 |  10  |   刘宇芳   |                                          |                                          |
 
 ---
