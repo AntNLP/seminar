@@ -50,7 +50,7 @@ AntNLP 2018, fall seminar, let's get it!
 |  6   |   许慧敏   |                                          |                                          |
 |  6   |   陆兴武   | [[AAAI2018]Augmenting End-to-End Dialogue Systems with Commonsense Knowledge.pdf](https://github.com/AntNLP/seminar/blob/master/2018Fall/Week5/%5BAAAI2018%5DAugmenting%20End-to-End%20Dialogue%20Systems%20with%20Commonsense%20Knowledge.pdf) </br>  [[IJCAI2018]Commonsense Knowledge Aware Conversation Generation with Graph Attention.pdf](https://github.com/AntNLP/seminar/blob/master/2018Fall/Week5/%5BIJCAI2018%5DCommonsense%20Knowledge%20Aware%20Conversation%20Generation%20with%20Graph%20Attention.pdf)                                      |  [slides](Week5/知识型对话.pdf)                                        |
 |  7   |   纪焘    |                                          |                                          |
-|  7   |   郑淇    |                                          |                                          |
+|  7   |   郑淇    | [ACL18]Coarse-to-Fine Decoding for Neural Semantic Parsing<br/>[ACL18]Chinese NER Using Lattice LSTM<br/>|                                          |
 |  8   |   黄子寅   |                                          |                                          |
 |  8   |   杜雨沛   |                                          |                                          |
 |  9   |   孙长志   |                                          |                                          |
