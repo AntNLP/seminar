@@ -56,6 +56,6 @@ AntNLP 2018, fall seminar, let's get it!
 |  12  |   孙长志   |      Tutorial:latent variable                                    |                                          |
 |  13  |   黄子寅   |      Tutorial:Joint model                                    |                                          |
 |  14  |   刘宇芳   |      CCG parsing                                |                                          |
-|  15  |   杜宇沛   |                                      |                                          |
+|  15  |   杜雨沛   |                                      |                                          |
 
 ---
