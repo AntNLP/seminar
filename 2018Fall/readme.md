@@ -58,4 +58,5 @@ AntNLP 2018, fall seminar, let's get it!
 |  14  |   刘宇芳   |      CCG parsing                                |                                          |
 |  15  |   杜雨沛   |      Neural Represention                  |                                          |
 |  16 |   George.W |      Time series analysis                 |                                          |
+|  17 |   Cnacel for New Year Vocation |                |                                          |
 ---
