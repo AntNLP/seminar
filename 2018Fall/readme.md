@@ -53,7 +53,7 @@ AntNLP 2018, fall seminar, let's get it!
 |  8   |   郑淇    | [ACL18]Coarse-to-Fine Decoding for Neural Semantic Parsing<br/>[ACL18]Chinese NER Using Lattice LSTM<br/>|  |
 |  9   |   韦阳    | [[COLING18]Two Local Models for Neural Constituent Parsing](http://aclweb.org/anthology/C18-1011) | [slides](https://github.com/AntNLP/seminar/blob/HEAD/2018Fall/week6/Two%20Local%20Models%20for%20Neural%20Constituent%20Parsing.pdf) |
 |  10   |   纪焘    |  [WWW-18]Tutorial: Representation Learning on Networks |  <div align = left> [Part 0: Intro](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part0-intro.pdf) <br> [Part 1: Node embeddings](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part1-embeddings.pdf) <br>  [Part 2: Graph neural networks](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part2-gnns.pdf) <br>  [Part 3: Applications](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part3-applications.pdf) </div> |
-|  11  |   纪焘   |      EMNLP Tutorial:How to NLP code                                    |                                          |
+|  11  |   纪焘   |      [EMNLP-18]Tutorial: Writing Code for NLP Research   |       [slides](https://github.com/allenai/writing-code-for-nlp-research-emnlp2018/blob/master/writing_code_for_nlp_research.pdf)                                   |
 |  12  |   孙长志   |      Tutorial:latent variable in NLP                                   |                                          |
 |  13  |   黄子寅   |      Tutorial:Joint model in NLP                                   |                                          |
 |  14  |   刘宇芳   |      CCG parsing                                |                                          |
