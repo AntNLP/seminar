@@ -8,7 +8,7 @@ Venue: 文附楼203
 
 - Please choose recent papers (2018, 2017) from top NLP/AI venues. A (incomplete) list is
   - NLP: ACL, TACL, EMNLP, NAACL, EACL
-  - ML:  ICML, NIPS, AISTATS, UAI, JMLR, ICLR
+  - ML:  ICML, NeurIPS, AISTATS, UAI, JMLR, ICLR
   - AI:  AAAI, IJCAI
   - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
 
@@ -39,7 +39,8 @@ Venue: 文附楼203
 
 | Week | Speaker | Paper                                    |                  Slides                  |
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
-|  1   |   郑淇  |                                          |  |
+|  1   |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question
+Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking |  |
 |  2   |   黄子寅 |  |                                          |
 |  3   |      |  |  |
 | 3 |  |  |  |
