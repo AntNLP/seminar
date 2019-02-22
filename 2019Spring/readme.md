@@ -40,7 +40,7 @@ Venue: 文附楼203
 | Week | Speaker | Paper                                    |                  Slides                  |
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
 |  1   |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question
-Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking |  |
+Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
 |  2   |   黄子寅 |  |                                          |
 |  3   |      |  |  |
 | 3 |  |  |  |
@@ -74,5 +74,6 @@ Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supe
 | 17 |  | | |
 |  18 |    |                |                                          |
 | 18 | | | |
+
 |  19 |    |                |                                          |
 ---
