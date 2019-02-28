@@ -40,7 +40,7 @@ Venue: 文附楼203
 | Week | Speaker | Paper                                    |                  Slides                  |
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
 | 1 (2.21) |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
-| 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |                                          |
+| 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |[slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week2/go.pptx)                           |
 | 3 (3.7) | 刘宇芳 |  |  |
 | 3 (3.7) | 李雨承 |  |  |
 |  4 (3.14)  | 纪焘 |  |        |
