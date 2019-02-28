@@ -39,40 +39,39 @@ Venue: 文附楼203
 
 | Week | Speaker | Paper                                    |                  Slides                  |
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
-|  1   |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
-|  2   |   黄子寅 |  |                                          |
-|  3   |      |  |  |
-| 3 |  |  |  |
-|  4   | 杜雨沛 |  |        |
-| 4 | 纪焘 |  |        |
-|  5   |   韦阳   |  |        |
-|  5   |      |                                          |                                          |
-|  6   |   孙长志   |                                          |                                          |
-|  6   |      |       |                |
-|  7  | 刘宇芳 |                                     |                                          |
-| 7 |  | | |
-|  8   |       |  |  |
-| 8 |  |  | |
-|  9   |       |       |        |
-| 9 |  |       |        |
-|  10   |       |   |   |
-| 10 |  |  |  |
-|  11  |         |       |                                          |
-| 11 |         |       |  |
-|  12  |         |       |                                          |
-| 12 |         |       | |
-|  13  |         |       |                                          |
-| 13 |         |       | |
-|  14  |         |       |                                          |
-| 14 |         |       | |
-|  15  |         |       |                                          |
-| 15 |         |       | |
-|  16 |    |                       |                                          |
-| 16 |  |  | |
-|  17 |    |                |                                          |
-| 17 |  | | |
-|  18 |    |                |                                          |
-| 18 | | | |
+| 1 (2.21) |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
+| 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |                                          |
+| 3 (3.7) | 刘宇芳 |  |  |
+| 3 (3.7) | 李雨承 |  |  |
+|  4 (3.14)  | 纪焘 |  |        |
+| 4 (3.14) | 毛鑫 |  |        |
+|  5 (3.21)  | 杜雨沛 |  |        |
+|  5 (3.21)  | 施力业 |                                          |                                          |
+| 6 (3.28) | 韦阳 |                                          |                                          |
+|  6 (3.28)  | 许伟杰 |       |                |
+|  7 (4.4)  | 胡佳颖 |                                     |                                          |
+| 7 (4.4) | 赵尚卿 | | |
+|  8 (4.11)  | 霍沛 |  |  |
+| 8 (4.11) | 汪贻俊 |  | |
+|  9 (4.18)  | 郑淇 |       |        |
+| 9 (4.18) | 黄子寅 |       |        |
+|  10 (4.25)  |       |   |   |
+| 10 (4.25) |  |  |  |
+|  11 (5.2)  |         |       |                                          |
+| 11 (5.2) |         |       |  |
+|  12 (5.9)  |         |       |                                          |
+| 12 (5.9) |         |       | |
+|  13 (5.16)  |         |       |                                          |
+| 13 (5.16) |         |       | |
+|  14 (5.23)  |         |       |                                          |
+| 14 (5.23) |         |       | |
+|  15 (5.30)  |         |       |                                          |
+| 15 (5.30) |         |       | |
+| 16 (6.6) |    |                       |                                          |
+| 16 (6.6) |  |  | |
+| 17 (6.13) |    |                |                                          |
+| 17 (6.13) |  | | |
+| 18 (6.20) |    |                |                                          |
+| 18 (6.20) | | | |
 
-|  19 |    |                |                                          |
 ---
