@@ -41,8 +41,8 @@ Venue: 文附楼203
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
 | 1 (2.21) |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
 | 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |[slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week2/go.pptx)                           |
-| 3 (3.7) | 刘宇芳 | [NAACL16]LSTM CCG Parsing |  |
-| 3 (3.7) | 李雨承 | [AAAI19]A Hierachical Framework for Relation Extraction with Reinforcement Learning |  |
+| 3 (3.7) | 刘宇芳 | [NAACL16]LSTM CCG Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week3/LSTM%20CCG%20Parsing.pptx) |
+| 3 (3.7) | 李雨承 | [AAAI19]A Hierachical Framework for Relation Extraction with Reinforcement Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week3/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%A8%E8%AE%BA%E7%89%88HRL.pdf) |
 |  4 (3.14)  | 杜雨沛 |  |        |
 | 4 (3.14) | 毛鑫 |  |        |
 |  5 (3.21)  | 纪焘 |  |        |
