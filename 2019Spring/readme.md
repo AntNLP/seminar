@@ -41,34 +41,34 @@ Venue: 文附楼203
 | :--: | :-----: | :--------------------------------------: | :--------------------------------------: |
 | 1 (2.21) |   郑淇  | [NIPS18]Dialog-to-Action:Conversational Question Answering Over a Large-Scale Knowledge Base<br/>[EMNLP18]Joint Multilingual Supervision for Cross-lingual Entity Linking<br/> | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week1/antnlp190221.pptx) |
 | 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |[slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week2/go.pptx)                           |
-| 3 (3.7) | 刘宇芳 |  |  |
-| 3 (3.7) | 李雨承 |  |  |
-|  4 (3.14)  | 纪焘 |  |        |
+| 3 (3.7) | 刘宇芳 | [NAACL16]LSTM CCG Parsing |  |
+| 3 (3.7) | 李雨承 | [AAAI19]A Hierachical Framework for Relation Extraction with Reinforcement Learning |  |
+|  4 (3.14)  | 杜雨沛 |  |        |
 | 4 (3.14) | 毛鑫 |  |        |
-|  5 (3.21)  | 杜雨沛 |  |        |
+|  5 (3.21)  | 纪焘 |  |        |
 |  5 (3.21)  | 施力业 |                                          |                                          |
 | 6 (3.28) | 韦阳 |                                          |                                          |
 |  6 (3.28)  | 许伟杰 |       |                |
 |  7 (4.4)  | 胡佳颖 |                                     |                                          |
 | 7 (4.4) | 赵尚卿 | | |
-|  8 (4.11)  | 霍沛 |  |  |
-| 8 (4.11) | 汪贻俊 |  | |
+|  8 (4.11)  | 汪贻俊 |  |  |
+| 8 (4.11) | 霍沛 |  | |
 |  9 (4.18)  | 郑淇 |       |        |
-| 9 (4.18) | 黄子寅 |       |        |
-|  10 (4.25)  | 纪焘 |   |   |
-| 10 (4.25) | 毛鑫 |  |  |
-|  11 (5.2)  | 杜雨沛 |       |                                          |
-| 11 (5.2) | 施力业 |       |  |
-|  12 (5.9)  | 刘宇芳 |       |                                          |
-| 12 (5.9) | 李雨承 |       | |
+| 9 (4.18) | 左鸿洋 |       |        |
+|  10 (4.25)  | 黄子寅 |   |   |
+| 10 (4.25) | 纪焘 |  |  |
+|  11 (5.2)  | 毛鑫 |       |                                          |
+| 11 (5.2) | 杜雨沛 |       |  |
+|  12 (5.9)  | 施力业 |       |                                          |
+| 12 (5.9) | 刘宇芳 |       | |
 |  13 (5.16)  | 韦阳 |       |                                          |
-| 13 (5.16) | 许伟杰 |       | |
-|  14 (5.23)  | 胡佳颖 |       |                                          |
-| 14 (5.23) | 赵尚卿 |       | |
-|  15 (5.30)  | 霍沛 |       |                                          |
+| 13 (5.16) | 李雨承 |       | |
+|  14 (5.23)  | 许伟杰 |       |                                          |
+| 14 (5.23) | 胡佳颖 |       | |
+|  15 (5.30)  | 赵尚卿 |       |                                          |
 | 15 (5.30) | 汪贻俊 |       | |
-| 16 (6.6) |    |                       |                                          |
-| 16 (6.6) |  |  | |
+| 16 (6.6) | 霍沛 |                       |                                          |
+| 16 (6.6) | 左鸿洋 |  | |
 | 17 (6.13) |    |                |                                          |
 | 17 (6.13) |  | | |
 | 18 (6.20) |    |                |                                          |
