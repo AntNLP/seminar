@@ -47,7 +47,7 @@ Venue: 文附楼203
 | 4 (3.14) | 毛鑫 |  |        |
 |  5 (3.21)  | 纪焘 |  |        |
 |  5 (3.21)  | 施力业 |                                          |                                          |
-| 6 (3.28) | 韦阳 |                                          |                                          |
+| 6 (3.28) | 韦阳 | [EMNLP18]Constituent Parsing as Sequence Labeling | [slides](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
 |  6 (3.28)  | 许伟杰 |       |                |
 |  7 (4.4)  | 胡佳颖 |                                     |                                          |
 | 7 (4.4) | 赵尚卿 | | |
