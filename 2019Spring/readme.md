@@ -43,7 +43,8 @@ Venue: 文附楼203
 | 2 (2.28) |   黄子寅 | [EMNLP18]Graph Convolution over Pruned Dependency Trees Improves Relation Extraction<br/>[AAAI19]Cross-relation Cross-bag Attention for Distantly-supervised Relation Extration<br/> |[slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week2/go.pptx)                           |
 | 3 (3.7) | 刘宇芳 | [NAACL16]LSTM CCG Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week3/LSTM%20CCG%20Parsing.pptx) |
 | 3 (3.7) | 李雨承 | [AAAI19]A Hierachical Framework for Relation Extraction with Reinforcement Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week3/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%A8%E8%AE%BA%E7%89%88HRL.pdf) |
-|  4 (3.14)  | 杜雨沛 |  |        |
+|  4 (3.14)  | 杜雨沛 | [NAACL19]Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do
+not Remove Them |        |
 | 4 (3.14) | 毛鑫 |  |        |
 |  5 (3.21)  | 纪焘 |  |        |
 |  5 (3.21)  | 施力业 |                                          |                                          |
