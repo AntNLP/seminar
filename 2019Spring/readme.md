@@ -45,7 +45,7 @@ Venue: 文附楼203
 | 3 (3.7) | 李雨承 | [AAAI19]A Hierachical Framework for Relation Extraction with Reinforcement Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week3/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%A8%E8%AE%BA%E7%89%88HRL.pdf) |
 |  4 (3.14)  | 杜雨沛 | [NAACL19]Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them  | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week4/seminar_Mar.14.pdf) |
 | 4 (3.14) | 毛鑫 |  |        |
-|  5 (3.21)  | 纪焘 |  |        |
+|  5 (3.21)  | 纪焘 |  |   [Tutorial] Unsupervised Dependency Parsing     | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week5/unsupervised-parsing.pdf)
 |  6 (3.28)   | 施力业 |                                          |                                          |
 | 6 (3.28) | 韦阳 | [EMNLP18]Constituent Parsing as Sequence Labeling | [slides](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
 |  7 (4.4)  | 许伟杰 |       |                |
