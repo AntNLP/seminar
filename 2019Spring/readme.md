@@ -47,7 +47,7 @@ Venue: 文附楼203
 | 4 (3.14) | 毛鑫 |  |        |
 |  5 (3.21)  | 纪焘 | [Tutorial] Unsupervised Dependency Parsing |    [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week5/unsupervised-parsing.pdf)    | 
 |  6 (3.28)   | 施力业 |                                          |                                          |
-| 6 (3.28) | 韦阳 | [EMNLP18]Constituent Parsing as Sequence Labeling | [slides](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
+| 6 (3.28) | 韦阳 | [EMNLP18]Constituent Parsing as Sequence Labeling | [slides](https://godweiyang.com/2019/03/11/ConParSeqLab/)\\[ACL18]Straight to the Tree: Constituency Parsing with Neural Syntactic Distance\\[NAACL19]Better, Faster, Stronger Sequence Tagging Constituent Parsers\\[NIPS15]Grammar as a Foreign Language\\[EMNLP16]Parsing as Language Modeling |
 |  7 (4.4)  | 许伟杰 |       |                |
 |  7 (4.4)  | 胡佳颖 |                                     |                                          |
 | 8 (4.11) | 赵尚卿 | | |
