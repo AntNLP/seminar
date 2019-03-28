@@ -46,7 +46,7 @@ Venue: 文附楼203
 |  4 (3.14)  | 杜雨沛 | [NAACL19]Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them  | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week4/seminar_Mar.14.pdf) |
 | 4 (3.14) | 毛鑫 | [COLING18]Multi-Task Learning for Sequence Tagging: An Empirical Study |        |
 |  5 (3.21)  | 纪焘 | [Tutorial] Unsupervised Dependency Parsing |    [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week5/unsupervised-parsing.pdf)    |
-|  6 (3.28)   | 施力业 | [AAAI18]Improving Review Representations with User Attention and Product Attention for Sentiment Classification |  |
+|  6 (3.28)   | 施力业 | [AAAI18]Improving Review Representations with User Attention and Product Attention for Sentiment Classification | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week6/3.21nlp.pptx) |
 | 6 (3.28) | 韦阳 | [ACL18]Straight to the Tree: Constituency Parsing with Neural Syntactic Distance<br/>[NAACL19]Better, Faster, Stronger Sequence Tagging Constituent Parsers<br/>[EMNLP18]Constituent Parsing as Sequence Labeling<br/>[EMNLP16]Parsing as Language Modeling<br/>[NIPS15]Grammar as a Foreign Language | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week6/ConParSeqLab.pdf)<br/>[Chinese notes](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
 |  7 (4.4)  | 许伟杰 |       |                |
 |  7 (4.4)  | 胡佳颖 |                                     |                                          |
