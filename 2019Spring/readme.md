@@ -48,8 +48,8 @@ Venue: 文附楼203
 |  5 (3.21)  | 纪焘 | [Tutorial] Unsupervised Dependency Parsing |    [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week5/unsupervised-parsing.pdf)    |
 |  6 (3.28)   | 施力业 | [AAAI18]Improving Review Representations with User Attention and Product Attention for Sentiment Classification | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week6/3.21nlp.pptx) |
 | 6 (3.28) | 韦阳 | [ACL18]Straight to the Tree: Constituency Parsing with Neural Syntactic Distance<br/>[NAACL19]Better, Faster, Stronger Sequence Tagging Constituent Parsers<br/>[EMNLP18]Constituent Parsing as Sequence Labeling<br/>[EMNLP16]Parsing as Language Modeling<br/>[NIPS15]Grammar as a Foreign Language | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week6/ConParSeqLab.pdf)<br/>[Chinese notes](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
-|  7 (4.4)  | 许伟杰 | [ACL2018]Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting |                |
-|  7 (4.4)  | 胡佳颖 | [ACL2018]Globally-Locally Self-Attentive Dialogue State Tracker<br/>[EMNLP2017]Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning |                                          |
+|  7 (4.4)  | 许伟杰 | [ACL2018]Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting |   [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week7/Fast_abs_rl.pptx)             |
+|  7 (4.4)  | 胡佳颖 | [ACL2018]Globally-Locally Self-Attentive Dialogue State Tracker<br/>[EMNLP2017]Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning |                   [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week7/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB4.pptx)                       |
 | 8 (4.11) | 赵尚卿 | | |
 |  8 (4.11)  | 霍沛 |  |  |
 | 9 (4.18)| 汪贻俊 |  | |
