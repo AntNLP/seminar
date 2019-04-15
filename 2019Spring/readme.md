@@ -50,8 +50,8 @@ Venue: 文附楼203
 | 6 (3.28) | 韦阳 | [ACL18]Straight to the Tree: Constituency Parsing with Neural Syntactic Distance<br/>[NAACL19]Better, Faster, Stronger Sequence Tagging Constituent Parsers<br/>[EMNLP18]Constituent Parsing as Sequence Labeling<br/>[EMNLP16]Parsing as Language Modeling<br/>[NIPS15]Grammar as a Foreign Language | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week6/ConParSeqLab.pdf)<br/>[Chinese notes](https://godweiyang.com/2019/03/11/ConParSeqLab/) |
 |  7 (4.4)  | 许伟杰 | [ACL18]Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting |   [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week7/Fast_abs_rl.pptx)             |
 |  7 (4.4)  | 胡佳颖 | [ACL18]Globally-Locally Self-Attentive Dialogue State Tracker<br/>[EMNLP17]Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning |                   [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week7/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB4.pptx)                       |
-| 8 (4.11) | 赵尚卿 | | |
-|  8 (4.11)  | 霍沛 |  |  |
+| 8 (4.11) | 赵尚卿 | [ACL18]Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification | |
+|  8 (4.11)  | 霍沛 | [ACL18]Generating Informative Responses with Controlled Sentence Function |  |
 | 9 (4.18)| 汪贻俊 |  | |
 |  9 (4.18)  | 左鸿洋 |       |        |
 | 10 (4.25) | 郑淇 |       |        |
