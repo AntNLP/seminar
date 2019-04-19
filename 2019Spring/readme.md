@@ -52,7 +52,7 @@ Venue: 文附楼203
 |  7 (4.4)  | 胡佳颖 | [ACL18]Globally-Locally Self-Attentive Dialogue State Tracker<br/>[EMNLP17]Composite Task-Completion Dialogue Policy Learning via Hierarchical Deep Reinforcement Learning |                   [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week7/%E8%AE%BA%E6%96%87%E5%88%86%E4%BA%AB4.pptx)                       |
 | 8 (4.11) | 赵尚卿 | [ACL18]Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week8/S-Net.pdf) |
 |  8 (4.11)  | 霍沛 | [ACL18]Generating Informative Responses with Controlled Sentence Function | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week8/%E9%9C%8D%E6%B2%9Bnlp%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%A8%E8%AE%BA%E7%8F%AD.pptx) |
-| 9 (4.18)| 汪贻俊 |  | |
+| 9 (4.18)| 汪贻俊 | [EMNLP18]Semi-Supervised Sequence Modeling with Cross-View Training | [slides](https://github.com/Receiling/seminar/blob/master/2019Spring/week9/CVT.pdf) |
 |  9 (4.18)  | 左鸿洋 |       |        |
 | 10 (4.25) | 郑淇 |       |        |
 |  10 (4.25)  | 黄子寅 |   |   |
