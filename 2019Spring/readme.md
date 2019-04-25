@@ -53,8 +53,8 @@ Venue: 文附楼203
 | 8 (4.11) | 赵尚卿 | [ACL18]Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week8/S-Net.pdf) |
 |  8 (4.11)  | 霍沛 | [ACL18]Generating Informative Responses with Controlled Sentence Function | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week8/%E9%9C%8D%E6%B2%9Bnlp%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E8%AE%A8%E8%AE%BA%E7%8F%AD.pptx) |
 | 9 (4.18)| 汪贻俊 | [EMNLP18]Semi-Supervised Sequence Modeling with Cross-View Training | [slides](https://github.com/Receiling/seminar/blob/master/2019Spring/week9/CVT.pdf) |
-|  9 (4.18)  | 左鸿洋 | [LMHMD19]Entity Linking in Enterprise Search：Combining Textual and Structural Information |        |
-| 10 (4.25) | 郑淇 | [NAACL19]Simple Question Answering with Subgraph Ranking and Joint-Scoring<br/>[NAACL19]Oldis Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text<br/>[EMNLP18]Knowledge Base Question Answering via Encoding of Complex Query Graphs<br/>[COLING16]Constraint-based Question Answering on Knowledge Base |        |
+|  9 (4.18)  | 左鸿洋 | [LMHMD19]Entity Linking in Enterprise Search：Combining Textual and Structural Information |     [slides](https://github.com/Receiling/seminar/blob/master/2019Spring/week9/CVT.pdf)   |
+| 10 (4.25) | 郑淇 | [NAACL19]Simple Question Answering with Subgraph Ranking and Joint-Scoring<br/>[NAACL19]Oldis Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text<br/>[EMNLP18]Knowledge Base Question Answering via Encoding of Complex Query Graphs<br/>[COLING16]Constraint-based Question Answering on Knowledge Base |    [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week9/Entity%20linking%20in%20Enterprise%20search.pptx)    |
 |  10 (4.28)  | 黄子寅 |   |   |
 | 11 (4.28) | 纪焘 |  |  |
 |  11 (5.9)  | 毛鑫 |       |                                          |
