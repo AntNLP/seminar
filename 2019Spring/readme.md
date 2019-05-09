@@ -58,7 +58,7 @@ Venue: 文附楼203
 |  10 (4.28)  | 黄子寅 |   |   |
 | 11 (4.28) | 纪焘 | [NAACL19]Left-2-Right Dependency Parsing with Pointer Networks<br/>[NAACL19]On Dif culties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week11/naacl19_dep_parsing.pdf) |
 |  11 (5.9)  | 毛鑫 |       |                                          |
-| 12 (5.9) | 韦阳 | [NAACL19]Unsupervised Recurrent Neural Network Grammars |  |
+| 12 (5.9) | 韦阳 | [NAACL19]Unsupervised Recurrent Neural Network Grammars<br/>[ICLR19]Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks<br/>[ICLR18]Neural Language Modeling by Jointly Learning Syntax and Lexicon | [slides] |
 |  12 (5.16)  | 施力业 |       |                                          |
 | 13 (5.16)| 李雨承  |       | |
 |  13 (5.23)  | 刘宇芳 |       |                                          |
