@@ -55,21 +55,20 @@ Venue: 文附楼203
 | 9 (4.18)| 汪贻俊 | [EMNLP18]Semi-Supervised Sequence Modeling with Cross-View Training | [slides](https://github.com/Receiling/seminar/blob/master/2019Spring/week9/CVT.pdf) |
 |  9 (4.18)  | 左鸿洋 | [LMHMD19]Entity Linking in Enterprise Search：Combining Textual and Structural Information |     [slides](https://github.com/Receiling/seminar/blob/master/2019Spring/week9/CVT.pdf)   |
 | 10 (4.25) | 郑淇 | [NAACL19]Simple Question Answering with Subgraph Ranking and Joint-Scoring<br/>[NAACL19]Oldis Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text<br/>[EMNLP18]Knowledge Base Question Answering via Encoding of Complex Query Graphs<br/>[COLING16]Constraint-based Question Answering on Knowledge Base |    [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week9/Entity%20linking%20in%20Enterprise%20search.pptx)    |
-|  10 (4.28)  | 黄子寅 |   |   |
+|  11 (4.28)  | 黄子寅 | [NAACL2019]Combining Distant and Direct Supervision for Neural Relation Extraction |   |
 | 11 (4.28) | 纪焘 | [NAACL19]Left-2-Right Dependency Parsing with Pointer Networks<br/>[NAACL19]On Dif culties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week11/naacl19_dep_parsing.pdf) |
-|  11 (5.9)  | 毛鑫 |       |                                          |
 | 12 (5.9) | 韦阳 | [NAACL19]Unsupervised Recurrent Neural Network Grammars<br/>[ICLR19]Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks<br/>[ICLR18]Neural Language Modeling by Jointly Learning Syntax and Lexicon | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week12/lecture8.pdf) |
-|  12 (5.16)  | 施力业 |       |                                          |
-| 13 (5.16)| 李雨承  |       | |
-|  13 (5.23)  | 刘宇芳 |       |                                          |
-| 14 (5.23) | 霍沛 |       | |
-|  14 (5.30)  | 许伟杰 |       |                                          |
+|  13 (5.16)  | 施力业 |       |                                          |
+| 13 (5.16)| 毛鑫 |       | |
+|  14 (5.23)  | 许伟杰 |       |                                          |
+| 14 (5.23) | 李雨承 |       | |
+|  15 (5.30)  | 霍沛 |       |                                          |
 | 15 (5.30) | 胡佳颖 |       | |
-|  15 (6.6)  | 赵尚卿 |       |                                          |
-| 16 (6.6)  | 杜雨沛 |       | |
-| 16 (6.13) | 汪贻俊 |                       |                                          |
+|  16 (6.6)  | 赵尚卿 |       |                                          |
+| 16 (6.6)  | 刘宇芳 |       | |
+| 17 (6.13) | 杜雨沛 |                       |                                          |
 | 17 (6.13) | 左鸿洋 |  | |
-| 17 (6.13) |    |                |                                          |
+| 18 (6.20) | 汪贻俊 |                |                                          |
 | 18 (6.20) | | ||
 
 ---
