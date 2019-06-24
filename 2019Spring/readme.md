@@ -64,9 +64,9 @@ Venue: 文附楼203
 | 14 (5.23) | 李雨承 |       | |
 |  15 (5.30)  | 霍沛 | [AAAI19]DialogueRNN: An Attentive RNN for Emotion Detection in Conversations | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 15 (5.30) | 胡佳颖 | [ACL18]Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
-|  16 (6.6)  | 赵尚卿 |       |                                          |
+|  16 (6.6)  | 赵尚卿 | [SIGIR19]Human Behavior Inspired Machine Reading Comprehension | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 16 (6.6)  | 刘宇芳 |[UAI05]Learning to Map Sentences to Logical Form: Structured Classification withProbabilistic Categorial<br/>[EMNLP10]Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order Unification| [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 17 (6.13) | 杜雨沛 | Laplacian Matrix, Matrix Factorization Graph Embeddings and Graph-based Semi-supervised Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
-| 17 (6.13) | 纪焘 | [ACL18]Accurate SHRG-Based Semantic Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+| 17 (6.13) | 纪焘 | [ACL18]Accurate SHRG-Based Semantic Parsing |  |
 
 ---
