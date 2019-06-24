@@ -58,17 +58,17 @@ Venue: 文附楼203
 |  11 (4.28)  | 黄子寅 | [NAACL2019]Combining Distant and Direct Supervision for Neural Relation Extraction |   |
 | 11 (4.28) | 纪焘 | [NAACL19]Left-2-Right Dependency Parsing with Pointer Networks<br/>[NAACL19]On Dif culties of Cross-Lingual Transfer with Order Differences: A Case Study on Dependency Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week11/naacl19_dep_parsing.pdf) |
 | 12 (5.9) | 韦阳 | [NAACL19]Unsupervised Recurrent Neural Network Grammars<br/>[ICLR19]Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks<br/>[ICLR18]Neural Language Modeling by Jointly Learning Syntax and Lexicon | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/week12/lecture8.pdf) |
-|  13 (5.16)  | 施力业 |       |                                          |
-| 13 (5.16)| 毛鑫 |       | |
-|  14 (5.23)  | 许伟杰 |       |                                          |
+|  13 (5.16)  | 施力业 | [AAAI18]Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+| 13 (5.16)| 毛鑫 | [ICLR18]Graph Attention Networks<br/>[ISWC17]Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding<br/>[IJCAI18]Bootstrapping Entity Alignment with Knowledge Graph Embedding<br/>[EMNLP18]Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+|  14 (5.23)  | 许伟杰 | [NIPS14]Generative Adversarial Nets | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 14 (5.23) | 李雨承 |       | |
-|  15 (5.30)  | 霍沛 |       |                                          |
-| 15 (5.30) | 胡佳颖 |       | |
+|  15 (5.30)  | 霍沛 | [AAAI19]DialogueRNN: An Attentive RNN for Emotion Detection in Conversations | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+| 15 (5.30) | 胡佳颖 | [ACL18]Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 |  16 (6.6)  | 赵尚卿 |       |                                          |
-| 16 (6.6)  | 刘宇芳 |       | |
-| 17 (6.13) | 杜雨沛 |                       |                                          |
-| 17 (6.13) | 左鸿洋 |  | |
-| 18 (6.20) | 汪贻俊 |                |                                          |
-| 18 (6.20) | | ||
+| 16 (6.6)  | 刘宇芳 | [UAI05]Learning to Map Sentences to Logical Form: Structured Classification with
+Probabilistic Categorial<br/>[EMNLP10]Inducing Probabilistic CCG Grammars from Logical Form with Higher-Order
+Unification | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+| 17 (6.13) | 杜雨沛 | Laplacian Matrix, Matrix Factorization Graph Embeddings and Graph-based Semi-supervised Learning | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
+| 17 (6.13) | 纪焘 | [ACL18]Accurate SHRG-Based Semantic Parsing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 
 ---
