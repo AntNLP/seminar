@@ -61,7 +61,7 @@ Venue: 文附楼203
 |  13 (5.16)  | 施力业 | [AAAI18]Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 13 (5.16)| 毛鑫 | [ICLR18]Graph Attention Networks<br/>[ISWC17]Cross-Lingual Entity Alignment via Joint Attribute-Preserving Embedding<br/>[IJCAI18]Bootstrapping Entity Alignment with Knowledge Graph Embedding<br/>[EMNLP18]Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 |  14 (5.23)  | 许伟杰 | [NIPS14]Generative Adversarial Nets | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
-| 14 (5.23) | 李雨承 |       | |
+| 14 (5.23) | 李雨承 | [EMNLP17]Adversarial Learning for Neural Dialogue Generation | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 |  15 (5.30)  | 霍沛 | [AAAI19]DialogueRNN: An Attentive RNN for Emotion Detection in Conversations | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 | 15 (5.30) | 胡佳颖 | [ACL18]Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
 |  16 (6.6)  | 赵尚卿 | [SIGIR19]Human Behavior Inspired Machine Reading Comprehension | [slides](https://github.com/AntNLP/seminar/blob/master/2019Spring/post_week12) |
