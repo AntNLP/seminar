@@ -1,6 +1,6 @@
  # AntNLP Seminar -- 2019 Fall
 
-Time: 2:00 pm, Wednesday
+Time: 9:30 pm, Wednesday
 
 Venue: Meeting room in the Science Building (B).
 
@@ -47,15 +47,15 @@ Week   | Speaker   | Paper   | Slides
 4      | 孙长志 |   |
 4      | 刘宇芳 |   |
 5      | 雷钲仪 |   |
-5      |  新生  |   |
-6      |  纪焘  |   |
+5      |  纪焘  |   |
 6      |  韦阳  |   |
-7      | 黄子寅 |   |
-7      |  郑淇  |   |
-8      | 孙长志 |   |
+6      | 黄子寅 |   |
+7      |  郑淇 |   |
+7      | 孙长志 |   |
 8      | 刘宇芳 |   |
-9      | 雷钲仪 |   |
-9      |  新生 |   |
+8      | 雷钲仪 |   |
+9      |  |   |
+9      |  |   |
 10     |  |   |
 10     |  |   |
 11     |  |   |
