@@ -1,4 +1,4 @@
- # AntNLP Seminar -- 2018 Spring
+ # AntNLP Seminar -- 2019 Fall
 
 Time: 2:00 pm, Wednesday
 
