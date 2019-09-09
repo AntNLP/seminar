@@ -2,7 +2,7 @@
 
 Time: 9:30 am, Wednesday
 
-Venue: cience Building B914.
+Venue: Science Building B914.
 
 Welcome to AntNLP Seminar 2019 Fall. :)
 
