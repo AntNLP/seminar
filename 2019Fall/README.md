@@ -1,8 +1,8 @@
  # AntNLP Seminar -- 2019 Fall
 
-Time: 9:30 pm, Wednesday
+Time: 9:30 am, Wednesday
 
-Venue: Meeting room in the Science Building (B).
+Venue: cience Building B914.
 
 Welcome to AntNLP Seminar 2019 Fall. :)
 
