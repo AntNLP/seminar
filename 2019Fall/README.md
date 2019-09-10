@@ -40,21 +40,20 @@ Welcome to AntNLP Seminar 2019 Fall. :)
 
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
-2      |  纪焘  |   |
-2      |  韦阳  |   |
+2      |  纪焘  | [Tutorial] Graph-Based Meaning Representations: Design and Processing  | [Whole Slides](https://github.com/cfmrp/tutorial/blob/master/slides.pdf)
 3      | 黄子寅 |   |
 3      |  郑淇  |   |
 4      | 孙长志 |   |
 4      | 刘宇芳 |   |
 5      | 雷钲仪 |   |
-5      |  纪焘  |   |
-6      |  韦阳  |   |
+5      |  韦阳  |   |
+6      |  纪焘  |   |
 6      | 黄子寅 |   |
 7      |  郑淇 |   |
 7      | 孙长志 |   |
 8      | 刘宇芳 |   |
 8      | 雷钲仪 |   |
-9      |  |   |
+9      |  韦阳  |   |
 9      |  |   |
 10     |  |   |
 10     |  |   |
