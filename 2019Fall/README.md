@@ -41,10 +41,10 @@ Welcome to AntNLP Seminar 2019 Fall. :)
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
 2      |  纪焘  | [Tutorial] Graph-Based Meaning Representations: Design and Processing  | [Whole Slides](https://github.com/cfmrp/tutorial/blob/master/slides.pdf)
-3      | 黄子寅 |[EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering  [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
+3      | 黄子寅 |[EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering <br> [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
 3      |  郑淇  |   |
 4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  |
-4      | 刘宇芳 | [ACL17]A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
+4      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
 5      | 雷钲仪 |   |
 5      |  韦阳  |   |
 6      |  纪焘  |   |
