@@ -46,7 +46,7 @@ Week   | Speaker   | Paper   | Slides
 4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  |
 4      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
 5      | 雷钲仪 |   |
-5      |  韦阳  |   |
+5      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
 6      |  纪焘  |   |
 6      | 黄子寅 |   |
 7      |  郑淇 |   |
