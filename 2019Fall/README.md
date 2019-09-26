@@ -41,10 +41,10 @@ Welcome to AntNLP Seminar 2019 Fall. :)
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
 2      |  纪焘  | [Tutorial] Graph-Based Meaning Representations: Design and Processing  | [Whole Slides](https://github.com/cfmrp/tutorial/blob/master/slides.pdf)
-3      | 黄子寅 |[EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering <br> [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
-3      |  郑淇  |   |
-4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  |
-5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
+3      | 黄子寅 | [EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering <br> [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
+3      |  郑淇  | [EMNLP19] Language Model as Knowledge Bases? | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week3/antnlp190913.pdf)
+4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week4/Survey-on-CLEs.key)
+5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/CCGParsing.pptx)
 5      | 雷钲仪 |   |
 6      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
 7      |  郑淇  |   |
