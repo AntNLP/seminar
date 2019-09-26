@@ -1,6 +1,6 @@
  # AntNLP Seminar -- 2019 Fall
 
-Time: 9:30 am, Wednesday
+Time: 3:00 pm, Tuesday
 
 Venue: Science Building B914.
 
@@ -44,29 +44,27 @@ Week   | Speaker   | Paper   | Slides
 3      | 黄子寅 |[EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering <br> [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
 3      |  郑淇  |   |
 4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  |
-4      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
+5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  |
 5      | 雷钲仪 |   |
-5      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
-6      |  纪焘  |   |
-6      | 黄子寅 |   |
-7      |  郑淇 |   |
-7      | 孙长志 |   |
-8      | 刘宇芳 |   |
-8      | 雷钲仪 |   |
-9      |  韦阳  |   |
-9      |  |   |
-10     |  |   |
-10     |  |   |
-11     |  |   |
-11     |  |   |
-12     |  |   |
-12     |  |   |
-13     |  |   |
-13     |  |   |
-14     |  |   |
-14     |  |   |
-15     |  |   |
-15     |  |   |
+6      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
+7      |  郑淇  |   |
+7      | 黄子寅 |   |
+8      |  周杰  |   |
+8      | 白庆春 |   |
+9      |  纪焘  |   |
+9      | 姚岳坤 |   |
+10     | 刘宇芳 |   |
+10     | 雷钲仪 |   |
+11     |  韦阳  |   |
+11     |  郑淇  |   |
+12     | 黄子寅 |   |
+12     |  周杰 |   |
+13     | 白庆春 |   |
+13     |  纪焘 |   |
+14     | 姚岳坤 |   |
+14     | 刘宇芳 |   |
+15     | 雷钲仪 |   |
+15     |  韦阳  |   |
 16     |  |   |
 16     |  |   |
 17     |  |   |
