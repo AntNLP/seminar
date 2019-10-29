@@ -49,7 +49,7 @@ Week   | Speaker   | Paper   | Slides
 6      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
 7      |  郑淇  |   |
 7      | 黄子寅 |   |
-8      |  周杰  |   |
+8      |  周杰  |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | 
 8      | 白庆春 |   |
 9      |  纪焘  |   |
 9      | 姚岳坤 |   |
