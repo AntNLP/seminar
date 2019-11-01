@@ -51,6 +51,7 @@ Week   | Speaker   | Paper   | Slides
 7      | 黄子寅 |   |
 8      |  周杰  |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | 
 8      | 白庆春 |   |
+11.1- 11.8 | Break for EMNLP2019 | |
 9      |  纪焘  |   |
 9      | 姚岳坤 |   |
 10     | 刘宇芳 |   |
