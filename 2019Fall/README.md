@@ -46,14 +46,13 @@ Week   | Speaker   | Paper   | Slides
 4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week4/Survey-on-CLEs.key)
 5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/CCGParsing.pptx)
 5      | 雷钲仪 |   |
-6      |  韦阳  | [Tutorial] Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
-7      |  郑淇  |   |
-7      | 黄子寅 |   |
+6      |  韦阳  | [Tutorial] (Part I)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
+7      | 黄子寅  | [Tutorial] (Part II)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
+7      | 白庆春 |   |
 8      |  周杰  |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | 
-8      | 白庆春 |   |
 11.1- 11.8 | Break for EMNLP2019 | |
-9      |  纪焘  |   |
-9      | 姚岳坤 |   |
+9      |  纪焘  | [Tutorial] (Part III)Discreteness in Neural Natural Language Processing  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week9/emnlp19-Discreteness-3.pdf)
+9      |  郑淇  |   |
 10     | 刘宇芳 |   |
 10     | 雷钲仪 |   |
 11     |  韦阳  |   |
