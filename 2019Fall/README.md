@@ -45,32 +45,31 @@ Week   | Speaker   | Paper   | Slides
 3      |  郑淇  | [EMNLP19] Language Model as Knowledge Bases? | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week3/antnlp190913.pdf)
 4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week4/Survey-on-CLEs.key)
 5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/CCGParsing.pptx)
-5      | 雷钲仪 |   |
+5      | 雷钲仪 |  [NIPS19] Cross-lingual Language Model Pre-training | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/XLM-Pretraining.pdf)
 6      |  韦阳  | [Tutorial] (Part I)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
 7      | 黄子寅  | [Tutorial] (Part II)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
-7      | 白庆春 |   |
+7      | 白庆春 |  Discussion on Time-sync Danmaku data | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week7/danmuku%20comments.pdf)
 8      |  周杰  |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | 
 11.1- 11.8 | Break for EMNLP2019 | |
 9      |  纪焘  | [Tutorial] (Part III)Discreteness in Neural Natural Language Processing  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week9/emnlp19-Discreteness-3.pdf)
-9      |  郑淇  |   |
-10     | 刘宇芳 |   |
-10     | 雷钲仪 |   |
-11     |  韦阳  |   |
-11     |  郑淇  |   |
-12     | 黄子寅 |   |
-12     |  周杰 |   |
-13     | 白庆春 |   |
-13     |  纪焘 |   |
-14     | 姚岳坤 |   |
-14     | 刘宇芳 |   |
-15     | 雷钲仪 |   |
-15     |  韦阳  |   |
-16     |  |   |
-16     |  |   |
-17     |  |   |
-17     |  |   |
-18     |  |   |
-18     |  |   |
+10      |  郑淇  |   |
+10      |  孙长志  |   |
+11     | 刘宇芳 |   |
+11     | 雷钲仪 |   |
+12     |  韦阳  |   |
+12     |  郑淇  |   |
+13     | 黄子寅 |   |
+13     |  周杰 |   |
+14     | 白庆春 |   |
+14     |  纪焘 |   |
+15     | 姚岳坤 |   |
+15     | 刘宇芳 |   |
+16     | 雷钲仪 |   |
+16     |  韦阳  |   |
+17     |    |   |
+17     |    |   |
+18     |    |   |
+18     |    |   |
 
 ---
 ## F.A.Q.
