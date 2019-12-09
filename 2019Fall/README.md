@@ -53,20 +53,20 @@ Week   | Speaker   | Paper   | Slides
 11.1- 11.8 | Break for EMNLP2019 | |
 9      |  纪焘  | [Tutorial] (Part III)Discreteness in Neural Natural Language Processing  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week9/emnlp19-Discreteness-3.pdf)
 10      |  郑淇  |   |
-10      |  孙长志  |   |
+12.10   |  Break for ACL DDL  |   |
+11      |  孙长志  |   |
 11     | 刘宇芳 |   |
-11     | 雷钲仪 |   |
+12     | 雷钲仪 |   |
 12     |  韦阳  |   |
-12     |  郑淇  |   |
+13     |  郑淇  |   |
 13     | 黄子寅 |   |
-13     |  周杰 |   |
+14     |  周杰 |   |
 14     | 白庆春 |   |
-14     |  纪焘 |   |
+15     |  纪焘 |   |
 15     | 姚岳坤 |   |
-15     | 刘宇芳 |   |
+16     | 刘宇芳 |   |
 16     | 雷钲仪 |   |
-16     |  韦阳  |   |
-17     |    |   |
+17     |  韦阳  |   |
 17     |    |   |
 18     |    |   |
 18     |    |   |
