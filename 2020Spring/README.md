@@ -2,7 +2,7 @@
 
 Time: 3:00 pm, Tuesday
 
-Venue: Online (QQ)
+Venue: Online (QQ: add QQ[**792321264**] to get the link)
 
 Welcome to AntNLP Seminar 2020 Spring. :)
 
