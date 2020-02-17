@@ -56,7 +56,7 @@ Week   | Speaker   | Paper   | Slides
 12.10   |  Break for ACL DDL  |   |
 11      |  孙长志  |   |
 12     |  韦阳  | [ACL18] What you can cram into a single $&!#* vector:  Probing sentence embeddings for linguistic properties <br>  Designing and Interpreting Probes with Control Tasks | [Slides1](https://github.com/AntNLP/seminar/blob/master/2019Fall/week12/P18-1198.Presentation.pdf) <br> [Slides2](https://github.com/AntNLP/seminar/blob/master/2019Fall/week12/hewitt2019control_slides.pdf)
-13     |  周杰 |   |
+13     |  周杰 |  [NAACL18] Zero-shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week13/paper_sharing_jzhou_20200107.pdf)
 14     | 雷钲仪 | [EMNLP19] Explicit Cross-lingual Pre-training for Unsupervised Machine Translation <br> [EMNLP19] Do We Really Need Fully Unsupervised Cross-Lingual Embeddings? | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week14/%E9%9B%B7%E9%92%B2%E4%BB%AA.pdf) 
 14     | 刘宇芳 | [NAACL19] Attention is not Explanation <br> [EMNLP19] Attention is not not Explanation <br> [ACL19] Is Attention Interpretable? |  [Slides1](https://github.com/AntNLP/seminar/blob/master/2019Fall/week14/Attention%20is%20not%20Explanation(1).pdf) <br> [Slides2](https://github.com/AntNLP/seminar/blob/master/2019Fall/week14/emnlp19_slides(1).pdf) <br> [Slides3](https://github.com/AntNLP/seminar/blob/master/2019Fall/week14/Is%20Attention%20Interpretable(1).pdf) 
 
