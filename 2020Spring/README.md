@@ -1,14 +1,13 @@
- # AntNLP Seminar -- 2019 Fall
+ # AntNLP Seminar -- 2020 Spring
 
 Time: 3:00 pm, Tuesday
 
-Venue: Science Building B914.
-
-Welcome to AntNLP Seminar 2019 Fall. :)
+Venue: Online (QQ)
+Welcome to AntNLP Seminar 2020 Spring. :)
 
 ## On Papers
 
-- Please choose recent papers (2019, 2018) from top NLP/AI venues. A (incomplete) list is
+- Please choose recent papers (2020, 2019) from top NLP/AI venues. A (incomplete) list is
   - NLP: ACL, TACL, EMNLP, NAACL, EACL
   - ML:  ICML, NeurIPS, AISTATS, JMLR, ICLR
   - AI:  AAAI, IJCAI
@@ -40,28 +39,11 @@ Welcome to AntNLP Seminar 2019 Fall. :)
 
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
-2      |  纪焘  | [Tutorial] Graph-Based Meaning Representations: Design and Processing  | [Whole Slides](https://github.com/cfmrp/tutorial/blob/master/slides.pdf)
-3      | 黄子寅 | [EMNLP19] A Discrete Hard EM Approach for Weakly Supervised Question Answering <br> [EMNLP19] Uncover the Ground-Truth Relations in Distant Supervision: A Neural Expectation-Maximization Framework |
-3      |  郑淇  | [EMNLP19] Language Model as Knowledge Bases? | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week3/antnlp190913.pdf)
-4      |  纪焘  | An Survey on CLEs: Cross-Lingual Word Embeddings  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week4/Survey-on-CLEs.key)
-5      | 刘宇芳 | [ACL17] A* CCG Parsing with a Supertag and Dependency Factored Model <br> [ACL19] Automatic Generation of High Quality CCGbanks for Parser Domain Adaptation  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/CCGParsing.pptx)
-5      | 雷钲仪 |  [NIPS19] Cross-lingual Language Model Pre-training | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week5/XLM-Pretraining.pdf)
-6      |  韦阳  | [Tutorial] (Part I)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
-7      | 黄子寅  | [Tutorial] (Part II)Latent Structure Models for NLP  | [Slides](https://deep-spin.github.io/tutorial/acl.pdf)
-7      | 白庆春 |  Discussion on Time-sync Danmaku data | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week7/danmuku%20comments.pdf)
-8      |  周杰  |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | 
-11.1- 11.8 | Break for EMNLP2019 | |
-9      |  纪焘  | [Tutorial] (Part III)Discreteness in Neural Natural Language Processing  | [Slides](https://github.com/AntNLP/seminar/blob/master/2019Fall/week9/emnlp19-Discreteness-3.pdf)
-10      |  郑淇  |   |
-12.10   |  Break for ACL DDL  |   |
-11      |  孙长志  |   |
-11     | 刘宇芳 |   |
-12     | 雷钲仪 |   |
-12     |  韦阳  |   |
-13     |  郑淇  |   |
-13     | 黄子寅 |   |
-14     |  周杰 |   |
-14     | 白庆春 |   |
+2      |    |  |
+2      |    |  |
+2      |    |  |
+2      |    |  |
+2      |    |  |
 
 
 ---
@@ -72,4 +54,5 @@ Week   | Speaker   | Paper   | Slides
 - or you can contact:
   - SUN  Changzhi,
   - Tao Ji, <taoji.cs@gmail.com>
+  - Yang Wei, <i@godweiyang.com>
 - any quesitons, please feel free to contact us.
