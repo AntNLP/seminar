@@ -55,14 +55,10 @@ Week   | Speaker   | Paper   | Slides
 10      |  郑淇  |   |
 12.10   |  Break for ACL DDL  |   |
 11      |  孙长志  |   |
-11     | 刘宇芳 |   |
-12     | 雷钲仪 |   |
-12     |  韦阳  |   |
-13     |  郑淇  |   |
-13     | 黄子寅 |   |
-14     |  周杰 |   |
-14     | 白庆春 |   |
-
+12     |  韦阳  | [ACL18] What you can cram into a single $&!#* vector:  Probing sentence embeddings for linguistic properties <br>  Designing and Interpreting Probes with Control Tasks |
+13     |  周杰 |   |
+14     | 雷钲仪 | [EMNLP19] Explicit Cross-lingual Pre-training for Unsupervised Machine Translation <br> [EMNLP19] Do We Really Need Fully Unsupervised Cross-Lingual Embeddings? |
+14     | 刘宇芳 | [NAACL19] Attention is not Explanation <br> [EMNLP19] Attention is not not Explanation <br> [ACL19] Is Attention Interpretable? |  
 
 ---
 ## F.A.Q.
