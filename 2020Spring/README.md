@@ -1,8 +1,8 @@
  # AntNLP Seminar -- 2020 Spring
 
-Time: 2:00 pm, Tuesday
+Time: **2:00 pm, Tuesday**
 
-Venue: Online (Tencent Meeting, **ID: xxx**)
+Venue: Online (**Tencent Meeting, ID: xxx**)
 
 Welcome to AntNLP Seminar 2020 Spring. :)
 
