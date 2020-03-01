@@ -1,8 +1,8 @@
  # AntNLP Seminar -- 2020 Spring
 
-Time: 3:00 pm, Tuesday
+Time: 2:00 pm, Tuesday
 
-Venue: Online (QQ: add QQ[**792321264**] to get the link)
+Venue: Online (Tencent Meeting, **ID: xxx**)
 
 Welcome to AntNLP Seminar 2020 Spring. :)
 
@@ -40,12 +40,12 @@ Welcome to AntNLP Seminar 2020 Spring. :)
 
 Week   | Speaker   | Paper   | Slides
 :---:  | :---: | --- | :---:
-2      |    |  |
-2      |    |  |
-2      |    |  |
-2      |    |  |
-2      |    |  |
-
+1      |  杜雨沛  |  |
+1      |  郑淇  |  |
+2      |  纪焘  |  |
+2      |  韦阳  |  |
+3      |  黄子寅  |  |
+3      |  刘宇芳  |  |
 
 ---
 ## F.A.Q.
@@ -53,7 +53,7 @@ Week   | Speaker   | Paper   | Slides
 1. How to fill the slots and upload your slides?
 - [creating-a-pull-request-from-a-fork/](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 - or you can contact:
-  - SUN  Changzhi,
+  - Changzhi Sun,
   - Tao Ji, <taoji.cs@gmail.com>
   - Yang Wei, <i@godweiyang.com>
 - any quesitons, please feel free to contact us.
