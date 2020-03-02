@@ -43,7 +43,7 @@ Week   | Speaker   | Paper   | Slides
 1      |  杜雨沛  |  |
 1      |  郑淇  |  |
 2      |  纪焘  |  |
-2      |  韦阳  |  |
+2      |  韦阳  | [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/abs/1909.06639)<br>[Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222)[You Only Need Attention to Traverse Trees](https://www.aclweb.org/anthology/P19-1030/) | 
 3      |  黄子寅  |  |
 3      |  刘宇芳  |  |
 
