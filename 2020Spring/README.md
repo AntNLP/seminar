@@ -38,7 +38,7 @@ Welcome to AntNLP Seminar 2020 Spring. :)
 
 ## Agenda
 
-Week   | Speaker   | Paper   | Slides
+Week   | Speaker   | Paper   | Materials
 :---:  | :---: | --- | :---:
 1      |  杜雨沛  |  |
 1      |  郑淇  |  |
