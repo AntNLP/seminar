@@ -43,7 +43,7 @@ Week   | Speaker   | Paper   | Slides
 1      |  杜雨沛  |  |
 1      |  郑淇  |  |
 2      |  纪焘  |  |
-2      |  韦阳  | [[EMNLP19]Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)
+2      |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)
 3      |  黄子寅  |  |
 3      |  刘宇芳  |  |
 
