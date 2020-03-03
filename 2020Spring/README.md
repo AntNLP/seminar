@@ -14,7 +14,7 @@ Welcome to AntNLP Seminar 2020 Spring. :)
   - AI:  AAAI, IJCAI
   - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
 
-- While we are interested in a broad range of NLP/AI topics, the followings (and a list [here](https://slack-files.com/T22T1UP8Q-F726RJERH-9a39cc3d9a)) are of great importance
+- While we are interested in a broad range of NLP/AI topics, the followings (and a list [here](https://app.slack.com/docs/T22T1UP8Q/FLT6K0WDV?origin_team=T22T1UP8Q&origin_channel=C24EP1E9M)) are of great importance
 
   - syntactic/semantic parsing
   - entity/relation/event extraction
