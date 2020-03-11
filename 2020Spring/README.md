@@ -42,7 +42,7 @@ Week   | Speaker   | Paper   | Materials
 :---:  | :---: | --- | :---:
 1      |  杜雨沛  |  |
 1      |  郑淇  |  |
-2      |  纪焘  |  |
+2      |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) |
 2      |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)<br>[Interpretation](https://godweiyang.com/2020/03/02/emnlp19-mgsa/)
 3      |  黄子寅  |  |
 3      |  刘宇芳  |  |
