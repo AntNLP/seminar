@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2020 Spring. :)
 
 Week   | Speaker   | Paper   | Materials
 :---:  | :---: | --- | :---:
-1      |  杜雨沛  |  |
+1      |  杜雨沛  | [[NAACL19]Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications](https://www.aclweb.org/anthology/N19-1337) | [Slides](https://docs.google.com/presentation/d/1wUul7ZYVPEV_SxKWDEQr4bNcNtq4BNfrMzYmq6FXtps/edit?usp=sharing)
 1      |  郑淇  |  |
 2      |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) |
 2      |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)<br>[Interpretation](https://godweiyang.com/2020/03/02/emnlp19-mgsa/)
