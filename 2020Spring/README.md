@@ -46,6 +46,30 @@ Week   | Speaker   | Paper   | Materials
 2      |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)<br>[Interpretation](https://godweiyang.com/2020/03/02/emnlp19-mgsa/)
 3      |  黄子寅  |  |
 3      |  刘宇芳  |  |
+| 4 | 张欣蕾	|	[KDD2019] Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information|
+| 4 | 陶思雨	|	[ACL19]Learning to Ask Unanswerable Questions for Machine Reading Comprehension|
+| 5 | 张森辉	|	[ACL19]You Write Like You Eat: Stylistic Variation as a Predictor of Social Stratification|
+| 5 | 杨紫荆	|	[WWW2019]Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences|
+| 6 | 农伟	|	[ACL19]Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering|
+| 6 | 王慧琪	|	[ACL2019]Coreference Resolution with Entity Equalization|
+| 7 | 陈泽远	|	(CIKM2019)Learning and Reasoning on Graph for Recommendation|
+| 7 | 曹鑫磊	|	[EMNLP2019]Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification|
+| 8 | 张艺	|	[ICML2019]Mixture Models for Diverse Machine Translation: Tricks of the Trade|
+| 8 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|
+| 9 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|
+| 9 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|
+| 10 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport|
+| 10 | 张甜甜	|	[NAACL2018]Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer|
+| 11 | 李德健	|	[ACL 19] Discourse Representation Parsing for Sentences and Documents|
+| 11 | 汤旭东	|	[EMNLP19]Certified Robustness to Adversarial Word Substitutions|
+| 12 | 陈聪	|	[ACL2019]Depth Growing for Neural Machine Translation|
+| 12 | 刘雪	|	[EMNLP2019] Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots|
+| 13 | 杨双吉	|	[EMNLP 2019] Language Models as Knowledge Bases?|
+| 13 | 丁超越	|	[EMNLP2017]Semi-supervised Structured Prediction with Neural CRF Autoencoder|
+| 14 | 张启凡	|	[SIGMOD2019]Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale|
+| 14 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs|
+| 15 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|
+| 15 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
 
 ---
 ## F.A.Q.
