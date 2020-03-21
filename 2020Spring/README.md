@@ -70,6 +70,8 @@ Week   | Speaker   | Paper   | Materials
 | 14 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs|
 | 15 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|
 | 15 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
+| 16 | 班启敏	|	[SIGIR2019]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|
+| 16 | 洪诗诗	||
 
 ---
 ## F.A.Q.
