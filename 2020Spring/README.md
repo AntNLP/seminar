@@ -72,10 +72,10 @@ Week   | Date | Speaker   | Paper   | Materials
 | 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
 | 16 |  6.18 | 班启敏	|	[SIGIR2019]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|
 | 16 |  6.18 | 洪诗诗	||
-| 17 |  6.25 | 王伟	|| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction
-| 17 |  6.25 | 陈道佳 || [NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing
-| 18 |  7.2 | 胡楠 || [EMNLP19]Supervising Unsupervised Open Information Extraction Models
-| 18 |  7.2 | 蔡泽锐 || [ACL19]Matching the Blanks: Distributional Similarity for Relation Learning
+| 17 |  6.25 | 王伟	| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction |
+| 17 |  6.25 | 陈道佳 |[NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing |
+| 18 |  7.2 | 胡楠 | [EMNLP19]Supervising Unsupervised Open Information Extraction Models |
+| 18 |  7.2 | 蔡泽锐 | [ACL19]Matching the Blanks: Distributional Similarity for Relation Learning |
 
 ---
 ## F.A.Q.
