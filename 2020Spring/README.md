@@ -39,7 +39,7 @@ Welcome to AntNLP Seminar 2020 Spring. :)
 ## Agenda
 
 Week   | Date | Speaker   | Paper   | Materials
-:---:  | :---: | --- | :---:
+:---:  | :---: | :---: | --- | :---:
 1      |  3.5 | 杜雨沛  | [[NAACL19]Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications](https://www.aclweb.org/anthology/N19-1337) | [Slides](https://docs.google.com/presentation/d/1wUul7ZYVPEV_SxKWDEQr4bNcNtq4BNfrMzYmq6FXtps/edit?usp=sharing)
 1      |  3.5 |  郑淇  |  |
 2      |  3.12 |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) |
