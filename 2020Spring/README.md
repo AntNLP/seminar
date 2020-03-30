@@ -2,7 +2,7 @@
 
 Time: **18:00 pm, Thursday**
 
-Venue: Online (**Tencent Meeting, ID: 607 726 876**)
+Venue: Online (**Tencent Meeting**)
 
 Welcome to AntNLP Seminar 2020 Spring. :)
 
