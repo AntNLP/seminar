@@ -76,6 +76,7 @@ Week   | Date | Speaker   | Paper   | Materials
 | 17 |  6.25 | 陈道佳 |[NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing |
 | 18 |  7.2 | 胡楠 | [EMNLP19]Supervising Unsupervised Open Information Extraction Models |
 | 18 |  7.2 | 蔡泽锐 | [ACL19]Matching the Blanks: Distributional Similarity for Relation Learning |
+| 18 |  7.2 | 刘少凡 | [AAAI2020] Pairwise Fairness for Ranking and Regression |
 
 ---
 ## F.A.Q.
