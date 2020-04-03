@@ -42,7 +42,7 @@ Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
 1      |  3.5 | 杜雨沛  | [[NAACL19]Investigating Robustness and Interpretability of Link Prediction via Adversarial Modifications](https://www.aclweb.org/anthology/N19-1337) | [Slides](https://docs.google.com/presentation/d/1wUul7ZYVPEV_SxKWDEQr4bNcNtq4BNfrMzYmq6FXtps/edit?usp=sharing)
 1      |  3.5 |  郑淇  |  |
-2      |  3.12 |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) |
+2      |  3.12 |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/Latent%20Permutation%20Variable.key)
 2      |  3.12 |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)<br>[Interpretation](https://godweiyang.com/2020/03/02/emnlp19-mgsa/)
 3      |  3.19 |  黄子寅  |  |
 3      |  3.19 |  刘宇芳  | [EMNLP19] Mask-Predict: Parallel Decoding of Conditional Masked Language Models | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week3/yfliu.pdf)
