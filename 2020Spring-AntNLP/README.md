@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2020 Spring. :)
 
 Week   | Speaker   | Paper   | Materials
 :---:  | :---: | --- | :---:
-1      |  纪焘  | | 
+1      |  纪焘  | Cross-lingual Encoder with Reordering Model  | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring-AntNLP/week1/Reordering%20for%20MSP.key)
 
 
 ---
