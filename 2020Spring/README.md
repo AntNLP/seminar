@@ -45,7 +45,7 @@ Week   | Date | Speaker   | Paper   | Materials
 2      |  3.12 |  纪焘  | [[ICLR18] Learning Latent Permutations with Gumbel-Sinkhorn Networks](http://arxiv.org/abs/1802.08665) |
 2      |  3.12 |  韦阳  | [[EMNLP19] Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/abs/1909.02222) | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week2/tree-transformer.pdf)<br>[Interpretation](https://godweiyang.com/2020/03/02/emnlp19-mgsa/)
 3      |  3.19 |  黄子寅  |  |
-3      |  3.19 |  刘宇芳  |  |
+3      |  3.19 |  刘宇芳  | [EMNLP19] Mask-Predict: Parallel Decoding of Conditional Masked Language Models | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week3/yfliu.pdf)
 | 4 |  3.26 | 张欣蕾	|	[KDD2019] Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week4/PointProcess-zxl.pptx)
 | 4 |  3.26 | 陶思雨	|	[ACL19]Learning to Ask Unanswerable Questions for Machine Reading Comprehension|
 | 5 |  4.2 | 张森辉	|	[ACL19]You Write Like You Eat: Stylistic Variation as a Predictor of Social Stratification|
