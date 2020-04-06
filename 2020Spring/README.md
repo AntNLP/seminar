@@ -47,7 +47,7 @@ Week   | Date | Speaker   | Paper   | Materials
 3      |  3.19 |  黄子寅  |  |
 3      |  3.19 |  刘宇芳  | [EMNLP19] Mask-Predict: Parallel Decoding of Conditional Masked Language Models | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week3/yfliu.pdf)
 | 4 |  3.26 | 张欣蕾	|	[KDD2019] Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week4/PointProcess-zxl.pptx)
-| 4 |  3.26 | 陶思雨	|	[ACL19]Learning to Ask Unanswerable Questions for Machine Reading Comprehension|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week4/tsy.pptx
+| 4 |  3.26 | 陶思雨	|	[ACL19]Learning to Ask Unanswerable Questions for Machine Reading Comprehension | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week4/tsy.pptx)
 | 5 |  4.2 | 张森辉	|	[ACL19]You Write Like You Eat: Stylistic Variation as a Predictor of Social Stratification| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week5/zsh.pptx)
 | 5 |  4.2 | 杨紫荆	|	[WWW2019]Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week5/yzj.pdf)
 | 6 |  4.9 | 农伟	|	[ACL19]Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering|
