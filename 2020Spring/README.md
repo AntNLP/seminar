@@ -50,12 +50,12 @@ Week   | Date | Speaker   | Paper   | Materials
 | 4 |  3.26 | 陶思雨	|	[ACL19]Learning to Ask Unanswerable Questions for Machine Reading Comprehension | [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week4/tsy.pptx)
 | 5 |  4.2 | 张森辉	|	[ACL19]You Write Like You Eat: Stylistic Variation as a Predictor of Social Stratification| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week5/zsh.pptx)
 | 5 |  4.2 | 杨紫荆	|	[WWW2019]Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week5/yzj.pdf)
-| 6 |  4.9 | 农伟	|	[ACL19]Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering|
+| 6 |  4.9 | 农伟	|	[ACL19]Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week6/nongwei.pdf)
 | 6 |  4.9 | 王慧琪	|	[ACL2019]Coreference Resolution with Entity Equalization|
 | 7 |  4.16 | 陈泽远	|	[CIKM2019]Learning and Reasoning on Graph for Recommendation|
-| 7 |  4.16 | 曹鑫磊	|	[EMNLP2019]Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification|
-| 8 |  4.23 | 张艺	|	[ICML2019]Mixture Models for Diverse Machine Translation: Tricks of the Trade|
-| 8 |  4.23 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|
+| 7 |  4.16 | 曹鑫磊	|	[EMNLP2019]Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week7/caoxinlei.pdf)
+| 8 |  4.23 | 张艺	|	[ICML2019]Mixture Models for Diverse Machine Translation: Tricks of the Trade|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week8/zhangyi.pdf)
+| 8 |  4.23 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week8/bofeng.pptx)
 | 9 |  4.30 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|
 | 9 |  4.30 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|
 | 10 |  5.7 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport|
