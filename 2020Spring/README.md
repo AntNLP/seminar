@@ -52,7 +52,7 @@ Week   | Date | Speaker   | Paper   | Materials
 | 5 |  4.2 | 杨紫荆	|	[WWW2019]Unifying Knowledge Graph Learning and Recommendation Towards a Better Understanding of User Preferences| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week5/yzj.pdf)
 | 6 |  4.9 | 农伟	|	[ACL19]Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering|
 | 6 |  4.9 | 王慧琪	|	[ACL2019]Coreference Resolution with Entity Equalization|
-| 7 |  4.16 | 陈泽远	|	(CIKM2019)Learning and Reasoning on Graph for Recommendation|
+| 7 |  4.16 | 陈泽远	|	[CIKM2019]Learning and Reasoning on Graph for Recommendation|
 | 7 |  4.16 | 曹鑫磊	|	[EMNLP2019]Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification|
 | 8 |  4.23 | 张艺	|	[ICML2019]Mixture Models for Diverse Machine Translation: Tricks of the Trade|
 | 8 |  4.23 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|
