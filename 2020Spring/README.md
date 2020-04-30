@@ -56,8 +56,8 @@ Week   | Date | Speaker   | Paper   | Materials
 | 7 |  4.16 | 曹鑫磊	|	[EMNLP2019]Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week7/caoxinlei.pdf)
 | 8 |  4.23 | 张艺	|	[ICML2019]Mixture Models for Diverse Machine Translation: Tricks of the Trade|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week8/zhangyi.pdf)
 | 8 |  4.23 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week8/bofeng.pptx)
-| 9 |  4.30 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|
-| 9 |  4.30 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|
+| 9 |  4.30 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/yjb.pptx)
+| 9 |  4.30 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/zsq.pdf)
 | 10 |  5.7 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport|
 | 10 |  5.7 | 张甜甜	|	[NAACL2018]Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer|
 | 11 |  5.14 | 李德健	|	[ACL 19] Discourse Representation Parsing for Sentences and Documents|
