@@ -70,6 +70,7 @@ Week   | Date | Speaker   | Paper   | Materials
 | 14 |  6.4 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs|
 | 15 |  6.11 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|
 | 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
+| 15 |  6.11 | 蒋伟光	|	[WWW2020]Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation|
 | 16 |  6.18 | 班启敏	|	[SIGIR2019]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|
 | 16 |  6.18 | 洪诗诗	||
 | 17 |  6.25 | 王伟	| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction |
