@@ -59,9 +59,9 @@ Week   | Date | Speaker   | Paper   | Materials
 | 9 |  4.30 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/yjb.pptx)
 | 9 |  4.30 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/zsq.pdf)
 | 10 |  5.7 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport|
-| 10 |  5.7 | 张甜甜	|	[ACL2020]A Novel Cascade Binary Tagging Framework for Relational Triple Extraction|
-| 11 |  5.14 | 李德健	|	[ACL 19] Discourse Representation Parsing for Sentences and Documents|
-| 11 |  5.14 | 汤旭东	|	[EMNLP19]Certified Robustness to Adversarial Word Substitutions|
+| 10 |  5.7 | 张甜甜	|	[ACL2020]A Novel Cascade Binary Tagging Framework for Relational Triple Extraction| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week10/ztt.pptx)
+| 11 |  5.14 | 李德健	|	[ACL 19] Discourse Representation Parsing for Sentences and Documents|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week11/ldj.pptx)
+| 11 |  5.14 | 汤旭东	|	[EMNLP19]Certified Robustness to Adversarial Word Substitutions|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week11/txd.pptx)
 | 12 |  5.21 | 陈聪	|	[ACL2019]Depth Growing for Neural Machine Translation|
 | 12 |  5.21 | 刘雪	|	[EMNLP2019] Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots|
 | 13 |  5.28 | 杨双吉	|	[EMNLP 2019] Language Models as Knowledge Bases?|
