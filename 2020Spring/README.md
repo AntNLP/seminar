@@ -58,16 +58,16 @@ Week   | Date | Speaker   | Paper   | Materials
 | 8 |  4.23 | 陈波冯	|	[ACL18]Towards Understanding Geometry of Knowledge Graph Embeddings|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week8/bofeng.pptx)
 | 9 |  4.30 | 叶加博	|	[TACL17]Cross-Sentence N-ary Relation Extraction with Graph LSTMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/yjb.pptx)
 | 9 |  4.30 | 赵尚卿	|	[ACL19]A Wind of Change: Detecting and Evaluating Lexical Semantic Change across Times and Domains|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week9/zsq.pdf)
-| 10 |  5.7 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport|
+| 10 |  5.7 | 宋子涵	|	[ACL19]Improving Textual Network Embedding with Global Attention via Optimal Transport| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week10/szh.pptx)
 | 10 |  5.7 | 张甜甜	|	[ACL2020]A Novel Cascade Binary Tagging Framework for Relational Triple Extraction| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week10/ztt.pptx)
 | 11 |  5.14 | 李德健	|	[ACL 19] Discourse Representation Parsing for Sentences and Documents|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week11/ldj.pptx)
 | 11 |  5.14 | 汤旭东	|	[EMNLP19]Certified Robustness to Adversarial Word Substitutions|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week11/txd.pptx)
-| 12 |  5.21 | 陈聪	|	[ACL2019]Depth Growing for Neural Machine Translation|
-| 12 |  5.21 | 刘雪	|	[EMNLP2019] Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots|
-| 13 |  5.28 | 杨双吉	|	[EMNLP 2019] Language Models as Knowledge Bases?|
-| 13 |  5.28 | 丁超越	|	[EMNLP2017]Semi-supervised Structured Prediction with Neural CRF Autoencoder|
-| 14 |  6.4 | 张启凡	|	[SIGMOD2019]Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale|
-| 14 |  6.4 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs|
+| 12 |  5.21 | 陈聪	|	[ACL2019]Depth Growing for Neural Machine Translation| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week12/cc.pptx)
+| 12 |  5.21 | 刘雪	|	[EMNLP2019] Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week12/lx.pptx)
+| 13 |  5.28 | 杨双吉	|	[EMNLP 2019] Language Models as Knowledge Bases?| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week13/ysj.pptx)
+| 13 |  5.28 | 丁超越	|	[EMNLP2017]Semi-supervised Structured Prediction with Neural CRF Autoencoder| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week13/dcy.pptx)
+| 14 |  6.4 | 张启凡	|	[SIGMOD2019]Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week14/zqf.pdf)
+| 14 |  6.4 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week14/syx.pptx)
 | 15 |  6.11 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|
 | 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
 | 15 |  6.11 | 蒋伟光	|	[WWW2020]Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation|
