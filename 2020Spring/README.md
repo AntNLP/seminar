@@ -68,18 +68,18 @@ Week   | Date | Speaker   | Paper   | Materials
 | 13 |  5.28 | 丁超越	|	[EMNLP2017]Semi-supervised Structured Prediction with Neural CRF Autoencoder| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week13/dcy.pptx)
 | 14 |  6.4 | 张启凡	|	[SIGMOD2019]Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week14/zqf.pdf)
 | 14 |  6.4 | 孙宇翔	|	[EMNLP19]Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs| [Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week14/syx.pptx)
-| 15 |  6.11 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|
-| 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|
-| 15 |  6.11 | 蒋伟光	|	[WWW2020]Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation|
-| 16 |  6.18 | 班启敏	|	[SIGIR19]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|
+| 15 |  6.11 | 张骏	|	[ACL2019]Generating Responses with a Specific Emotion in Dialog|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week15/zj.pptx)
+| 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week15/gj.pptx)
+| 15 |  6.11 | 蒋伟光	|	[WWW2020]Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week15/jwg.pptx)
+| 16 |  6.18 | 班启敏	|	[SIGIR19]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week16/bqm.pptx)
 | 16 |  6.18 | 洪诗诗	||
 | 16 |  6.18 | 张钊宁	|[TNNLS20]A Comprehensive Survey on Graph Neural Networks|
-| 17 |  6.25 | 王伟	| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction |
-| 17 |  6.25 | 陈道佳 |[NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing |
-| 17 |  6.25 | 李勇 |[ACL2020] A Formal Hierarchy of RNN Architectures |
+| 17 |  6.25 | 王伟	| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week17/ww.pdf)
+| 17 |  6.25 | 陈道佳 |[NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week17/cdj.pptx)
+| 17 |  6.25 | 李勇 |[ACL2020] A Formal Hierarchy of RNN Architectures |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week17/ly.pptx)
 | 18 |  7.2 | 胡楠 | [EMNLP19]Supervising Unsupervised Open Information Extraction Models |
-| 18 |  7.2 | 蔡泽锐 | [ACL19]Matching the Blanks: Distributional Similarity for Relation Learning |
-| 18 |  7.2 | 刘少凡 | [AAAI2020] Pairwise Fairness for Ranking and Regression |
+| 18 |  7.2 | 蔡泽锐 | [ACL19]Matching the Blanks: Distributional Similarity for Relation Learning |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week18/czr.pptx)
+| 18 |  7.2 | 刘少凡 | [AAAI2020] Pairwise Fairness for Ranking and Regression |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week18/lsf.pptx)
 
 ---
 ## F.A.Q.
