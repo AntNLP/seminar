@@ -72,7 +72,7 @@ Week   | Date | Speaker   | Paper   | Materials
 | 15 |  6.11 | 郭嘉	|	[NAACL19]Relation Extraction using Explicit Context Conditioning|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week15/gj.pptx)
 | 15 |  6.11 | 蒋伟光	|	[WWW2020]Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week15/jwg.pptx)
 | 16 |  6.18 | 班启敏	|	[SIGIR19]Relational Collaborative Filtering:Modeling Multiple Item Relations for Recommendation|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week16/bqm.pptx)
-| 16 |  6.18 | 洪诗诗	||[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week16/hss.pptx)
+| 16 |  6.18 | 洪诗诗	|[ACL18]Learning Domain-Sensitive and Sentiment-Aware Word Embeddings|[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week16/hss.pptx)
 | 16 |  6.18 | 张钊宁	|[TNNLS20]A Comprehensive Survey on Graph Neural Networks|
 | 17 |  6.25 | 王伟	| [NAACL19]Combining Distant and Direct Supervision for Neural Relation Extraction |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week17/ww.pdf)
 | 17 |  6.25 | 陈道佳 |[NAACL2019] Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing |[Slides](https://github.com/AntNLP/seminar/blob/master/2020Spring/week17/cdj.pptx)
