@@ -44,7 +44,7 @@ Welcome to AntNLP Seminar 2020 Fall. :)
 | 2      |  9.24 |  李鹏  | [Survey] Influence Functions on the Graph |
 | 3      |  10.01 |        |  |
 | 4       |  10.08 |   纪焘     |  |
-| 5      |  10.15 |    韦阳      |    |
+| 5      |  10.15 |    韦阳      |  [Survey] Compression Methods for Transformer-based Models  |
 | 6      |  10.22 |    黄子寅   |    |
 | 7      |  10.29  |   刘宇芳   |    |
 | 8      | 11.05   |   郑淇       |    |
