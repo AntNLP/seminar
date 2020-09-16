@@ -41,7 +41,7 @@ Welcome to AntNLP Seminar 2020 Fall. :)
 
 | Week   | Date | Speaker   | Paper   | Materials |
 | :---:  | :---: | :---: | --- | :---: |
-| 2      |  9.24 |  李鹏  | The Influence Functions on the Graph |
+| 2      |  9.24 |  李鹏  | [Survey]The Influence Functions on the Graph |
 | 3      |  10.01 |        |  |
 | 4       |  10.08 |   纪焘     |  |
 | 5      |  10.15 |    韦阳      |    |
