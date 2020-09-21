@@ -1,10 +1,10 @@
 # AntNLP Seminar -- 2020 Fall
 
-Time: **1:00 pm, Thursday**
+Time: **1:00 pm - 3:00 pm, Thursday**
 
-Venue: Science Building B914.
+Venue: Tin Ka Ping Academy 109 （田家炳楼109教室）
 
-Welcome to AntNLP Seminar 2020 Fall. :)
+Welcome to AntNLP Seminar 2020 Fall :)
 
 ## On Papers
 
@@ -41,7 +41,7 @@ Welcome to AntNLP Seminar 2020 Fall. :)
 
 | Week   | Date | Speaker   | Paper   | Materials |
 | :---:  | :---: | :---: | --- | :---: |
-| 2      |  9.24 |  李鹏  | [Survey] Influence Functions on the Graph |
+| 2      |  9.24 |  李鹏  | [Survey] The Influence Function on the Graph |
 | 3      |  10.01 |        |  |
 | 4       |  10.08 |   纪焘     |  |
 | 5      |  10.15 |    韦阳      |  [Survey] Compression Methods for Transformer-based Models  |
