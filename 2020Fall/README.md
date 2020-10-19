@@ -1,8 +1,8 @@
 # AntNLP Seminar -- 2020 Fall
 
-Time: **1:00 pm - 3：00 pm, Thursday**
+Time: **1:00 pm - 3：30 pm, Friday**
 
-Venue: Classroom 109, Tin Ka Ping Academy （田家炳楼109教室）
+Venue: B714, Science Building.
 
 Welcome to AntNLP Seminar 2020 Fall :)
 
