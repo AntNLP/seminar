@@ -45,7 +45,7 @@ Welcome to AntNLP Seminar 2020 Fall :)
 | 3      |  10.01 |        |  | |
 | 4       |  10.08 |        |  ||
 | 5      |  10.15 |    李鹏    |  [Survey] The Influence Function on the Graph Embedding   ||
-| 6      |  10.22 |    纪焘    |     ||
+| 6      |  10.22 |    纪焘    |  Confidential : )   ||
 | 7      |  10.29  |   韦阳   | [Survey] Compression Methods for Transformer-based Models   ||
 | 8      | 11.05   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
 | 9      |  11.12    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
