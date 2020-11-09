@@ -41,24 +41,24 @@ Welcome to AntNLP Seminar 2020 Fall :)
 
 | Week   | Date | Speaker   | Paper   | Materials |
 | :---:  | :---: | :---: | --- | :---: |
-| 2      |  9.24 |  李鹏  | [Survey] The Influence Function on the Graph |
-| 3      |  10.01 |        |  |
-| 4       |  10.08 |   纪焘     |  |
-| 5      |  10.15 |    韦阳      |  [Survey] Compression Methods for Transformer-based Models  |
-| 6      |  10.22 |    周杰   |    |
-| 7      |  10.29  |   刘宇芳   |    |
-| 8      | 11.05   |   郑淇       |    |
-| 9      |  11.12    |   雷钲仪       |    |
-| 10      |  11.19    |  白庆春    |    |
-| 11      |  11.26    |   黄子寅    |    |
-| 12     |  12.03  |   纪焘    |    |
-| 13     |  12.10  |  韦阳    |    |
-| 14     |  12.17  |  黄子寅    |    |
-| 15     |  12.24  |  刘宇芳   |    |
-| 16     |  12.31  |  郑淇    |    |
-| 17     |  1.07  |    李鹏  |    |
-| 18     |  1.14  |    高怡   |    |
-| 19     |  1.21  |    杨晰   |    |
+| 2      |  9.24 |  李鹏  | [Survey] The Influence Function on the Graph Embedding | |
+| 3      |  10.01 |        |  | |
+| 4       |  10.08 |        |  ||
+| 5      |  10.15 |    李鹏    |  [Survey] The Influence Function on the Graph Embedding   ||
+| 6      |  10.22 |    纪焘    |     ||
+| 7      |  10.29  |   韦阳   | [Survey] Compression Methods for Transformer-based Models   ||
+| 8      | 11.05   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
+| 9      |  11.12    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
+| 10      |  11.19    |  白庆春    |    ||
+| 11      |  11.26    |   黄子寅    |    ||
+| 12     |  12.03  |   纪焘    |    ||
+| 13     |  12.10  |  韦阳    |    ||
+| 14     |  12.17  |  黄子寅    |    ||
+| 15     |  12.24  |  刘宇芳   |    ||
+| 16     |  12.31  |  郑淇    |    ||
+| 17     |  1.07  |    李鹏  |    ||
+| 18     |  1.14  |    高怡   |    ||
+| 19     |  1.21  |    杨晰   |    ||
 
 
 ---
