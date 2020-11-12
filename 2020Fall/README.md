@@ -49,14 +49,14 @@ Welcome to AntNLP Seminar 2020 Fall :)
 | 7      |  10.29  |   韦阳   | [Survey] Compression Methods for Transformer-based Models   ||
 | 8      | 11.05   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
 | 9      |  11.12    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
-| 10      |  11.19    |  白庆春    |    ||
-| 11      |  11.26    |   黄子寅    |    ||
-| 12     |  12.03  |   纪焘    |    ||
-| 13     |  12.10  |  韦阳    |    ||
-| 14     |  12.17  |  黄子寅    |    ||
-| 15     |  12.24  |  刘宇芳   |    ||
-| 16     |  12.31  |  郑淇    |    ||
-| 17     |  1.07  |    李鹏  |    ||
+| 10      |  11.19    |  刘宇芳    |    ||
+| 11      |  11.26    |   雷钲仪    |    ||
+| 12     |  12.03  |   白庆春    |    ||
+| 13     |  12.10  |  纪焘    |    ||
+| 14     |  12.17  |  韦阳    |    ||
+| 15     |  12.24  |  黄子寅   |    ||
+| 16     |  12.31  |  刘宇芳    |    ||
+| 17     |  1.07  |   郑淇   |    ||
 | 18     |  1.14  |    高怡   |    ||
 | 19     |  1.21  |    杨晰   |    ||
 
