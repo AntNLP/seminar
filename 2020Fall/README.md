@@ -50,7 +50,7 @@ Welcome to AntNLP Seminar 2020 Fall :)
 | 8      | 11.06   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
 | 9      |  11.13    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
 | 10      |  11.20    |  刘宇芳    | Papers about Probe and Attention   | [slides](https://drive.google.com/file/d/1TXkLzNYi_pAMXcwC5fNqiWh1Kgg485L1/view?usp=sharing)|
-| 11      |  11.27    |   雷钲仪、王贻俊    |    ||
+| 11      |  11.27    |   雷钲仪、汪贻俊    |    ||
 | 12     |  12.04  |   白庆春    |    ||
 | 13     |  12.11  |   纪焘    |    ||
 | 14     |  12.18  |  韦阳    |    ||
