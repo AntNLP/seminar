@@ -42,23 +42,23 @@ Welcome to AntNLP Seminar 2020 Fall :)
 | Week   | Date | Speaker   | Paper   | Materials |
 | :---:  | :---: | :---: | --- | :---: |
 | 2      |  9.24 |  李鹏  | [Survey] The Influence Function on the Graph Embedding | |
-| 3      |  10.01 |        |  | |
-| 4       |  10.08 |        |  ||
-| 5      |  10.15 |    李鹏    |  [Survey] The Influence Function on the Graph Embedding   ||
-| 6      |  10.22 |    纪焘    |  Confidential : )   ||
-| 7      |  10.29  |   韦阳   | [Survey] Compression Methods for Transformer-based Models   ||
-| 8      | 11.05   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
-| 9      |  11.12    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
-| 10      |  11.19    |  刘宇芳    | papers about Probe and Attention   | [slides](https://drive.google.com/file/d/1TXkLzNYi_pAMXcwC5fNqiWh1Kgg485L1/view?usp=sharing)|
-| 11      |  11.26    |   雷钲仪    |    ||
-| 12     |  12.03  |   白庆春    |    ||
-| 13     |  12.10  |  纪焘    |    ||
-| 14     |  12.17  |  韦阳    |    ||
-| 15     |  12.24  |  黄子寅   |    ||
-| 16     |  12.31  |  刘宇芳    |    ||
-| 17     |  1.07  |   郑淇   |    ||
-| 18     |  1.14  |    高怡   |    ||
-| 19     |  1.21  |    杨晰   |    ||
+| 3      |  10.01 |  Cancel for National Day      |  | |
+| 4       |  10.08 | Cancel for National Day      |  ||
+| 5      |  10.16 |    李鹏    |  [Survey] The Influence Function on the Graph Embedding   ||
+| 6      |  10.23 |    纪焘    |  Confidential : )   ||
+| 7      |  10.30  |   韦阳   | [Survey] Compression Methods for Transformer-based Models   ||
+| 8      | 11.06   |   周杰   | [Survey] Cross-modality semantic learning and reasoning    ||
+| 9      |  11.13    |     黄子寅  | [Survey] Multi-Modal Information Extraction from Text, Semi-Structured, and Tabular Data    |[slides](https://sites.google.com/view/acl-2020-multi-modal-ie)|
+| 10      |  11.20    |  刘宇芳    | Papers about Probe and Attention   | [slides](https://drive.google.com/file/d/1TXkLzNYi_pAMXcwC5fNqiWh1Kgg485L1/view?usp=sharing)|
+| 11      |  11.27    |   雷钲仪、王贻俊    |    ||
+| 12     |  12.04  |   白庆春    |    ||
+| 13     |  12.11  |   纪焘    |    ||
+| 14     |  12.18  |  韦阳    |    ||
+| 15     |  12.25  |  高怡   |    ||
+| 16     |  1.01  |   黄子寅    |    ||
+| 17     |  1.08  |   刘宇芳   |    ||
+| 18     |  1.15  |    郑淇   |    ||
+| 19     |  1.22  |    杨晰   |    ||
 
 
 ---
