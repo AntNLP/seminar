@@ -52,7 +52,7 @@ Welcome to AntNLP Seminar 2020 Fall :)
 | 10      |  11.20    |  刘宇芳    | Papers about Probe and Attention   | [slides](https://drive.google.com/file/d/1TXkLzNYi_pAMXcwC5fNqiWh1Kgg485L1/view?usp=sharing)|
 | 11      |  11.27    |   雷钲仪    |    ||
 | 12     |  12.04  |   汪贻俊    |    ||
-| 13     |  12.10  |   白庆春    | [EMNLP20]The Amazing World of Neural Language Generation   |[slides](https://github.com/AntNLP/seminar/tree/master/2020Fall/week13)|
+| 13     |  12.10  |   白庆春    | [EMNLP20] The Amazing World of Neural Language Generation   |[slides](https://github.com/AntNLP/seminar/tree/master/2020Fall/week13)|
 | 14     |  12.18  |   汪贻俊   |    ||
 | 15     |  12.25  |  高怡、杨晰  |    ||
 | 16     |  1.01  |   孙长志    |    ||
