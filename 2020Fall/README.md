@@ -56,7 +56,7 @@ Welcome to AntNLP Seminar 2020 Fall : )
 | 14     |  12.18  |   白庆春   |  [EMNLP20] The Amazing World of Neural Language Generation  |[slides](https://github.com/AntNLP/seminar/tree/master/2020Fall/week13)|
 | 15     |  12.25  |  Cancelled  |    ||
 | 16     |  12.30  |   高怡    |  [Survey] Neural Network Explanation  |[slides](https://github.com/AntNLP/seminar/tree/master/2020Fall/week16)|
-| 17     |  1.08  |    杨晰<br>纪焘   | [ACL20] A Novel Cascade Binary Tagging Framework for Relational Triple Extraction <br> Confidential : )    ||
+| 17     |  1.08  |    杨晰<br>纪焘   | [ACL20] A Novel Cascade Binary Tagging Framework for Relational Triple Extraction <br> Confidential : )    |[slides](https://github.com/AntNLP/seminar/tree/master/2020Fall/week17)|
 | 18     |  1.15  |    韦阳   | [KBS21] AutoML: A survey of the state-of-the-art    |[link](https://mp.weixin.qq.com/s/nG_Mzlevs9ougnyeJyT38A)|
 | 19     |  1.22  |    毛鑫   | [Survey] Contrastive Learning   ||
 
