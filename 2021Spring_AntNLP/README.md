@@ -40,8 +40,8 @@ Welcome to AntNLP Seminar 2021 Spring. : )
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
 1      |  3.4 | 纪焘 |[EMNLP20] What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding<br>[EMNLP20] Do Explicit Alignments Robustly Improve Multilingual Encoders?<br>[ACL20] Quantifying Attention Flow in Transformers  | [Slides](https://drive.google.com/file/d/1h4fdLd8ZK53lsAscID3rY_-iNkJExpZb/view?usp=sharing)
-2      |  3.11 | 刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: <br> State-of-the-art, Challenges, Opportunities (Part One)| [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
-3      |   3.17 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: <br> State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
+2      |  3.11 | 刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part One)| [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
+3      |   3.17 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 4      |   3.24 | Cancelled  |  | 
 5      |   3.31 |  黄子寅 |  | 
 6      |   4.7  |  雷钲仪<br>杜雨沛 |  |
