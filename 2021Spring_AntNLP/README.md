@@ -41,16 +41,16 @@ Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
 1      |  3.4 | 纪焘 |[EMNLP20] What Do Position Embeddings Learn? An Empirical Study of Pre-Trained Language Model Positional Encoding<br>[EMNLP20] Do Explicit Alignments Robustly Improve Multilingual Encoders?<br>[ACL20] Quantifying Attention Flow in Transformers  | [Slides](https://drive.google.com/file/d/1h4fdLd8ZK53lsAscID3rY_-iNkJExpZb/view?usp=sharing)
 2      |  3.11 | 刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part One)| [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
-3      |   3.17 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
-4      |   3.24 | Cancelled  |  | 
-5      |   3.31 |  黄子寅 |  | 
-6      |   4.7  |  雷钲仪<br>杜雨沛 |  |
-7      |   4.14 |  李鹏 |  |
-8      |   4.21 |  周杰 |  |
-9      |   4.28 |  白庆春 |  |
-10     |   5.5  |  汪贻俊 |  |
-11     |   5.12 |  高怡 |  |
-12     |   5.19 |  杨晰 |  |
+3      |   3.18 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
+4      |   3.25 | Cancelled  |  | 
+5      |   4.1 |  黄子寅 |[Survey] Some Papers about Couterfactual  |  
+6      |   4.8  |  雷钲仪<br>杜雨沛 |  |
+7      |   4.15 |  李鹏 |[Survey] Papers About Memorization in Neural Network |
+8      |   4.22 |  周杰 |  |
+9      |   4.29 |  白庆春 |  |
+10     |   5.6  |  汪贻俊 |  |
+11     |   5.13 |  高怡 |  |
+12     |   5.20 |  杨晰 |  |
 
 
 
