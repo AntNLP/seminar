@@ -39,7 +39,7 @@ Welcome to StatNLP Seminar 2021 Spring. : )
 
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
-1      |  3.2 | 杨晰 | [Survey] GNN for Information Extraction  | [Slides](2021Spring_StatNLP/week1/GCN_for_RE_xyang.pdf)
+1      |  3.2 | 杨晰 | [Survey] GNN for Information Extraction  | [Slides](https://github.com/AntNLP/seminar/blob/79043203eb41efc1f5c6fbe76d1788f9d4cdecc4/2021Spring_StatNLP/week1/GCN_for_RE_xyang.pdf)
 2      |  3.9 | 高怡 | [Survey] Few Shot Learning | 
 3      |  3.16 | 李东阳 | [ACL20]Dialogue-Based Relation Extraction | 
 3      |  3.16 |  刘申 | [EMNLP20]Understanding Procedural Text using Interactive Entity Networks | 
