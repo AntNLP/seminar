@@ -39,8 +39,8 @@ Welcome to StatNLP Seminar 2021 Spring. : )
 
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
-1      |  3.2 | 杨晰 | [Survey] GNN for Information Extraction  | [Slides](https://github.com/AntNLP/seminar/blob/79043203eb41efc1f5c6fbe76d1788f9d4cdecc4/2021Spring_StatNLP/week1/GCN_for_RE_xyang.pdf)
-2      |  3.9 | 高怡 | [Survey] Few Shot Learning | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week2/gaoyi_explanation.pptx)
+1      |  3.2 | 杨晰 | [Survey] GCN for Relation Extraction  | [Slides](https://github.com/AntNLP/seminar/blob/79043203eb41efc1f5c6fbe76d1788f9d4cdecc4/2021Spring_StatNLP/week1/GCN_for_RE_xyang.pdf)
+2      |  3.9 | 高怡 | [Survey] Explanation | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week2/gaoyi_explanation.pptx)
 3      |  3.16 | 李东阳 | [ACL20]Dialogue-Based Relation Extraction | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week3/%E6%9D%8E%E4%B8%9C%E9%98%B3.pptx)
 3      |  3.16 |  刘申 | [EMNLP20]Understanding Procedural Text using Interactive Entity Networks | 
 4      |  3.23 | 张亚东 | [EMNLP20]Experience Grounds Language | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week4/%E5%BC%A0%E4%BA%9A%E4%B8%9C.pptx)
