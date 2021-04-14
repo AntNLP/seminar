@@ -61,8 +61,8 @@ Week   | Date | Speaker   | Paper   | Materials
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | 
 12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | 
-13      |  5.25 | 蔡泽锋 | [EMNLP20] What do Models Learn from Question Answering Datasets? | 
-13      |  5.25 | 蔡泽锋 | [EMNLP20] Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers | 
+13      |  5.25 | ~~蔡泽锋 | [EMNLP20] What do Models Learn from Question Answering Datasets?~~| 
+13      |  5.25 | ~~蔡泽锋 | [EMNLP20] Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers~~ | 
 13      |       |       | [EMNLP20] Stolen Probability: A Structural Weakness of Neural Language Models | 
 14      |  6.1 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
 14      |  6.1 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
