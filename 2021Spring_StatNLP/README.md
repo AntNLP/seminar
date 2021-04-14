@@ -48,7 +48,7 @@ Week   | Date | Speaker   | Paper   | Materials
 5      |  3.30 | 陈少斌 | [EMNLP20]Zero-Shot Cross-Lingual Transfer with Meta Learning | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week5/%E9%99%88%E5%B0%91%E6%96%8C.pptx)
 5      |  3.30 | 张雨时 | [EMNLP20]How to Make Neural Natural Language Generation as Reliable as Templates in Task-Oriented Dialogue | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week5/%E5%BC%A0%E9%9B%A8%E6%97%B6.pptx)
 6      |  4.6 | 但宇豪 | [EMNLP20]Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week6/%E4%BD%86%E5%AE%87%E8%B1%AA-UFO.pptx)
-6      |  4.6 | 陈妍 | [EMNLP20]Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models | 
+6      |  4.6 | 陈妍 | [EMNLP20]Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models | [Slildes](https://github.com/AntNLP/seminar/blob/c3792d07c395361ac84d2721e5a50746c693ddd3/2021Spring_StatNLP/week6/%E9%99%88%E5%A6%8D.pdf)
 7      |  4.13 | 凌静 | [AAAI2020]Differentiable Reasoning on Large Knowledge Bases and Natural Language | 
 7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | 
 8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
