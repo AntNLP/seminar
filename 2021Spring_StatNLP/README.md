@@ -50,7 +50,7 @@ Week   | Date | Speaker   | Paper   | Materials
 6      |  4.6 | 但宇豪 | [EMNLP20]Universal Natural Language Processing with Limited Annotations: Try Few-shot Textual Entailment as a Start | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week6/%E4%BD%86%E5%AE%87%E8%B1%AA-UFO.pptx)
 6      |  4.6 | 陈妍 | [EMNLP20]Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models | [Slides](https://github.com/AntNLP/seminar/blob/c3792d07c395361ac84d2721e5a50746c693ddd3/2021Spring_StatNLP/week6/%E9%99%88%E5%A6%8D.pdf)
 7      |  4.13 | 凌静 | [AAAI2020]Differentiable Reasoning on Large Knowledge Bases and Natural Language | 
-7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | 
+7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | [Slides](https://github.com/AntNLP/seminar/blob/10da82c3df6844417b58529465f47752dbd6e840/2021Spring_StatNLP/week7/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
 8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | 
 9      |  4.27 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
