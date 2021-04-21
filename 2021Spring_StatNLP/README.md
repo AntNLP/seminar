@@ -52,11 +52,11 @@ Week   | Date | Speaker   | Paper   | Materials
 7      |  4.13 | 凌静 | [AAAI2020]Differentiable Reasoning on Large Knowledge Bases and Natural Language | 
 7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | [Slides](https://github.com/AntNLP/seminar/blob/10da82c3df6844417b58529465f47752dbd6e840/2021Spring_StatNLP/week7/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
-8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides]()
-9      |  4.25 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
-9      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | 
-10      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
-10      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
+8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides](https://github.com/AntNLP/seminar/blob/798a259857b1ca04a23bb5b7bb3755a12f2d7bbd/2021Spring_StatNLP/week8/%E5%88%98%E7%94%B3.pptx)
+8      |  4.25 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
+8      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | 
+9      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
+9      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
 11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | 
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | 
