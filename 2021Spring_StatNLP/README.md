@@ -42,7 +42,7 @@ Week   | Date | Speaker   | Paper   | Materials
 1      |  3.2 | 杨晰 | [Survey] GCN for Relation Extraction  | [Slides](https://github.com/AntNLP/seminar/blob/79043203eb41efc1f5c6fbe76d1788f9d4cdecc4/2021Spring_StatNLP/week1/GCN_for_RE_xyang.pdf)
 2      |  3.9 | 高怡 | [Survey] Explanation | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week2/gaoyi_explanation.pptx)
 3      |  3.16 | 李东阳 | [ACL20]Dialogue-Based Relation Extraction | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week3/%E6%9D%8E%E4%B8%9C%E9%98%B3.pptx)
-3      |  3.16 |  刘申 | [EMNLP20]Understanding Procedural Text using Interactive Entity Networks | [Slides](https://github.com/AntNLP/seminar/blob/24b1984ddec8b9add0fd693bc201dafa03ce8376/2021Spring_StatNLP/week3/%E5%88%98%E7%94%B3.pptx)
+3      |  3.16 |  刘申 | [EMNLP20]Understanding Procedural Text using Interactive Entity Networks | [Slides](https://github.com/AntNLP/seminar/blob/a90ca3642e1dfd31a11ba6d6aaa5820b802d0b09/2021Spring_StatNLP/week3/%E5%88%98%E7%94%B3_CSDN%E5%8D%9A%E5%AE%A2.pdf)
 4      |  3.23 | 张亚东 | [EMNLP20]Experience Grounds Language | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week4/%E5%BC%A0%E4%BA%9A%E4%B8%9C.pptx)
 4      |  3.23 | 蔡丽 | [EMNLP20]ETC: Encoding Long and Structured Inputs in Transformers | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week4/ETC-%E8%94%A1%E4%B8%BD.pptx)
 5      |  3.30 | 陈少斌 | [EMNLP20]Zero-Shot Cross-Lingual Transfer with Meta Learning | [Slides](https://github.com/AntNLP/seminar/blob/bbd9e114c7356ae3a9475a05156c5a74baa91a13/2021Spring_StatNLP/week5/%E9%99%88%E5%B0%91%E6%96%8C.pptx)
@@ -52,11 +52,11 @@ Week   | Date | Speaker   | Paper   | Materials
 7      |  4.13 | 凌静 | [AAAI2020]Differentiable Reasoning on Large Knowledge Bases and Natural Language | 
 7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | [Slides](https://github.com/AntNLP/seminar/blob/10da82c3df6844417b58529465f47752dbd6e840/2021Spring_StatNLP/week7/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
-8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | 
-9      |  4.27 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
-9      |  4.27 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | 
-10      |  5.4 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
-10      |  5.4 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
+8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides]()
+9      |  4.25 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
+9      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | 
+10      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
+10      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
 11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | 
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | 
