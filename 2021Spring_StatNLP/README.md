@@ -53,7 +53,7 @@ Week   | Date | Speaker   | Paper   | Materials
 7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | [Slides](https://github.com/AntNLP/seminar/blob/10da82c3df6844417b58529465f47752dbd6e840/2021Spring_StatNLP/week7/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
 8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides](https://github.com/AntNLP/seminar/blob/798a259857b1ca04a23bb5b7bb3755a12f2d7bbd/2021Spring_StatNLP/week8/%E5%88%98%E7%94%B3.pptx)
-8      |  4.25 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
+8      |  4.25 | 张亚东 | [EMNLP20]Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | 
 8      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | 
 9      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
 9      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
@@ -67,7 +67,7 @@ Week   | Date | Speaker   | Paper   | Materials
 14      |  6.1 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
 14      |  6.1 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
 15      |  6.8 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
-15      |  6.8 | 张亚东 | [EMNLP20]Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | 
+15      |  6.8 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
 16      |  6.15 | 陈少斌 | [EMNLP2020]Zero-Shot Crosslingual Sentence Simplification | 
 16      |  6.15 | 张雨时 | [ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation | 
 17      |  6.22 | 但宇豪 | [EMNLP20]Active Learning for BERT: An Empirical Study | 
