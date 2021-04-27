@@ -51,7 +51,7 @@ Week   | Date | Speaker   | Paper   | Materials
 6      |  4.6 | 陈妍 | [EMNLP20]Learning Music Helps You Read: Using Transfer to Study Linguistic Structure in Language Models | [Slides](https://github.com/AntNLP/seminar/blob/c3792d07c395361ac84d2721e5a50746c693ddd3/2021Spring_StatNLP/week6/%E9%99%88%E5%A6%8D.pdf)
 7      |  4.13 | 凌静 | [AAAI2020]Differentiable Reasoning on Large Knowledge Bases and Natural Language | 
 7      |  4.13 | 谭振东 | [EMNLP20]Self-Supervised Meta-Learning for Few-Shot Natural Language Classification Tasks | [Slides](https://github.com/AntNLP/seminar/blob/10da82c3df6844417b58529465f47752dbd6e840/2021Spring_StatNLP/week7/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
-8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | 
+8      |  4.20 |  李东阳 | [EMNLP20]Event Extraction by Answering (Almost) Natural Questions | [Slides](https://github.com/AntNLP/seminar/blob/a450725ad9a413bf5744a2ec963ddf3e40b5bab5/2021Spring_StatNLP/week8/%E6%9D%8E%E4%B8%9C%E9%98%B3.pdf)
 8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides](https://github.com/AntNLP/seminar/blob/798a259857b1ca04a23bb5b7bb3755a12f2d7bbd/2021Spring_StatNLP/week8/%E5%88%98%E7%94%B3.pptx)
 8      |  4.25 | 张亚东 | [EMNLP20]Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | 
 8      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | [Slides](https://github.com/AntNLP/seminar/blob/10142323065af67c36100d49b21d6ce36f578579/2021Spring_StatNLP/week8/%E8%94%A1%E4%B8%BD.pdf)
