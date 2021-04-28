@@ -55,7 +55,7 @@ Week   | Date | Speaker   | Paper   | Materials
 8      |  4.20 |  刘申 | [EMNLP20]Denoising Relation Extraction from Document-level Distant Supervision | [Slides](https://github.com/AntNLP/seminar/blob/798a259857b1ca04a23bb5b7bb3755a12f2d7bbd/2021Spring_StatNLP/week8/%E5%88%98%E7%94%B3.pptx)
 8      |  4.25 | 张亚东 | [EMNLP20]Vokenization: Improving Language Understanding with Contextualized, Visual-Grounded Supervision | 
 8      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | [Slides](https://github.com/AntNLP/seminar/blob/10142323065af67c36100d49b21d6ce36f578579/2021Spring_StatNLP/week8/%E8%94%A1%E4%B8%BD.pdf)
-9      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | 
+9      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | [Slides](https://github.com/AntNLP/seminar/blob/4b510fb2aa4e03995c23402fe178eced2dad0c84/2021Spring_StatNLP/week9/%E9%99%88%E5%B0%91%E6%96%8C_4_27.pptx)
 9      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
 11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | 
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
