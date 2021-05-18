@@ -44,14 +44,15 @@ Week   | Date | Speaker   | Paper   | Materials
 3      |   3.18 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 4      |   3.25 | Cancelled  |  | 
 5      |   4.1 |  黄子寅 |[Survey] Some Papers about Couterfactual  |  
-6      |   4.8  |  雷钲仪<br>杜雨沛 |  |
-7      |   4.15 |  李鹏 |[Survey] Papers About Memorization in Neural Network |
-8      |   4.22 |  周杰 |  |
-9      |   4.29 |  白庆春 |  |
-10     |   5.6  |  汪贻俊 |  |
-11     |   5.13 |  高怡 |  |
-12     |   5.20 |  杨晰 |  |
-
+6      |   4.8  |  雷钲仪<br>杜雨沛 |Research Update: On the Reliability of Word Embedding Gender Bias Metrics  |
+7      |   4.15 |  纪焘 | |
+8      |   4.22 |  李鹏 |[Survey] Papers About Memorization in Neural Network  |
+9      |   4.29 |  周杰 | [Survey] Mask is All You Need! (Part One)  |
+10     |   5.6  |  周杰 | [Survey] Mask is All You Need! (Part Two)  |
+11     |   5.13 |  白庆春 |  |
+12     |   5.20 |  高怡 | [Survey] Some Papers about Few-shot Learning |
+13     |   5.27 |  汪贻俊|  |
+14     |   6.3 | 杨晰 |  |
 
 
 ---
