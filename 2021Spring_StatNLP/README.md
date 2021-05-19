@@ -60,7 +60,7 @@ Week   | Date | Speaker   | Paper   | Materials
 11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | 
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | 
-12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | 
+12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | [Slides](https://github.com/AntNLP/seminar/blob/384633c098cafb938c69332fd867992aff33cabd/2021Spring_StatNLP/week12/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] What do Models Learn from Question Answering Datasets?~~| 
 13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers~~ | 
 13      |       |       | [EMNLP20] Stolen Probability: A Structural Weakness of Neural Language Models | 
