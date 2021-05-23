@@ -57,8 +57,8 @@ Week   | Date | Speaker   | Paper   | Materials
 8      |  4.25 | 蔡丽 | [EMNLP20]Calibration of Pre-trained Transformers | [Slides](https://github.com/AntNLP/seminar/blob/10142323065af67c36100d49b21d6ce36f578579/2021Spring_StatNLP/week8/%E8%94%A1%E4%B8%BD.pdf)
 9      |  4.27 | 陈少斌 | [ACL2020]On the Cross-lingual Transferability of Monolingual Representations | [Slides](https://github.com/AntNLP/seminar/blob/4b510fb2aa4e03995c23402fe178eced2dad0c84/2021Spring_StatNLP/week9/%E9%99%88%E5%B0%91%E6%96%8C_4_27.pptx)
 9      |  4.27 | 张雨时 | [ACL20]Automatic Detection of Generated Text is Easiest when Humans are Fooled | 
-11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | 
-11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | 
+11      |  5.11 | 但宇豪 | [EMNLP20]Text Classiﬁcation Using Label Names Only: A Language Model Self-Training Approach | [Slides](https://github.com/AntNLP/seminar/blob/834cf6a18ec166b94c8f840124cf798af2563e10/2021Spring_StatNLP/week11/label_names_only_302_seminar_danyuhao.pdf)
+11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | [Slides](https://github.com/AntNLP/seminar/blob/834cf6a18ec166b94c8f840124cf798af2563e10/2021Spring_StatNLP/week11/%E9%99%88%E5%A6%8D_KTL.pptx)
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | [Slides](https://github.com/AntNLP/seminar/blob/eaf47470c1fb59d5ea955d264e4ea681bbacff70/2021Spring_StatNLP/week12/%E5%87%8C%E9%9D%99.pdf)
 12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | [Slides](https://github.com/AntNLP/seminar/blob/384633c098cafb938c69332fd867992aff33cabd/2021Spring_StatNLP/week12/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] What do Models Learn from Question Answering Datasets?~~| 
