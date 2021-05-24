@@ -50,12 +50,12 @@ Week   | Date | Speaker   | Paper   | Materials
 9      |   4.29 |  周杰 | [Survey] Mask is All You Need! (Part One)  |
 10     |   5.6  |  周杰 | [Survey] Mask is All You Need! (Part Two)  |
 11     |   5.13 |  白庆春 |[WWW21] A Computational Approach to Understanding Empathy Expressed in Text-based Mental Health Support |
-12     |   5.20 |  高怡 | [Survey] Some Papers about Few-shot Learning |
-13     |   5.27 |  汪贻俊|  |
-14     |   6.3 | 杨晰 |  |
-15     |   6.10 | 刘宇芳 | |
-16     |   6.17 | 黄子寅 | |
-17     |   6.24 | 雷钲仪 | |
+12     |   5.20 |  Cancelled |  |
+13     |   5.27 |  高怡| [Survey] Some Papers about Few-shot Learning |
+14     |   6.3 | 汪贻俊 |  |
+15     |   6.10 | 杨晰 | |
+16     |   6.17 | 刘宇芳 | |
+17     |   6.24 | 黄子寅 | |
 
 ---
 ## F.A.Q.
