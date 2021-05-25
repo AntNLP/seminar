@@ -65,7 +65,6 @@ Week   | Date | Speaker   | Paper   | Materials
 13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers~~ | 
 13      |       |       | [EMNLP20] Stolen Probability: A Structural Weakness of Neural Language Models | 
 13      | 5.25  |       | Differential Privacy Machine Learning
-13      |       |       | [EMNLP20] Stolen Probability: A Structural Weakness of Neural Language Models | 
 14      |  6.1 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
 14      |  6.1 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
 15      |  6.8 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
