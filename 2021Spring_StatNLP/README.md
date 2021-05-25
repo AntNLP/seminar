@@ -61,18 +61,16 @@ Week   | Date | Speaker   | Paper   | Materials
 11      |  5.11 | 陈妍 | [EMNLP20] Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering | [Slides](https://github.com/AntNLP/seminar/blob/834cf6a18ec166b94c8f840124cf798af2563e10/2021Spring_StatNLP/week11/%E9%99%88%E5%A6%8D_KTL.pptx)
 12      |  5.18 | 凌静 | [ICLR20] Scalable Neural Methods for Reasoning with a Symbolic Knowledge Base | [Slides](https://github.com/AntNLP/seminar/blob/eaf47470c1fb59d5ea955d264e4ea681bbacff70/2021Spring_StatNLP/week12/%E5%87%8C%E9%9D%99.pdf)
 12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | [Slides](https://github.com/AntNLP/seminar/blob/384633c098cafb938c69332fd867992aff33cabd/2021Spring_StatNLP/week12/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
-13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] What do Models Learn from Question Answering Datasets?~~| 
-13      |  5.25 | ~~蔡泽锋~~ | ~~[EMNLP20] Why Skip If You Can Combine: A Simple Knowledge Distillation Technique for Intermediate Layers~~ | 
-13      |       |       | [EMNLP20] Stolen Probability: A Structural Weakness of Neural Language Models | 
-13      | 5.25  |       | Differential Privacy Machine Learning
-14      |  6.1 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
-14      |  6.1 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
-15      |  6.8 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
-15      |  6.8 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
-16      |  6.15 | 陈少斌 | [EMNLP2020]Zero-Shot Crosslingual Sentence Simplification | 
-16      |  6.15 | 张雨时 | [ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation | 
-17      |  6.22 | 但宇豪 | [EMNLP20]Active Learning for BERT: An Empirical Study | 
-17      |  6.22 | 凌静 |[EMNLP20]Distilling Structured Knowledge for Text-Based Relational Reasoning  | 
+13      | 5.25  | 刘文炎 | [Survey]Differential Privacy Machine Learning | 
+14      | 6.1  | 刘文炎 | [Survey]Differential Privacy Machine Learning |
+15      |  6.8 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
+15      |  6.8 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
+16      |  6.15 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
+16      |  6.15 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
+17      |  6.22 | 陈少斌 | [EMNLP2020]Zero-Shot Crosslingual Sentence Simplification | 
+17      |  6.22 | 张雨时 | [ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation | 
+18      |  6.29 | 但宇豪 | [EMNLP20]Active Learning for BERT: An Empirical Study | 
+18      |  6.29 | 凌静 |[EMNLP20]Distilling Structured Knowledge for Text-Based Relational Reasoning  | 
 
 
 ---
