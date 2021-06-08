@@ -63,15 +63,15 @@ Week   | Date | Speaker   | Paper   | Materials
 12      |  5.18 | 谭振东 |[EMNLP20]A Diagnostic Study of Explainability Techniques for Text Classification  | [Slides](https://github.com/AntNLP/seminar/blob/384633c098cafb938c69332fd867992aff33cabd/2021Spring_StatNLP/week12/%E8%B0%AD%E6%8C%AF%E4%B8%9C.pdf)
 13      | 5.25  | 刘文炎 | [Survey]Differential Privacy Machine Learning | 
 14      | 6.1  | 刘文炎 | [Survey]Differential Privacy Machine Learning |
-15      |  6.8 | 国孟昊 | [ICLR21] Is attention better than matrix decomposition?[Arxiv21] Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks | 
+15      |  6.8 | 国孟昊 | [ICLR21] Is attention better than matrix decomposition?<br>[Arxiv21]Beyond Self-attention: External Attention using Two Linear Layers for Visual Tasks | 
 16      |  6.15 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | 
 16      |  6.15 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
 17      |  6.22 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
 17      |  6.22 | 张亚东 | [EMNLP20]Visually Grounded Compound PCFGs | 
 18      |  6.29 | 陈少斌 | [EMNLP2020]Zero-Shot Crosslingual Sentence Simplification | 
 18      |  6.29 | 张雨时 | [ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation | 
-~~19~~    |  ~~6.29~~ | ~~但宇豪~~ | ~~[EMNLP20]Active Learning for BERT: An Empirical Study~~ |
-~~19~~     |  ~~6.29~~ | ~~凌静~~ |~~[EMNLP20]Distilling Structured Knowledge for Text-Based Relational Reasoning~~  |
+~~19~~    |  ~~7.6~~ | ~~但宇豪~~ | ~~[EMNLP20]Active Learning for BERT: An Empirical Study~~ |
+~~19~~     |  ~~7.6~~ | ~~凌静~~ |~~[EMNLP20]Distilling Structured Knowledge for Text-Based Relational Reasoning~~  |
 
 
 ---
