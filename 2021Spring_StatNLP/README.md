@@ -68,8 +68,8 @@ Week   | Date | Speaker   | Paper   | Materials
 16      |  6.15 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | 
 17      |  6.22 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
 17      |  6.22 | 张亚东 | [CVPR21]Human-like Controllable Image Captioning with Verb-specific Semantic Roles | 
-18      |  6.29 | 陈少斌 | [EMNLP2020]Zero-Shot Crosslingual Sentence Simplification | 
-18      |  6.29 | 张雨时 | [ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation | 
+~~18~~      |  ~~6.29~~ | ~~陈少斌~~ | ~~[EMNLP2020]Zero-Shot Crosslingual Sentence Simplification~~ | 
+~~18~~      |  ~~6.29~~ | ~~张雨时~~ | ~~[ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation~~ | 
 ~~19~~    |  ~~7.6~~ | ~~但宇豪~~ | ~~[EMNLP20]Active Learning for BERT: An Empirical Study~~ |
 ~~19~~     |  ~~7.6~~ | ~~凌静~~ |~~[EMNLP20]Distilling Structured Knowledge for Text-Based Relational Reasoning~~  |
 
