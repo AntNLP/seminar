@@ -67,7 +67,7 @@ Week   | Date | Speaker   | Paper   | Materials
 16      |  6.15 | 杨晰 | [EMNLP20]How Much Knowledge Can You Pack Into the Parameters of a Language Model? | [Slides](https://github.com/AntNLP/seminar/blob/abbc4357d82d135fceb6722fc03d28f725d65239/2021Spring_StatNLP/week16/T5_QA.pdf)
 16      |  6.15 | 高怡 | [ACL20]Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? | [Slides](https://github.com/AntNLP/seminar/blob/abbc4357d82d135fceb6722fc03d28f725d65239/2021Spring_StatNLP/week16/%E9%AB%98%E6%80%A1.pptx)
 17      |  6.22 | 刘申 | [EMNLP20]Exposing Shallow Heuristics of Relation Extraction Models with Challenge Data | 
-17      |  6.22 | 张亚东 | [CVPR21]Human-like Controllable Image Captioning with Verb-specific Semantic Roles | 
+17      |  6.22 | 张亚东 | [CVPR21]Human-like Controllable Image Captioning with Verb-specific Semantic Roles | [Slides](https://github.com/AntNLP/seminar/blob/dbfa981d4bc3b23b27f56bbd8fe45727d1c740f9/2021Spring_StatNLP/week17/%E5%BC%A0%E4%BA%9A%E4%B8%9C.pptx)
 ~~18~~      |  ~~6.29~~ | ~~陈少斌~~ | ~~[EMNLP2020]Zero-Shot Crosslingual Sentence Simplification~~ | 
 ~~18~~      |  ~~6.29~~ | ~~张雨时~~ | ~~[ACL2020]Paraphrase Augmented Task-Oriented Dialog Generation~~ | 
 ~~19~~    |  ~~7.6~~ | ~~但宇豪~~ | ~~[EMNLP20]Active Learning for BERT: An Empirical Study~~ |
