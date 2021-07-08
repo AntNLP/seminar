@@ -54,8 +54,12 @@ Week   | Date | Speaker   | Paper   | Materials
 13     |   5.27 |  高怡| [Survey] Some Papers about Few-shot Learning |
 14     |   6.3 | 杨晰 |[EMNLP20] ENT-DESC: Entity Description Generation by Exploring Knowledge Graph <br>[ACL20] Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction|
 15     |   6.10 | 汪贻俊 | [Survey] More Papers about Prompt-based Finetuning |
-16     |   6.17 | 刘宇芳 | |
-17     |   6.24 | 黄子寅 | |
+16     |   6.17 | 刘宇芳 | [Survey] Poisoning Attacks on NLP Models |
+17     |   6.24 | 黄子寅 |  |
+18     |   7.1  | Cancelled | |
+19     |   7.8  | 纪焘  |  |
+20     |   7.15 |     |  |
+
 
 ---
 ## F.A.Q.
