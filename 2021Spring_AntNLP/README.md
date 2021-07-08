@@ -57,7 +57,7 @@ Week   | Date | Speaker   | Paper   | Materials
 16     |   6.17 | 刘宇芳 | [Survey] Poisoning Attacks on NLP Models |
 17     |   6.24 | 黄子寅 |  |
 18     |   7.1  | Cancelled | |
-19     |   7.8  | 纪焘  |  |
+19     |   7.8  | Cancelled  |  |
 20     |   7.15 |     |  |
 
 
