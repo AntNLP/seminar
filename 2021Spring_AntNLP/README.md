@@ -43,22 +43,27 @@ Week   | Date | Speaker   | Paper   | Materials
 2      |  3.11 | 刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part One)| [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 3      |   3.18 |  刘宇芳 |[AAAI21] Explaining Machine Learning Predictions: State-of-the-art, Challenges, Opportunities (Part Two)  | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 4      |   3.25 | Cancelled  |  | 
-5      |   4.1 |  黄子寅 |[Survey] Some Papers about Couterfactual  |  
-6      |   4.8  |  雷钲仪<br>杜雨沛 |Research Update: On the Reliability of Word Embedding Gender Bias Metrics  |
+5      |   4.1 |  黄子寅 |[Survey] Some Papers about Couterfactual  |  [Slides](./week5/)
+6      |   4.8  |  雷钲仪<br>杜雨沛 |Research Update: On the Reliability of Word Embedding Gender Bias Metrics  | [Slides](./week6/)
 7      |   4.15 |  纪焘 | |
-8      |   4.22 |  李鹏 |[Survey] Papers About Memorization in Neural Network  |
-9      |   4.29 |  周杰 | [Survey] Mask is All You Need! (Part One)  |
-10     |   5.6  |  周杰 | [Survey] Mask is All You Need! (Part Two)  |
-11     |   5.13 |  白庆春 |[WWW21] A Computational Approach to Understanding Empathy Expressed in Text-based Mental Health Support |
+8      |   4.22 |  李鹏 |[Survey] Papers About Memorization in Neural Network  | [Slides](./week8/)
+9      |   4.29 |  周杰 | [Survey] Mask is All You Need! (Part One)  |[Slides](./week9/)
+10     |   5.6  |  周杰 | [Survey] Mask is All You Need! (Part Two)  |[Slides](./week9/)
+11     |   5.13 |  白庆春 |[WWW21] A Computational Approach to Understanding Empathy Expressed in Text-based Mental Health Support |[Slides](./week11/)
 12     |   5.20 |  Cancelled |  |
-13     |   5.27 |  高怡| [Survey] Some Papers about Few-shot Learning |
-14     |   6.3 | 杨晰 |[EMNLP20] ENT-DESC: Entity Description Generation by Exploring Knowledge Graph <br>[ACL20] Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction|
+13     |   5.27 |  高怡| [Survey] Some Papers about Few-shot Learning | [Slides](./week13/)
+14     |   6.3 | 杨晰 |[EMNLP20] ENT-DESC: Entity Description Generation by Exploring Knowledge Graph <br>[ACL20] Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction| [Slides](./week14/)
 15     |   6.10 | 汪贻俊 | [Survey] More Papers about Prompt-based Finetuning |
-16     |   6.17 | 刘宇芳 | [Survey] Poisoning Attacks on NLP Models |
-17     |   6.24 | 黄子寅 |  |
+16     |   6.17 | 刘宇芳 | [Survey] Poisoning Attacks on NLP Models |[Slides](./week16/)
+17     |   6.24 | 黄子寅 | [Survey] | Some Papers about Grounding | 
 18     |   7.1  | Cancelled | |
 19     |   7.8  | Cancelled  |  |
-20     |   7.15 |     |  |
+20     |   7.15 | Cancelled    |  |
+21     |   7.22 |  纪焘   |  |
+22     |   7.29 |  高怡<br>杨晰   |  
+23     |   8.5 |  杜威   |  
+24     |   8.12 | 雷钲仪<br>王志承    |  
+25     |   8.19 | 黄子寅<br>刘宇芳    |  
 
 
 ---
