@@ -55,7 +55,7 @@ Week   | Date | Speaker   | Paper   | Materials
 14     |   6.3 | 杨晰 |[EMNLP20] ENT-DESC: Entity Description Generation by Exploring Knowledge Graph <br>[ACL20] Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction| [Slides](./week14/)
 15     |   6.10 | 汪贻俊 | [Survey] More Papers about Prompt-based Finetuning |
 16     |   6.17 | 刘宇芳 | [Survey] Poisoning Attacks on NLP Models |[Slides](./week16/)
-17     |   6.24 | 黄子寅 | [Survey] | Some Papers about Grounding | 
+17     |   6.24 | 黄子寅 | [Survey] Some Papers about Grounding | 
 18     |   7.1  | Cancelled | |
 19     |   7.8  | Cancelled  |  |
 20     |   7.15 | Cancelled    |  |
