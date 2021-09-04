@@ -1,6 +1,6 @@
  # AntNLP Seminar -- 2021 Fall
 
-Time: **9:30 am - 11:30 am, Friday**
+Time: **10:00 am - 12:00 am, Friday**
 
 Venue: B914, Science Building.
 
