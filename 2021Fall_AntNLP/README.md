@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2021 Fall. : )
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
 1 |9.10 | 杜威 | |
-2 |9.10 | 王志承 | |
+2 |9.17 | 王志承 | [ICML21] Learning Transferable Visual Models From Natural Language Supervision<br />[Distill21] Multimodal Neurons in Artificial Neural Networks |[slides](https://drive.google.com/drive/folders/1vZFn5u2nGBBjeS941AocCCuHKW5odr2n)
 3 |9.17 | 杨晰 | |
 4 |9.24 | 高怡 | |
 
