@@ -45,7 +45,7 @@ Week   | Date | Speaker   | Paper   | Materials
 4 |9.29 | 杨晰 | |
 5 |10.8 | 高怡 | |
 6 |10.15| 纪焘  | |
-7 |10.22 |刘宇芳 | | 
+7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | 
 8 |10.29 | 李鹏|[Survey] Certified Defenses: A Survey | 
 9 |11.5 | 雷钲仪 | |
 10|11.12| | |
