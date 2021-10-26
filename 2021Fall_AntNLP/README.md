@@ -42,9 +42,9 @@ Week   | Date | Speaker   | Paper   | Materials
 1 |9.10 | 杜威 |[ICLR 2020]BATCHENSEMBLE: AN ALTERNATIVE APPROACH TO EFFICIENT ENSEMBLE AND LIFELONG LEARNING <br /> [ICLR 2021]TRAINING INDEPENDENT SUBNETWORKS FOR ROBUST PREDICTION|
 2 |9.17 | 王志承 | [ICML21] Learning Transferable Visual Models From Natural Language Supervision<br />[Distill21] Multimodal Neurons in Artificial Neural Networks |[slides](https://drive.google.com/file/d/1Je7gZ67a-PDx-EjmwCH2gyDbtacmqmON/view?usp=sharing)
 3 | 9.29| Cancelled | |
-4 |9.29 | 杨晰 | |
+4 |9.29 | 杨晰 |[ACL21]Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks <br />[ACL21]ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning |
 5 |10.8 | 高怡 |[Survey] Some Papers about Few Shot Learning|
-6 |10.15| 纪焘  | |
+6 |10.15| 纪焘  |[arxiv20] Seed the Views: Hierarchical Semantic Alignment for Contrastive Representation Learning<br /> [ACL21] COSY: COunterfactual SYntax for Cross-Lingual Understanding|
 7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | 
 8 |10.29 | 李鹏|[Survey] Certified Defenses: A Survey | 
 9 |11.5 | 雷钲仪 | |
