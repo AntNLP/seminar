@@ -43,7 +43,7 @@ Week   | Date | Speaker   | Paper   | Materials
 2 |9.17 | 王志承 | [ICML21] Learning Transferable Visual Models From Natural Language Supervision<br />[Distill21] Multimodal Neurons in Artificial Neural Networks |[slides](https://drive.google.com/file/d/1Je7gZ67a-PDx-EjmwCH2gyDbtacmqmON/view?usp=sharing)
 3 | 9.29| Cancelled | |
 4 |9.29 | 杨晰 | |
-5 |10.8 | 高怡 | |
+5 |10.8 | 高怡 |[Survey] Some Papers about Few Shot Learning|
 6 |10.15| 纪焘  | |
 7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | 
 8 |10.29 | 李鹏|[Survey] Certified Defenses: A Survey | 
