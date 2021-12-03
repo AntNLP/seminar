@@ -51,6 +51,7 @@ Week   | Date | Speaker   | Paper   | Materials
 10|11.12|黄子寅 | |
 11|11.19|杜威 | |
 12|11.26|周杰 | |
+13|12.3 |王志承|[EMNLP21]Transformer Feed-Forward Layers Are Key-Value Memories <br />[EMNLP21]Knowledge Neurons in Pretrained Transformers|[slides](https://drive.google.com/file/d/1pGjWLM9xJbJAh7Qslatfz4EwGea1JMkw/view?usp=sharing)|
 
 
 
