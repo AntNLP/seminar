@@ -14,7 +14,7 @@ Welcome to StatNLP Seminar 2021 Spring. : )
   - AI:  AAAI, IJCAI
   - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
 
-- While we are interested in a broad range of NLP/AI topics, the followings (and a list [here](https://slack-files.com/T22T1UP8Q-FLT6K0WDV-c037db5283)) are of great importance
+- While we are interested in a broad range of NLP/AI topics, the followings (and a list [here](https://github.com/AntNLP/seminar/blob/master/2021Spring_StatNLP/paper_list.md)) are of great importance
   - syntactic/semantic parsing
   - entity/relation/event extraction
   - distributed/distributional/compositional semantics
