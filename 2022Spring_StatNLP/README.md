@@ -1,6 +1,6 @@
  # Statistical Natural Language Processing Seminar -- 2022 Spring
 
-Time: **18:00 pm, Tuesday**
+Time: **10:00 pm, Tuesday**
 
 Venue: Tin Ka Ping Building 234 (田家炳楼234)
 
