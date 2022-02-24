@@ -18,7 +18,7 @@ Welcome to StatNLP Seminar 2022 Spring. : )
   - foundation models (pre-training models)
   - explaining methods
   
-- We hope that, with high probability, you choose papers from [here](https://github.com/AntNLP/seminar/blob/master/2022Spring_StatNLP/paper_list.md)
+- We hope that, with high probability, you choose papers from [here](https://github.com/AntNLP/seminar/blob/master/2022Spring_StatNLP/2022-paper-list.md)
 
 - other materials with broad interests are welcome (e.g., tutorials form top conferences, high-quality surveys).
 
