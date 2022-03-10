@@ -52,6 +52,12 @@ Week   | Date | Speaker   | Paper   | Materials
 11|11.19|杜威 | |
 12|11.26|周杰 | |
 13|12.3 |王志承|[EMNLP21]Transformer Feed-Forward Layers Are Key-Value Memories <br />[EMNLP21]Knowledge Neurons in Pretrained Transformers|[slides](https://drive.google.com/file/d/1pGjWLM9xJbJAh7Qslatfz4EwGea1JMkw/view?usp=sharing)|
+14|12.10| | |
+15|12.17| | |
+16|12.24|纪焘 | [Survey] Continual Lifelong Learning in NLP A Simple Survey | [slides](https://drive.google.com/file/d/1aM0bVLxKvrKKlMaI-X22ISsiMNzWndmr/view?usp=sharing)|
+17|12.31| | |
+18|1.7| | |
+
 
 
 
