@@ -1,4 +1,4 @@
- # AntNLP Seminar -- 2021 Fall
+ # AntNLP Seminar -- 2022 Fall
 
 Time: **08:00 am - 9:30 am, Wednesday**
 
