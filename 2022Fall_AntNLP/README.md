@@ -14,14 +14,14 @@ Welcome to AntNLP Seminar 2022 Fall. : )
   - AI:  AAAI, IJCAI
   - IR/DM: SIGIR, CIKM, WSDM, KDD, WWW
 
-- While we are interested in a broad range of NLP/AI topics, the followings 
+- While we are interested in a broad range of NLP/AI topics, the followings are of particular interest
   - syntactic/semantic parsing
   - entity/relation/event extraction
   - distributed/distributional/compositional semantics
   - MT/QA/Dialog
   - (deep) learning algorithms
 
-- Materials with broad interests are welcome (e.g., tutorials form top conferences, high-quality surveys).
+- Materials with broad interests are also welcome (e.g., tutorials form top conferences, high-quality surveys).
 
 ## For Presenters
 
@@ -33,7 +33,7 @@ Welcome to AntNLP Seminar 2022 Fall. : )
 
 ## For Audiences
 
-- Please read abstract/introduction sections before the seminar.
+- Please read the abstract/introduction sections before the seminar.
 
 ## Agenda
 
