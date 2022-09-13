@@ -1,4 +1,4 @@
-# AntNLP Seminar -- 2021 Spring
+# AntNLP Seminar -- 2022 Spring
 
 Time: **9:00 am, Friday**
 
