@@ -53,7 +53,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | 11   | 5.20 | 李鹏    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week11)          |
 | 12   | 5.27 | 杜威  |[EMNLP16] Creating a Large Benchmark for Open Information Extraction <br> [EMNLP20] Multi2OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
 | 13   | 6.3  | 休息  |       |           |
-| 14   | 6.10 | 王志承   |[ACL22]An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels <br> [ACL22]Prototypical Verbalizer for Prompt-based Few-shot Tuning       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
+| 14   | 6.10 | 王志承   |[ACL2022]An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels <br> [ACL2022]Prototypical Verbalizer for Prompt-based Few-shot Tuning       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
 | 15   | 6.17 | 休息    |       |           |
 | 16   | 6.24 | 汪杰<br>李雨倩    |      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
 
