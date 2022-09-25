@@ -40,22 +40,22 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
-| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
-| 2    | 3.18 | 刘宇芳  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
-| 3    | 3.25 | 高怡    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
-| 4    | 4.1  | 杨晰    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
-| 5    | 4.8  | 杜威    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
-| 6    | 4.15 | 王志承  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week6)          |
-| 7    | 4.22 | 刘宇芳  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week7)          |
-| 8    | 4.29 | 纪焘    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week8)          |
-| 9    | 5.6  | 高怡    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week9)          |
-| 10   | 5.13 | 杨晰    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week10)         |
-| 11   | 5.20 | 李鹏    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week11)          |
-| 12   | 5.27 | 杜威  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
+| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
+| 2    | 3.18 | 刘宇芳  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
+| 3    | 3.25 | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
+| 4    | 4.1  | 杨晰    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
+| 5    | 4.8  | 杜威    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
+| 6    | 4.15 | 王志承  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week6)          |
+| 7    | 4.22 | 刘宇芳  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week7)          |
+| 8    | 4.29 | 纪焘    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week8)          |
+| 9    | 5.6  | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week9)          |
+| 10   | 5.13 | 杨晰    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week10)         |
+| 11   | 5.20 | 李鹏    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week11)          |
+| 12   | 5.27 | 杜威  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
 | 13   | 6.3  | 休息  |       |           |
-| 14   | 6.10 | 王志承   |       |  ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
+| 14   | 6.10 | 王志承   |       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
 | 15   | 6.17 | 休息    |       |           |
-| 16   | 6.24 | 汪杰、李雨倩    |      | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
+| 16   | 6.24 | 汪杰、李雨倩    |      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
 
 ------
 
