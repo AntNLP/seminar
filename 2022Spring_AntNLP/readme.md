@@ -41,7 +41,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
 | 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY <br>[TACL2021]Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
-| 2    | 3.18 | 刘宇芳  | Dataset Distillat  <br> [ICLR21]DATASET CONDENSATION WITH GRADIENT MATCHING    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
+| 2    | 3.18 | 刘宇芳  | Dataset Distillat  <br> [ICLR2021]DATASET CONDENSATION WITH GRADIENT MATCHING    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
 | 4    | 4.1  | 杨晰    | [EMNLP19] Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks <br>  [EMNLP20] Inducing Target-Specific Latent Structures for Aspect Sentiment Classification     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
 | 5    | 4.8  | 杜威    |[EMNLP21]Zero-Shot Information Extraction as a Unified Text-to-Triple Translation | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
