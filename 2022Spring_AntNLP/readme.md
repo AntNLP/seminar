@@ -44,16 +44,16 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | 2    | 3.18 | 刘宇芳  | Dataset Distillat      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
 | 4    | 4.1  | 杨晰    | GCNs for ABSA (Aspect-based Sentiment Analysis) <br>  [EMNLP20] Inducing Target-Specific Latent Structures for Aspect Sentiment Classification     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
-| 5    | 4.8  | 杜威    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
-| 6    | 4.15 | 王志承  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week6)          |
-| 7    | 4.22 | 刘宇芳  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week7)          |
-| 8    | 4.29 | 纪焘    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week8)          |
+| 5    | 4.8  | 杜威    |[EMNLP21]Zero-Shot Information Extraction as a Unified Text-to-Triple Translation | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
+| 6    | 4.15 | 王志承  |[ICLR2018]Measuring the Intrinsic Dimension of Objective Landscapes <br>[ACL2021]Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week6)          |
+| 7    | 4.22 | 刘宇芳  | [ICML2020]Certified Data Removal from Machine Learning Models<br> [AAAI2022]Hard to Forget: Poisoning Attacks on Certified Machine Unlearning     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week7)    |
+| 8    | 4.29 | 纪焘    | [ACL2022]Knowledge Neurons in Pretrained Transformers <br> [EMNLP2021]MultiEURLEX – A multi-lingual and multi-label legal document classification dataset for zero-shot cross-lingual transfer <br>[ACL2022]Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week8)          |
 | 9    | 5.6  | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week9)          |
-| 10   | 5.13 | 杨晰    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week10)         |
+| 10   | 5.13 | 杨晰    | [ACL18]Neural Open Information Extraction <br> [EMNLP20]Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction <br>[EMNLP20]OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction <br>[EMNLP21]Maximal Clique Based Non-Autoregressive Open Information Extraction | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week10)         |
 | 11   | 5.20 | 李鹏    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week11)          |
 | 12   | 5.27 | 杜威  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
 | 13   | 6.3  | 休息  |       |           |
-| 14   | 6.10 | 王志承   |       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
+| 14   | 6.10 | 王志承   |[ACL2022]An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels <br> [ACL2022]Prototypical Verbalizer for Prompt-based Few-shot Tuning       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
 | 15   | 6.17 | 休息    |       |           |
 | 16   | 6.24 | 汪杰、李雨倩    |      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
 
