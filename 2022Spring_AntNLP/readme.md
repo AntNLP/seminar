@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
-| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY    | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
+| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
 | 2    | 3.18 | 刘宇芳  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
 | 4    | 4.1  | 杨晰    |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
