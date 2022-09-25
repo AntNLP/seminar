@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
-| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
+| 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY <br>[TACL2021]Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
 | 2    | 3.18 | 刘宇芳  | Dataset Distillat      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
 | 4    | 4.1  | 杨晰    | GCNs for ABSA (Aspect-based Sentiment Analysis) <br>  [EMNLP20] Inducing Target-Specific Latent Structures for Aspect Sentiment Classification     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
@@ -55,7 +55,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | 13   | 6.3  | 休息  |       |           |
 | 14   | 6.10 | 王志承   |[ACL2022]An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels <br> [ACL2022]Prototypical Verbalizer for Prompt-based Few-shot Tuning       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
 | 15   | 6.17 | 休息    |       |           |
-| 16   | 6.24 | 汪杰、李雨倩    |      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
+| 16   | 6.24 | 汪杰<br>李雨倩    |      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week16)          |
 
 ------
 
