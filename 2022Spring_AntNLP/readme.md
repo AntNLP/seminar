@@ -43,7 +43,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | 1    | 3.11 | 纪焘    | PRETRAINED LANGUAGE MODEL IN CONTINUAL LEARNING: A COMPARATIVE STUDY Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of Vision-and-Language BERTs    | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week1)          |
 | 2    | 3.18 | 刘宇芳  | Dataset Distillat      | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week3)          |
-| 4    | 4.1  | 杨晰    | GCNs for ABSA (Aspect-based Sentiment Analysis) \n  [EMNLP20] Inducing Target-Specific Latent Structures for Aspect Sentiment Classification     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
+| 4    | 4.1  | 杨晰    | GCNs for ABSA (Aspect-based Sentiment Analysis) <br>  [EMNLP20] Inducing Target-Specific Latent Structures for Aspect Sentiment Classification     | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week4)          |
 | 5    | 4.8  | 杜威    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week5)          |
 | 6    | 4.15 | 王志承  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week6)          |
 | 7    | 4.22 | 刘宇芳  |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week7)          |
