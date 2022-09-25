@@ -51,8 +51,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | 9    | 5.6  | 高怡    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week9)          |
 | 10   | 5.13 | 杨晰    | [ACL18]Neural Open Information Extraction <br> [EMNLP20]Systematic Comparison of Neural Architectures and Training Approaches for Open Information Extraction <br>[EMNLP20]OpenIE6: Iterative Grid Labeling and Coordination Analysis for Open Information Extraction <br>[EMNLP21]Maximal Clique Based Non-Autoregressive Open Information Extraction | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week10)         |
 | 11   | 5.20 | 李鹏    |       | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week11)          |
-| 12   | 5.27 | 杜威  |[EMNLP16] Creating a Large Benchmark for Open Information Extraction <br> [EMNLP20] Multi2OIE: Multilingual Open Information Extraction Based on
-Multi-Head Attention with BERT | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
+| 12   | 5.27 | 杜威  |[EMNLP16] Creating a Large Benchmark for Open Information Extraction <br> [EMNLP20] Multi2OIE: Multilingual Open Information Extraction Based on Multi-Head Attention with BERT | [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week12)          |
 | 13   | 6.3  | 休息  |       |           |
 | 14   | 6.10 | 王志承   |[ACL22]An Information-theoretic Approach to Prompt Engineering Without Ground Truth Labels <br> [ACL22]Prototypical Verbalizer for Prompt-based Few-shot Tuning       |  [Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week14)         |
 | 15   | 6.17 | 休息    |       |           |
