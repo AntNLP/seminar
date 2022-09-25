@@ -41,7 +41,7 @@ Welcome to AntNLP Seminar 2022 Spring. : )
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
 | 1    | 3.11 | 纪焘    |       |           |
-| 2    | 3.18 | 刘宇芳  |       |           |
+| 2    | 3.18 | 刘宇芳  |       | ![Slides](https://github.com/lala370/seminar/tree/master/2022Spring_AntNLP/week2)          |
 | 3    | 3.25 | 高怡    |       |           |
 | 4    | 4.1  | 杨晰    |       |           |
 | 5    | 4.8  | 杜威    |       |           |
