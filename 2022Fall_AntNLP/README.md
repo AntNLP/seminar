@@ -43,7 +43,7 @@ Week   	| Date 	| Speaker   | Paper   	| Materials
 2 	|9.28 	| 纪焘	||
 3 	|10.5 	| 国庆节   |-|-
 4 	|10.12 	| 王志承 	||
-5 	|10.19 	| 杜威 	||
+5 	|10.19 	| 杜威 	||[Slides](https://github.com/AntNLP/seminar/2022Fall_AntNLP/week5
 6 	|10.26	| 刘宇芳  	||
 7 	|11.2	| 杨晰 	|| 
 8 	|11.9	| 汪杰	|| 
