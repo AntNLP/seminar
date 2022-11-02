@@ -45,18 +45,17 @@ Week   | Date | Speaker   | Paper   | Materials
 4 |9.29 | 杨晰 |[ACL21]Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks <br />[ACL21]ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning |
 5 |10.8 | 高怡 |[Survey] Some Papers about Few Shot Learning|
 6 |10.15| 纪焘  |[arxiv20] Seed the Views: Hierarchical Semantic Alignment for Contrastive Representation Learning<br /> [ACL21] COSY: COunterfactual SYntax for Cross-Lingual Understanding|
-7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | 
+7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | [Slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week7/1022.pdf)
 8 |10.29 | 李鹏|[Survey] Certified Defenses: A Survey | 
 9 |11.5 | 雷钲仪 | |
 10|11.12|黄子寅 | |
 11|11.19|杜威 | |
 12|11.26|周杰 | |
 13|12.3 |王志承|[EMNLP21]Transformer Feed-Forward Layers Are Key-Value Memories <br />[EMNLP21]Knowledge Neurons in Pretrained Transformers|[slides](https://drive.google.com/file/d/1pGjWLM9xJbJAh7Qslatfz4EwGea1JMkw/view?usp=sharing)|
-14|12.10| | |
-15|12.17| | |
+14|12.10|高怡 |Mixup in Meta-Learning |[slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week14/1210.pptx)
+15|12.17|杨晰 | |
 16|12.24|纪焘 | [Survey] Continual Lifelong Learning in NLP A Simple Survey | [slides](https://drive.google.com/file/d/1aM0bVLxKvrKKlMaI-X22ISsiMNzWndmr/view?usp=sharing)|
-17|12.31| | |
-18|1.7| | |
+17|12.31|刘宇芳 |Papers about Lottery Ticket Hypothesis | [slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week17/1231.pdf)
 
 
 
