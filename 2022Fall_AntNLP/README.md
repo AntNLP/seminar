@@ -44,7 +44,7 @@ Week   	| Date 	| Speaker   | Paper   	| Materials
 3 	|10.5 	| 国庆节   |-|-
 4 	|10.12 	| 王志承 	||
 5 	|10.19 	| 杜威 	|Document-Level Event Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week5/2022-10-24%E7%BB%84%E4%BC%9A.pdf)
-6 	|10.26	| 刘宇芳  	||
+6 	|10.26	| 刘宇芳  	|Calibrating Factual Knowledge in PLMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week6/1102.pdf)
 7 	|11.2	| 杨晰 	|| 
 8 	|11.9	| 汪杰	|| 
 9 	|11.16	| 李雨倩 	||
