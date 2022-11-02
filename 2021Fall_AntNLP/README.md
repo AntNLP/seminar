@@ -39,13 +39,13 @@ Welcome to AntNLP Seminar 2021 Fall. : )
 
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | --- | :---:
-1 |9.10 | 杜威 |[ICLR 2020]BATCHENSEMBLE: AN ALTERNATIVE APPROACH TO EFFICIENT ENSEMBLE AND LIFELONG LEARNING <br /> [ICLR 2021]TRAINING INDEPENDENT SUBNETWORKS FOR ROBUST PREDICTION|
+1 |9.10 | 杜威 |[ICLR 2020]BATCHENSEMBLE: AN ALTERNATIVE APPROACH TO EFFICIENT ENSEMBLE AND LIFELONG LEARNING <br /> [ICLR 2021]TRAINING INDEPENDENT SUBNETWORKS FOR ROBUST PREDICTION|[slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week1/ensemble-learning.pptx)
 2 |9.17 | 王志承 | [ICML21] Learning Transferable Visual Models From Natural Language Supervision<br />[Distill21] Multimodal Neurons in Artificial Neural Networks |[slides](https://drive.google.com/file/d/1Je7gZ67a-PDx-EjmwCH2gyDbtacmqmON/view?usp=sharing)
 3 | 9.29| Cancelled | |
 4 |9.29 | 杨晰 |[ACL21]Dependency-driven Relation Extraction with Attentive Graph Convolutional Networks <br />[ACL21]ERICA: Improving Entity and Relation Understanding for Pre-trained Language Models via Contrastive Learning |
-5 |10.8 | 高怡 |[Survey] Some Papers about Few Shot Learning|
+5 |10.8 | 高怡 |[Survey] Some Papers about Few Shot Learning|[slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week5/metanlp.pptx)
 6 |10.15| 纪焘  |[arxiv20] Seed the Views: Hierarchical Semantic Alignment for Contrastive Representation Learning<br /> [ACL21] COSY: COunterfactual SYntax for Cross-Lingual Understanding|
-7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | [Slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week7/1022.pdf)
+7 |10.22 |刘宇芳 |[Survey] Shapley Value for Model Interpretability | [slides](https://github.com/AntNLP/seminar/tree/master/2021Fall_AntNLP/week7/1022.pdf)
 8 |10.29 | 李鹏|[Survey] Certified Defenses: A Survey | 
 9 |11.5 | 雷钲仪 | |
 10|11.12|黄子寅 | |
