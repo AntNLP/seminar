@@ -44,20 +44,21 @@ Week   	| Date 	| Speaker   | Paper   	| Materials
 3 	|10.5 	| 国庆节   |-|-
 4 	|10.12 	| 王志承 	||
 5 	|10.19 	| 杜威 	|Document-Level Event Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week5/2022-10-24%E7%BB%84%E4%BC%9A.pdf)
-6 	|10.26	| 刘宇芳  	|Calibrating Factual Knowledge in PLMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week6/1102.pdf)
-7 	|11.2	| 杨晰 	|| 
-8 	|11.9	| 汪杰	|| 
-9 	|11.16	| 李雨倩 	||
-10	|11.12	| 刘燕婷 	||
-11 	|11.23 	| 高怡	||
-12 	|11.30 	| 纪焘	||
-13 	|12.7 	| 王志承 	||
-14 	|12.14 	| 杜威 	||
-15 	|12.21	| 刘宇芳  	||
-16 	|12.28	| 杨晰 	|| 
-17 	|1.3	| 汪杰	|| 
-18 	|1.10	| 李雨倩 	||
-19	|1.17	| 刘燕婷 	||
+6 	|10.26	|-|-|
+7 	|11.2	| 刘宇芳 	|Calibrating Factual Knowledge in PLMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week6/1102.pdf)
+8 	|11.9	| 杨晰	|| 
+9 	|11.16	| 汪杰 	||
+10	|11.23	| 李雨倩	||
+11 	|11.30 	| 刘燕婷	||
+12 	|12.7 	|  高怡	||
+13 	|12.14 	| 纪焘 	||
+14 	|12.21	|  王志承 	||
+15 	|12.28	| 杜威 	|| 
+16 	|1.3	| 刘宇芳	|| 
+17 	|1.10	|  杨晰	||
+18	|1.17	| 汪杰 	||
+19 |1.24	| 李雨倩 	||
+20 |1.31	| 刘燕婷 	||
 
 
 
