@@ -39,28 +39,15 @@ Welcome to AntNLP Seminar 2022 Fall. : )
 
 Week   	| Date 	| Speaker   | Paper   	| Materials
 :---:  	| :---: | :---:		| --- 		| :---:
-1 	|9.21 	| 高怡	||
-2 	|9.28 	| 纪焘	||
+1 	|9.21 	| 高怡	|Papers about Question Qeneration| -
+2 	|9.28 	| 纪焘	|Diffusion-LM Improves Controllable Text Generation | [SLides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week2/Diffusion-LM.pdf)
 3 	|10.5 	| 国庆节   |-|-
 4 	|10.12 	| 王志承 	|Memory Efficient Continual Learning for Neural Text Classification|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week4/ada.pdf)
 5 	|10.19 	| 杜威 	|Document-Level Event Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week5/2022-10-24%E7%BB%84%E4%BC%9A.pdf)
 7 	|11.2	| 刘宇芳 	|Calibrating Factual Knowledge in PLMs|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week6/1102.pdf)
-8 	|11.9	| 杨晰	|[EMNLP22]Query-based Instance Discrimination Network for Relational Triple Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week8/slides.pdf)
+8 	|11.9	| 杨晰	| Query-based Instance Discrimination Network for Relational Triple Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week8/slides.pdf)
 9 	|11.16	| 汪杰 	|Regular Expressions in Neural Network|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week9/slides.pdf)
-10	|11.23	| 李雨倩	||
-11 	|11.30 	| 刘燕婷	||
-12 	|12.7 	|  高怡	||
-13 	|12.14 	| 纪焘 	||
-14 	|12.21	|  王志承 	||
-15 	|12.28	| 杜威 	|| 
-16 	|1.3	| 刘宇芳	|| 
-17 	|1.10	|  杨晰	||
-18	|1.17	| 汪杰 	||
-19 |1.24	| 李雨倩 	||
-20 |1.31	| 刘燕婷 	||
-
-
-
+10	|11.23	| 王志承	|Steering Prototypes with Prompt Tuning for Rehearsal-free Continual Learning | [Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week10/CPP.pdf)
 
 ---
 ## F.A.Q.
