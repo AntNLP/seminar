@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2022 Fall. : )
 Week   	| Date 	| Speaker   | Paper   	| Materials
 :---:  	| :---: | :---:		| --- 		| :---:
 1 	|9.21 	| 高怡	|Papers about Question Qeneration| -
-2 	|9.28 	| 纪焘	|Diffusion-LM Improves Controllable Text Generation | [SLides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week2/Diffusion-LM.pdf)
+2 	|9.28 	| 纪焘	|Diffusion-LM Improves Controllable Text Generation | [Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week2/Diffusion-LM.pdf)
 3 	|10.5 	| 国庆节   |-|-
 4 	|10.12 	| 王志承 	|Memory Efficient Continual Learning for Neural Text Classification|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week4/ada.pdf)
 5 	|10.19 	| 杜威 	|Document-Level Event Extraction|[Slides](https://github.com/AntNLP/seminar/blob/master/2022Fall_AntNLP/week5/2022-10-24%E7%BB%84%E4%BC%9A.pdf)
