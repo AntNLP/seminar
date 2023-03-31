@@ -40,4 +40,7 @@ Welcome to StatNLP Seminar 2023 Spring. : )
 
 | Week | Date | Speaker | Paper | Materials |
 | ---- | ---- | ------- | ----- | --------- |
-| 1    | 3.2  |         |       |           |
+| 1    | 3.2  |    停电     |       |           |
+| 2    | 3.9  |    李雨倩<br>汪杰     |   [\[EMNLP22\]Autoregressive Structured Prediction with Language Models](https://aclanthology.org/2022.findings-emnlp.70/) <br> [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)  |    [Slide](https://github.com/AntNLP/seminar/edit/master/2023Spring_StatNLP/week2/)       |
+| 3    | 3.16  |    刘燕婷<br>兰孟烨   |   [\[ACL22\]Prompt for Extraction? PAIE: Prompting Argument Interaction for Event Argument Extraction](https://aclanthology.org/2022.acl-long.466/)<br>[\[EMNLP22\]Continual Training of Language Models for Few-Shot Learning](https://aclanthology.org/2022.emnlp-main.695/)    |    [Slide](https://github.com/AntNLP/seminar/edit/master/2023Spring_StatNLP/week3/)       |
+| 4    | 3.23  |    顾轶洋<br>李雍   |   [\[ACL22\]There Are a Thousand Hamlets in a Thousand People’s Eyes: Enhancing Knowledge-grounded Dialogue with Personal Memory](https://aclanthology.org/2022.acl-long.270/)<br>[\[EMNLP22\]InstructDial: Improving Zero and Few-shot Generalization in Dialogue through Instruction Tuning](https://aclanthology.org/2022.emnlp-main.33/)    |    [Slide](https://github.com/AntNLP/seminar/edit/master/2023Spring_StatNLP/week4/)       |
