@@ -8,7 +8,7 @@ Welcome to AntNLP Seminar 2023 Fall. : )
 
 ## On Papers
 
-- Please choose recent papers (2022, 2021) from top NLP/AI venues. 
+- Please choose recent papers (2023, 2022) from top NLP/AI venues. 
   - NLP: ACL, TACL, EMNLP, NAACL, EACL
   - ML:  ICML, NeurIPS, AISTATS, JMLR, ICLR
   - AI:  AAAI, IJCAI
