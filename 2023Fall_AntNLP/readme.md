@@ -40,7 +40,7 @@ Welcome to AntNLP Seminar 2023 Fall. : )
 Week   	| Date 	| Speaker   | Paper   	| Materials
 :---:  	| :---: | :---:		| --- 		| :---:
 1 	|9.21 	| 纪焘	|Transformer without PE| [Slide](https://github.com/AntNLP/seminar/2023Fall_AntNLP/week1/) 
-2 	|9.28 	| 纪焘	|Retrieval-based LLM| [Slide]([https://github.com/AntNLP/seminar/2023Fall_AntNLP/week2/](https://github.com/AntNLP/seminar/tree/master/2023Fall_AntNLP/week2)) 
+2 	|9.28 	| 纪焘	|Retrieval-based LLM| [Slide](https://github.com/AntNLP/seminar/tree/master/2023Fall_AntNLP/week2) 
 
 
 ---
