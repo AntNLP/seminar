@@ -1,0 +1,263 @@
+
+## Interpretability, Robustness, Compressing, Privacy
+  - [ICLR24]Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions
+  - [ICLR24] Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!
+  - [ICLR24] Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs
+  - [ICLR24] ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models
+  - [ICLR24] Beyond Memorization: Violating Privacy via Inference with Large Language Models
+  - [ICLR24] Overthinking the Truth: Understanding how Language Models Process False Demonstrations
+  - [ICLR24] Memorization Capacity of Multi-Head Attention in Transformers
+  - [ICLR24] Circuit Component Reuse Across Tasks in Transformer Language Models
+  - [ICLR24] Do Large Language Models Know about Facts?
+  - [ICLR24] Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy
+  - [ICLR24] Linearity of Relation Decoding in Transformer Language Models
+  - [ICLR24] Unbiased Watermark for Large Language Models
+  - [ICLR24] Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory
+  - [ICLR24] Evaluating the Zero-shot Robustness of Instruction-tuned Language Models
+  - [ICLR24] Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs
+  - [ICLR24] BTR: Binary Token Representations for Efficient Retrieval Augmented Language Models
+  - [ICLR24] Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization
+  - [ICLR24] Time Travel in LLMs: Tracing Data Contamination in Large Language Models
+  - [ICLR24] Large Language Models Are Not Robust Multiple Choice Selectors
+  - [ICLR24] Dissecting learning and forgetting in language model finetuning
+  - [ICLR24] On the Learnability of Watermarks for Language Models
+  - [ICLR24] Multilingual Jailbreak Challenges in Large Language Models
+  - [ICLR24] KoLA: Carefully Benchmarking World Knowledge of Large Language Models
+  - [ICLR24] Self-contradictory Hallucinations of Large Language Models: Evaluation, Detection and Mitigation
+  - [ICLR24] In-context Autoencoder for Context Compression in a Large Language Model
+  - [ICLR24] Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective
+  - [ICLR24] In-Context Learning Dynamics with Random Binary Sequences
+  - [ICLR24] Chain of Thought Empowers Transformers to Solve Inherently Serial Problems
+  - [ICLR24] Detecting Pretraining Data from Large Language Models
+  - [ICLR24] How do Language Models Bind Entities in Context?
+  - [ICLR24] The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”
+  - [ICLR24] Accurate Retraining-free Pruning for Pretrained Encoder-based Language Models
+  - [ICLR24] Evaluating Large Language Models at Evaluating Instruction Following
+  - [ICLR24] ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search
+  - [ICLR24] DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models
+  - [ICLR24] Unmasking and Improving Data Credibility: A Study with Datasets for Training Harmless Language Models
+  - [ICLR24] Curiosity-driven Red-teaming for Large Language Models
+  - [ICLR24] On the Reliability of Watermarks for Large Language Models
+  - [ICLR24] BadEdit: Backdooring Large Language Models by Model Editing
+  - [ICLR24] A Private Watermark for Large Language Models
+  - [ICLR24] Teach LLMs to Phish: Stealing Private Information from Language Models
+  - [ICLR24] Large Language Models as Analogical Reasoners
+  - [ICLR24] Compressing LLMs: The Truth is Rarely Pure and Never Simple
+  - [ICLR24] Unveiling and Manipulating Prompt Influence in Large Language Models
+  - [ICLR24] Towards Codable Text Watermarking for Large Language Models
+  - [ICLR24] Linear attention is (maybe) all you need (to understand Transformer optimization)
+  - [ICLR24] Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions
+  - [ICLR24] SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression
+  - [ICLR24] Unveiling the Pitfalls of Knowledge Editing for Large Language Modelspdf icon
+  - [ICLR24] QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
+  - [ICLR24] LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention
+  - [ICLR24] MiniLLM: Knowledge Distillation of Large Language Models
+  - [ICLR24] The Generative AI Paradox: “What It Can Create, It May Not Understand”
+  - [ICLR24] Tell Your Model Where to Attend: Post-hoc Attention Steering for LLMs
+  - [ICLR24] Understanding In-Context Learning from Repetitions
+  - [ICLR24] Simplifying Transformer Blocks
+  - [ICLR24] Meaning Representations from Trajectories in Autoregressive Models
+  - [ICLR24] RAIN: Your Language Models Can Align Themselves without Finetuning
+  - [ICLR24] A Simple and Effective Pruning Approach for Large Language Models
+  - [ICLR24] QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models
+  - [EMNLP23] Conceptual structure coheres in human cognition but not in large language models
+  - [EMNLP23] Symbol tuning improves in-context learning in language models
+  - [EMNLP23] Large Language Models Can Self-Improve
+  - [EMNLP23] LACMA: Language-Aligning Contrastive Learning with Meta-Actions for Embodied Instruction Following
+  - [EMNLP23] CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation
+  - [EMNLP23] Influence Scores at Scale for Efficient Language Data Sampling
+  - [EMNLP23] DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models
+  - [EMNLP23] Why LLMs Hallucinate, and How to Get (Evidential) Closure: Perceptual, Intensional, and Extensional Learning for Faithful Natural Language Generation
+  - [EMNLP23] The Curious Case of Hallucinatory (Un)answerability: Finding Truths in the Hidden States of Over-Confident Large Language Models
+  - [EMNLP23] Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?
+  - [EMNLP23] Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation
+  - [EMNLP23] Meta-Learning Online Adaptation of Language Models
+  - [EMNLP23] Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition
+  - [EMNLP23] Navigating the Grey Area: How Expressions of Uncertainty and Overconfidence Affect Language Models
+  - [EMNLP23] Tree Prompting: Efficient Task Adaptation without Fine-Tuning
+  - [EMNLP23] Enabling Large Language Models to Generate Text with Citations
+  - [EMNLP23] EasyQuant: An Efficient Data-free Quantization Algorithm for LLMs
+  - [EMNLP23] Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?
+  - [EMNLP23] Zero-shot Sharpness-Aware Quantization for Pre-trained Language Models
+  - [EMNLP23] Crystal: Introspective Reasoners Reinforced with Self-Feedback
+  - [EMNLP23] A Frustratingly Easy Post-Training Quantization Scheme for LLMs
+  - [EMNLP23] kNN-LM Does Not Improve Open-ended Text Generation
+  - [EMNLP23] Making Large Language Models Better Data Creators
+  - [EMNLP23] Leap-of-Thought: Accelerating Transformers via Dynamic Token Routing
+  - [EMNLP23] On the Relation between Sensitivity and Accuracy in In-Context Learning
+
+## Reasoning
+  - [ICLR24] A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
+  - [ICLR24] MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning
+  - [ICLR24] DSPy: Compiling Declarative Language Model Calls into State-of-the-Art Pipelines
+  - [ICLR24] At Which Training Stage Does Code Data Help LLMs Reasoning?
+  - [ICLR24] PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization
+  - [ICLR24] Abstractors and relational cross-attention: An inductive bias for explicit relational reasoning in Transformers
+  - [ICLR24] Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents
+  - [ICLR24] Learning Planning Abstractions from Language
+  - [ICLR24] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning
+  - [ICLR24] Turning large language models into cognitive models
+  - [ICLR24] Large Language Model Cascades with Mixture of Thought Representations for Cost-Efficient Reasoning
+  - [ICLR24] TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models
+  - [ICLR24] Tree-Planner: Efficient Close-loop Task Planning with Large Language Models
+  - [ICLR24] PB-LLM: Partially Binarized Large Language Models
+  - [ICLR24] Hypothesis Search: Inductive Reasoning with Language Models
+  - [ICLR24] MathCoder: Seamless Code Integration in LLMs for Enhanced Mathematical Reasoning
+  - [ICLR24] SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning
+  - [EMNLP23] Explanation Selection Using Unlabeled Data for Chain-of-Thought Prompting
+  - [EMNLP23] Failures Pave the Way: Enhancing Large Language Models through Tuning-free Rule Accumulation
+  - [EMNLP23] Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts
+  - [EMNLP23] INFORM : Information eNtropy based multi-step reasoning FOR large language Models
+  - [EMNLP23] Answering Questions by Meta-Reasoning over Multiple Chains of Thought
+  - [EMNLP23] MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models
+  - [EMNLP23] Reasoning with Language Model is Planning with World Model
+  - [EMNLP23] Generating Data for Symbolic Language with Large Language Models
+  - [EMNLP23] Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering
+  - [EMNLP23] StructGPT: A General Framework for Large Language Model to Reason over Structured Data
+  - [EMNLP23] Explicit Planning Helps Language Models in Logical Reasoning
+  - [EMNLP23] CoF-CoT: Enhancing Large Language Models with Coarse-to-Fine Chain-of-Thought Prompting for Multi-domain NLU Tasks
+  - [EMNLP23] Let’s Sample Step by Step: Adaptive-Consistency for Efficient Reasoning and Coding with LLMs
+  - [EMNLP23] Pre-training Language Models for Comparative Reasoning
+  - [EMNLP23] The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning
+  - [EMNLP23] Prompting with Pseudo-Code Instructions
+  - [EMNLP23] Hop, Union, Generate: Explainable Multi-hop Reasoning without Rationale Supervision
+  - [EMNLP23] Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?
+  - [EMNLP23] Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning
+  - [EMNLP23] Large Language Models are Better Reasoners with Self-Verification
+  - [EMNLP23] LogiCoT: Logical Chain-of-Thought Instruction Tuning
+  - [EMNLP23] Allies: Prompting Large Language Model with Beam Search
+  - [EMNLP23] Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
+
+   
+## Pre-trained Models, Embeddings
+  - [ICLR24] Proving Test Set Contamination for Black-Box Language Models
+  - [ICLR24] LoftQ: LoRA-Fine-Tuning-aware Quantization for Large Language Models
+  - [ICLR24] Batched Low-Rank Adaptation of Foundation Models
+  - [ICLR24] Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models
+  - [ICLR24] Self-Alignment with Instruction Backtranslation
+  - [ICLR24] LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models
+  - [ICLR24] Amortizing intractable inference in large language models
+  - [ICLR24] LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models
+  - [ICLR24] InfoBatch: Lossless Training Speed Up by Unbiased Dynamic Data Pruning
+  - [ICLR24] Controlled Text Generation via Language Model Arithmetic
+  - [ICLR24] Improving Generalization of Alignment with Human Preferences through Group Invariant Learning
+  - [ICLR24] The Consensus Game: Language Model Generation via Equilibrium Search
+  - [ICLR24] In-Context Pretraining: Language Modeling Beyond Document Boundaries
+  - [ICLR24] A Benchmark for Learning to Translate a New Language from One Grammar Book
+  - [ICLR24] Tool-Augmented Reward Modeling
+  - [ICLR24] Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation
+  - [ICLR24] Safe RLHF: Safe Reinforcement Learning from Human Feedback
+  - [ICLR24] Stack Attention: Improving the Ability of Transformers to Model Hierarchical Patterns
+  - [ICLR24] Instructive Decoding: Instruction-Tuned Large Language Models are Self-Refiner from Noisy Instructions
+  - [ICLR24] Lemur: Harmonizing Natural Language and Code for Language Agents
+  - [ICLR24] Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages
+  - [ICLR24] From Sparse to Soft Mixtures of Experts
+  - [ICLR24] ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
+  - [ICLR24] OctoPack: Instruction Tuning Code Large Language Models
+  - [ICLR24] Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language Models
+  - [ICLR24] What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning
+  - [ICLR24] Chain of Hindsight aligns Language Models with Feedback
+  - [ICLR24] Retrieval meets Long Context Large Language Models
+  - [ICLR24] Chain-of-Knowledge: Grounding Large Language Models via Dynamic Knowledge Adapting over Heterogeneous Sources
+  - [ICLR24] An Emulator for Fine-tuning Large Language Models using Small Language Models
+  - [ICLR24] Fine-Tuning Language Models for Factuality
+  - [ICLR24] Beyond Accuracy: Evaluating Self-Consistency of Code Large Language Models with IdentityChain
+  - [ICLR24] NEFTune: Noisy Embeddings Improve Instruction Finetuning
+  - [ICLR24] Two-stage LLM Fine-tuning with Less Specialization and More Generalization
+  - [ICLR24] Supervised Knowledge Makes Large Language Models Better In-context Learners
+  - [ICLR24] CLEX: Continuous Length Extrapolation for Large Language Models
+  - [ICLR24] Making Retrieval-Augmented Language Models Robust to Irrelevant Context
+  - [ICLR24] MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction Following
+  - [ICLR24] Making RL with Preference-based Feedback Efficient via Randomization
+  - [ICLR24] LQ-LoRA: Low-rank plus Quantized Matrix Decomposition for Efficient Language Model Finetuning
+  - [ICLR24] WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
+  - [ICLR24] Understanding the Effects of RLHF on LLM Generalisation and Diversity
+  - [ICLR24] Increasing Model Capacity for Free: A Simple Strategy for Parameter Efficient Fine-tuning
+  - [ICLR24] Human Feedback is not Gold Standard
+  - [ICLR24] Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering
+  - [ICLR24] CPPO: Continual Learning for Reinforcement Learning with Human Feedback
+  - [ICLR24] MoLE: Mixture of LoRA Experts
+  - [ICLR24] How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
+  - [ICLR24] CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing
+  - [ICLR24] Privacy-Preserving In-Context Learning for Large Language Models
+  - [ICLR24] Teaching Large Language Models to Self-Debug
+  - [ICLR24] Future Language Modeling from Temporal Document History
+  - [ICLR24] Teaching Language Models to Hallucinate Less with Synthetic Tasks
+  - [ICLR24] Enable Lanuguage Models to Implicitly Learn Self-Improvement From Data
+  - [ICLR24] ReLoRA: High-Rank Training Through Low-Rank Updates
+  - [ICLR24] Teaching Arithmetic to Small Transformers
+  - [ICLR24] RLCD: Reinforcement Learning from Contrastive Distillation for LM Alignment
+  - [ICLR24] Conformal Language Modeling
+  - [ICLR24] Representation Deficiency in Masked Language Modeling
+  - [ICLR24] Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning
+  - [ICLR24] Knowledge Fusion of Large Language Models
+  - [ICLR24] Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models
+  - [ICLR24] Language Model Decoding as Direct Metrics Optimization
+  - [ICLR24] DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning
+  - [ICLR24] Get more for less: Principled Data Selection for Warming Up Fine-Tuning in LLMs
+  - [ICLR24] WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+  - [ICLR24] Function Vectors in Large Language Models
+  - [ICLR24] Language Modeling Is Compression
+  - [ICLR24] Large Language Models as Optimizers
+  - [EMNLP23] Absolute Position Embedding Learns Sinusoid-like Waves for Attention Based on Relative Position
+  - [EMNLP23] Parameter-efficient Tuning for Large Language Model without Calculating Its Gradients
+  - [EMNLP23] LLM-FP4: 4-Bit Floating-Point Quantized Transformers
+  - [EMNLP23] Look-back Decoding for Open-Ended Text Generation
+  - [EMNLP23] API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs
+  - [EMNLP23] Evaluating Large Language Models on Controlled Generation Tasks
+  - [EMNLP23] CoLT5: Faster Long-Range Transformers with Conditional Computation
+  - [EMNLP23] Effects of sub-word segmentation on performance of transformer language models
+  - [EMNLP23] Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model
+  - [EMNLP23] Multilingual Large Language Models Are Not (Yet) Code-Switchers
+  - [EMNLP23] Context Compression for Auto-regressive Transformers with Sentinel Tokens
+  - [EMNLP23] Character-LLM: A Trainable Agent for Role-Playing
+  - [EMNLP23] How do languages influence each other? Studying cross-lingual data sharing during LM fine-tuning
+  - [EMNLP23] LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models
+  - [EMNLP23] KCTS: Knowledge-Constrained Tree Search Decoding with Token-Level Hallucination Detection
+
+
+## Multimodal/RL
+  - [ICLR24] Interpreting CLIP's Image Representation via Text-Based Decomposition
+  - [ICLR24] On the Role of Discrete Tokenization in Visual Representation Learning
+  - [ICLR24] Demystifying CLIP Data
+  - [ICLR24] Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models
+  - [ICLR24] CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction
+  - [ICLR24] Negative Label Guided OOD Detection with Pretrained Vision-Language Models
+  - [ICLR24] Text2Reward: Reward Shaping with Language Models for Reinforcement Learning
+  - [ICLR24] Large Language Models are Efficient Learners of Noise-Robust Speech Recognition
+  - [ICLR24] Frozen Transformers in Language Models Are Effective Visual Encoder Layers
+  - [ICLR24] An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models
+  - [ICLR24] DreamLLM: Synergistic Multimodal Comprehension and Creation
+  - [ICLR24] Vision-Language Foundation Models as Effective Robot Imitators
+  - [ICLR24] Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning
+  - [ICLR24] Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency
+  - [ICLR24] Fine-tuning Multimodal LLMs to Follow Zero-shot Demonstrative Instructions
+  - [ICLR24] Bridging Vision and Language Spaces with Assignment Prediction
+  - [ICLR24] Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning
+  - [ICLR24] Generating Images in Context with Multimodal Large Language Models
+  - [ICLR24] Large Language Models as Automated Aligners for benchmarking Vision-Language Models
+  - [ICLR24] The Trickle-down Impact of Reward Inconsistency on RLHF
+  - [ICLR24] Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift
+  - [ICLR24] Understanding Hidden Context in Preference Learning: Consequences for RLHF
+  - [ICLR24] Eureka: Human-Level Reward Design via Coding Large Language Models
+  - [ICLR24] Controlling Vision-Language Models for Universal Image Restoration
+  - [ICLR24] Vanishing Gradients in Reinforcement Finetuning of Language Models
+  - [ICLR24] TiC-CLIP: Continual Training of CLIP Models
+  - [ICLR24] ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models
+  - [ICLR24] MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+  - [ICLR24] Understanding Transferable Representation Learning and Zero-shot Transfer in CLIP
+  - [ICLR24] COSA: Concatenated Sample Pretrained Vision-Language Foundation Model
+  - [ICLR24] MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning
+  - [ICLR24] Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization
+  - [ICLR24] Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization
+  - [ICLR24] SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models
+  - [EMNLP23] Granularity Matters: Pathological Graph-driven Cross-modal Alignment for Brain CT Report Generation
+
+## QA, Dialog, Summarization, Keyphrase, Information Extraction
+  - [ICLR24]BooookScore: A systematic exploration of book-length summarization in the era of LLMs
+  - [ICLR24]SuRe: Improving Open-domain Question Answering of LLMs via Summarized Retrieval
+  - [ICLR24]Lightweight Language Model Calibration for Open-ended Question Answering with Varied Answer Lengths
+  - [ICLR24]UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition
+  - [EMNLP23] GPT-RE: In-context Learning for Relation Extraction using Large Language Models
+  - [EMNLP23] Instruct and Extract: Instruction Tuning for On-Demand Information Extraction
+ 
